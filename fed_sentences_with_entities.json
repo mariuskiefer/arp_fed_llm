@@ -12,7 +12,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.54
       }
     ]
   },
@@ -25,7 +25,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.094
       }
     ]
   },
@@ -34,7 +34,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.192
       }
     ]
   },
@@ -43,7 +43,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.739
       }
     ]
   },
@@ -52,15 +52,15 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.883
       },
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": -0.883
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.883
       }
     ]
   },
@@ -69,7 +69,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.839
       }
     ]
   },
@@ -77,12 +77,12 @@
     "sentence": "Following growth of 2.5 percent last year, GDP was reported to have edged down in the  first quarter, reflecting swings in net exports that were likely driven by businesses bringing in  imports ahead of potential tariffs.",
     "entities": [
       {
-        "name": "Trade",
-        "sentiment": null
+        "name": "GDP",
+        "sentiment": 0.004
       },
       {
-        "name": "GDP",
-        "sentiment": null
+        "name": "Trade",
+        "sentiment": 0.004
       }
     ]
   },
@@ -91,7 +91,7 @@
     "entities": [
       {
         "name": "GDP",
-        "sentiment": null
+        "sentiment": 0.141
       }
     ]
   },
@@ -100,7 +100,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": -0.926
       }
     ]
   },
@@ -113,7 +113,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.003
       }
     ]
   },
@@ -126,7 +126,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.833
       }
     ]
   },
@@ -135,7 +135,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.104
       }
     ]
   },
@@ -144,7 +144,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.007
       }
     ]
   },
@@ -153,11 +153,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.886
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.886
       }
     ]
   },
@@ -166,7 +166,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.731
       }
     ]
   },
@@ -179,7 +179,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.908
       }
     ]
   },
@@ -188,7 +188,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.923
       }
     ]
   },
@@ -197,7 +197,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.928
       }
     ]
   },
@@ -206,7 +206,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.408
       }
     ]
   },
@@ -215,7 +215,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.123
       }
     ]
   },
@@ -224,11 +224,11 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.203
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.203
       }
     ]
   },
@@ -237,11 +237,11 @@
     "entities": [
       {
         "name": "Interest Rates",
-        "sentiment": null
+        "sentiment": 0.675
       },
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.675
       }
     ]
   },
@@ -250,7 +250,7 @@
     "entities": [
       {
         "name": "Congress",
-        "sentiment": null
+        "sentiment": 0.679
       }
     ]
   },
@@ -267,7 +267,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.852
       }
     ]
   },
@@ -275,20 +275,20 @@
     "sentence": "If the large increases in tariffs that have been announced are sustained, they are likely to  generate a rise in inflation, a slowdown in economic growth, and an increase in unemployment.",
     "entities": [
       {
-        "name": "Trade",
-        "sentiment": null
+        "name": "Inflation",
+        "sentiment": 0.01
       },
       {
         "name": "GDP",
-        "sentiment": null
+        "sentiment": 0.01
       },
       {
-        "name": "Inflation",
-        "sentiment": null
+        "name": "Trade",
+        "sentiment": 0.01
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.01
       }
     ]
   },
@@ -297,7 +297,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.113
       }
     ]
   },
@@ -310,7 +310,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.717
       }
     ]
   },
@@ -319,7 +319,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.468
       }
     ]
   },
@@ -328,7 +328,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.22
       }
     ]
   },
@@ -349,11 +349,11 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.682
       },
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.682
       }
     ]
   },
@@ -362,11 +362,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.837
       },
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.837
       }
     ]
   },
@@ -387,15 +387,15 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.679
       },
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.679
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.679
       }
     ]
   },
@@ -404,11 +404,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.857
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.857
       }
     ]
   },
@@ -429,11 +429,11 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": -0.45
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.45
       }
     ]
   },
@@ -477,12 +477,12 @@
     "sentence": "There have been tariffs put on, tariffs taken  off, and meanwhile there was a bill advancing in Congress.",
     "entities": [
       {
-        "name": "Congress",
-        "sentiment": null
+        "name": "Trade",
+        "sentiment": 0.589
       },
       {
-        "name": "Trade",
-        "sentiment": null
+        "name": "Congress",
+        "sentiment": 0.589
       }
     ]
   },
@@ -503,11 +503,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.892
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.892
       }
     ]
   },
@@ -528,7 +528,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.682
       }
     ]
   },
@@ -544,12 +544,12 @@
     "sentence": "So I mean, ultimately we think our policy rate is in a good place to stay as we await  further clarity on tariffs and ultimately our implications for the economy.",
     "entities": [
       {
-        "name": "Trade",
-        "sentiment": null
+        "name": "Interest Rates",
+        "sentiment": -0.475
       },
       {
-        "name": "Interest Rates",
-        "sentiment": null
+        "name": "Trade",
+        "sentiment": -0.475
       }
     ]
   },
@@ -562,7 +562,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.838
       }
     ]
   },
@@ -579,7 +579,7 @@
     "entities": [
       {
         "name": "GDP",
-        "sentiment": null
+        "sentiment": -0.546
       }
     ]
   },
@@ -588,7 +588,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.901
       }
     ]
   },
@@ -597,7 +597,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.388
       }
     ]
   },
@@ -630,7 +630,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.309
       }
     ]
   },
@@ -663,7 +663,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.635
       }
     ]
   },
@@ -676,7 +676,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.138
       }
     ]
   },
@@ -713,7 +713,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": -0.455
       }
     ]
   },
@@ -722,7 +722,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.869
       }
     ]
   },
@@ -787,7 +787,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.766
       }
     ]
   },
@@ -816,11 +816,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.035
       },
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": -0.035
       }
     ]
   },
@@ -841,11 +841,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.061
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.061
       }
     ]
   },
@@ -857,16 +857,16 @@
     "sentence": "What looks  likely, given the scope and scale of the tariffs, is that we will see the -- certainly the risk to higher  inflation, higher unemployment have increased.",
     "entities": [
       {
-        "name": "Trade",
-        "sentiment": null
+        "name": "Inflation",
+        "sentiment": -0.488
       },
       {
-        "name": "Inflation",
-        "sentiment": null
+        "name": "Trade",
+        "sentiment": -0.488
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.488
       }
     ]
   },
@@ -875,7 +875,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": -0.002
       }
     ]
   },
@@ -888,7 +888,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.784
       }
     ]
   },
@@ -901,7 +901,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.636
       }
     ]
   },
@@ -930,7 +930,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.149
       }
     ]
   },
@@ -943,7 +943,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.154
       }
     ]
   },
@@ -960,7 +960,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.176
       }
     ]
   },
@@ -969,7 +969,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.4
       }
     ]
   },
@@ -1002,15 +1002,15 @@
     "entities": [
       {
         "name": "Interest Rates",
-        "sentiment": null
+        "sentiment": 0.653
       },
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.653
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.653
       }
     ]
   },
@@ -1019,7 +1019,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.546
       }
     ]
   },
@@ -1036,7 +1036,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.487
       }
     ]
   },
@@ -1045,7 +1045,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.871
       }
     ]
   },
@@ -1054,7 +1054,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.802
       }
     ]
   },
@@ -1075,7 +1075,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.795
       }
     ]
   },
@@ -1104,11 +1104,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.392
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.392
       }
     ]
   },
@@ -1157,7 +1157,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.596
       }
     ]
   },
@@ -1170,7 +1170,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.777
       }
     ]
   },
@@ -1179,7 +1179,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.398
       }
     ]
   },
@@ -1208,11 +1208,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.822
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.822
       }
     ]
   },
@@ -1225,7 +1225,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.845
       }
     ]
   },
@@ -1238,7 +1238,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.492
       }
     ]
   },
@@ -1271,7 +1271,7 @@
     "entities": [
       {
         "name": "GDP",
-        "sentiment": null
+        "sentiment": 0.82
       }
     ]
   },
@@ -1300,11 +1300,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.18
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.18
       }
     ]
   },
@@ -1449,7 +1449,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.061
       }
     ]
   },
@@ -1470,7 +1470,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.092
       }
     ]
   },
@@ -1479,7 +1479,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.833
       }
     ]
   },
@@ -1516,7 +1516,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.658
       }
     ]
   },
@@ -1533,7 +1533,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.033
       }
     ]
   },
@@ -1546,7 +1546,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.066
       }
     ]
   },
@@ -1555,7 +1555,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": -0.613
       }
     ]
   },
@@ -1568,7 +1568,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.049
       }
     ]
   },
@@ -1605,7 +1605,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.772
       }
     ]
   },
@@ -1666,7 +1666,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.332
       }
     ]
   },
@@ -1683,7 +1683,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.83
       }
     ]
   },
@@ -1692,7 +1692,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.719
       }
     ]
   },
@@ -1701,7 +1701,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.755
       }
     ]
   },
@@ -1746,7 +1746,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": -0.39
       }
     ]
   },
@@ -1771,7 +1771,7 @@
     "entities": [
       {
         "name": "Interest Rates",
-        "sentiment": null
+        "sentiment": 0.719
       }
     ]
   },
@@ -1787,12 +1787,12 @@
     "sentence": "We see sentiment, their concerns that higher prices may be coming or things like that, but  -- so people they're worried now about inflation -- they're worried about, you know, a shock from  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 15 of 4    the tariffs.",
     "entities": [
       {
-        "name": "Trade",
-        "sentiment": null
+        "name": "Inflation",
+        "sentiment": 0.739
       },
       {
-        "name": "Inflation",
-        "sentiment": null
+        "name": "Trade",
+        "sentiment": 0.739
       }
     ]
   },
@@ -1813,11 +1813,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.082
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.082
       }
     ]
   },
@@ -1830,7 +1830,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.832
       }
     ]
   },
@@ -1843,7 +1843,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.515
       }
     ]
   },
@@ -1856,7 +1856,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.336
       }
     ]
   },
@@ -1913,7 +1913,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.866
       }
     ]
   },
@@ -1958,7 +1958,7 @@
     "entities": [
       {
         "name": "Interest Rates",
-        "sentiment": null
+        "sentiment": -0.437
       }
     ]
   },
@@ -1991,15 +1991,15 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.55
       },
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.55
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.55
       }
     ]
   },
@@ -2008,15 +2008,15 @@
     "entities": [
       {
         "name": "Interest Rates",
-        "sentiment": null
+        "sentiment": 0.748
       },
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.748
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.748
       }
     ]
   },
@@ -2045,7 +2045,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.661
       }
     ]
   },
@@ -2054,7 +2054,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.264
       }
     ]
   },
@@ -2115,7 +2115,7 @@
     "entities": [
       {
         "name": "Congress",
-        "sentiment": null
+        "sentiment": 0.614
       }
     ]
   },
@@ -2136,7 +2136,7 @@
     "entities": [
       {
         "name": "Congress",
-        "sentiment": null
+        "sentiment": 0.807
       }
     ]
   },
@@ -2149,7 +2149,7 @@
     "entities": [
       {
         "name": "Congress",
-        "sentiment": null
+        "sentiment": 0.72
       }
     ]
   },
@@ -2170,7 +2170,7 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.742
       }
     ]
   },
@@ -2195,7 +2195,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.116
       }
     ]
   },
@@ -2204,7 +2204,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.239
       }
     ]
   },
@@ -2217,7 +2217,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.039
       }
     ]
   },
@@ -2234,7 +2234,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.171
       }
     ]
   },
@@ -2243,7 +2243,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.263
       }
     ]
   },
@@ -2256,7 +2256,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.236
       }
     ]
   },
@@ -2269,11 +2269,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.577
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.577
       }
     ]
   },
@@ -2286,7 +2286,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.066
       }
     ]
   },
@@ -2299,7 +2299,7 @@
     "entities": [
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.035
       }
     ]
   },
@@ -2312,11 +2312,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.413
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.413
       }
     ]
   },
@@ -2369,7 +2369,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.164
       }
     ]
   },
@@ -2422,7 +2422,7 @@
     "entities": [
       {
         "name": "Countries",
-        "sentiment": null
+        "sentiment": 0.477
       }
     ]
   },
@@ -2439,7 +2439,7 @@
     "entities": [
       {
         "name": "Countries",
-        "sentiment": null
+        "sentiment": 0.159
       }
     ]
   },
@@ -2460,7 +2460,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.631
       }
     ]
   },
@@ -2493,7 +2493,7 @@
     "entities": [
       {
         "name": "Countries",
-        "sentiment": null
+        "sentiment": 0.017
       }
     ]
   },
@@ -2562,7 +2562,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.632
       }
     ]
   },
@@ -2587,7 +2587,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.132
       }
     ]
   },
@@ -2608,7 +2608,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.507
       }
     ]
   },
@@ -2628,12 +2628,12 @@
     "sentence": "Okay, so I mean, I think we think that the -- you know, there was a  big spike in imports, right, very big, historically large, really, and -- to beat tariffs and now that  should actually reverse so that it's -- you know, it's the difference between -- it's exports minus  imports, so -- and imports were huge and so then it conveyed a very negative contribution to U.S.  GDP -- annualized GDP in the first quarter, as we all know.",
     "entities": [
       {
-        "name": "Trade",
-        "sentiment": null
+        "name": "GDP",
+        "sentiment": 0.048
       },
       {
-        "name": "GDP",
-        "sentiment": null
+        "name": "Trade",
+        "sentiment": 0.048
       }
     ]
   },
@@ -2646,7 +2646,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": 0.009
       }
     ]
   },
@@ -2687,7 +2687,7 @@
     "entities": [
       {
         "name": "Trade",
-        "sentiment": null
+        "sentiment": -0.632
       }
     ]
   },
@@ -2716,7 +2716,7 @@
     "entities": [
       {
         "name": "GDP",
-        "sentiment": null
+        "sentiment": 0.834
       }
     ]
   },
@@ -2753,11 +2753,11 @@
     "entities": [
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.43
       },
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.43
       }
     ]
   },
@@ -2782,11 +2782,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.244
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.244
       }
     ]
   },
@@ -2807,11 +2807,11 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": -0.241
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": -0.241
       }
     ]
   },
@@ -2836,7 +2836,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.655
       }
     ]
   },
@@ -2924,12 +2924,12 @@
     "sentence": "And we have seen in the shipping data that imports  from China into the Port of Los Angeles have plunged.",
     "entities": [
       {
-        "name": "Trade",
-        "sentiment": null
+        "name": "Countries",
+        "sentiment": -0.004
       },
       {
-        "name": "Countries",
-        "sentiment": null
+        "name": "Trade",
+        "sentiment": -0.004
       }
     ]
   },
@@ -2941,16 +2941,16 @@
     "sentence": "What tools, if any, does the Fed have to ensure that prices and inflation  expectations don't get out of hand if tariffs do cause significant supply chain disruptions?",
     "entities": [
       {
-        "name": "Trade",
-        "sentiment": null
-      },
-      {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.391
       },
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.391
+      },
+      {
+        "name": "Trade",
+        "sentiment": 0.391
       }
     ]
   },
@@ -2983,7 +2983,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.674
       }
     ]
   },
@@ -2996,7 +2996,7 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.226
       }
     ]
   },
@@ -3017,7 +3017,7 @@
     "entities": [
       {
         "name": "Federal Reserve",
-        "sentiment": null
+        "sentiment": 0.886
       }
     ]
   },
@@ -3146,15 +3146,15 @@
     "entities": [
       {
         "name": "Inflation",
-        "sentiment": null
+        "sentiment": 0.721
       },
       {
         "name": "Monetary Policy",
-        "sentiment": null
+        "sentiment": 0.721
       },
       {
         "name": "Employment",
-        "sentiment": null
+        "sentiment": 0.721
       }
     ]
   },
