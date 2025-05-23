@@ -1,11 +1,21 @@
 [
   {
     "sentence": "May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 1 of 4    Transcript of Chair Powell’s Press Conference  May 7, 2025    CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Good afternoon.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "My colleagues and I remain squarely focused on  achieving our dual mandate goals of maximum employment and stable prices for the benefit of  the American people.",
@@ -18,7 +28,12 @@
   },
   {
     "sentence": "Despite heightened uncertainty, the economy is still in a solid position.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The unemployment rate remains low, and the labor market is at or near maximum employment.",
@@ -55,11 +70,11 @@
         "sentiment": -0.883
       },
       {
-        "name": "Monetary Policy",
+        "name": "Employment",
         "sentiment": -0.883
       },
       {
-        "name": "Employment",
+        "name": "Monetary Policy",
         "sentiment": -0.883
       }
     ]
@@ -77,11 +92,11 @@
     "sentence": "Following growth of 2.5 percent last year, GDP was reported to have edged down in the  first quarter, reflecting swings in net exports that were likely driven by businesses bringing in  imports ahead of potential tariffs.",
     "entities": [
       {
-        "name": "GDP",
+        "name": "Trade",
         "sentiment": 0.004
       },
       {
-        "name": "Trade",
+        "name": "GDP",
         "sentiment": 0.004
       }
     ]
@@ -106,7 +121,12 @@
   },
   {
     "sentence": "Within PDFP, growth of consumer spending moderated while  investment in equipment and intangibles rebounded from weakness in the fourth quarter.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Surveys of households and businesses, however, report a sharp decline in sentiment and elevated  uncertainty about the economic outlook, largely reflecting trade policy concerns.",
@@ -119,7 +139,12 @@
   },
   {
     "sentence": "It remains to  be seen how these developments might affect future spending and investment.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 2 of 4    In the labor market, conditions have remained solid.",
@@ -172,7 +197,12 @@
   },
   {
     "sentence": "The labor  market is not a source of significant inflationary pressures.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Inflation has eased significantly from its highs in mid-2022 but remains somewhat  elevated relative to our 2 percent longer-run goal.",
@@ -223,11 +253,11 @@
     "sentence": "Our monetary policy actions are guided by our dual mandate to promote maximum  employment and stable prices for the American people.",
     "entities": [
       {
-        "name": "Monetary Policy",
+        "name": "Employment",
         "sentiment": 0.203
       },
       {
-        "name": "Employment",
+        "name": "Monetary Policy",
         "sentiment": 0.203
       }
     ]
@@ -256,11 +286,21 @@
   },
   {
     "sentence": "The tariff increases  announced so far have been significantly larger than anticipated.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "All of these policies are still  evolving, however, and their effects on the economy remain highly uncertain.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "As economic  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 3 of 4    conditions evolve, we will continue to determine the appropriate stance of monetary policy based  on the incoming data, the outlook, and the balance of risks.",
@@ -275,15 +315,15 @@
     "sentence": "If the large increases in tariffs that have been announced are sustained, they are likely to  generate a rise in inflation, a slowdown in economic growth, and an increase in unemployment.",
     "entities": [
       {
+        "name": "Trade",
+        "sentiment": 0.01
+      },
+      {
         "name": "Inflation",
         "sentiment": 0.01
       },
       {
         "name": "GDP",
-        "sentiment": 0.01
-      },
-      {
-        "name": "Trade",
         "sentiment": 0.01
       },
       {
@@ -303,7 +343,12 @@
   },
   {
     "sentence": "It is  also possible that the inflationary effects could instead be more persistent.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Avoiding that  outcome will depend on the size of the tariff effects, on how long it takes for them to pass  through fully into prices, and, ultimately, on keeping longer-term inflation expectations well  anchored.",
@@ -334,25 +379,40 @@
   },
   {
     "sentence": "We may find ourselves in the challenging scenario in which our dual-mandate goals are  in tension.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "If that were to occur, we would consider how far the economy is from each goal, and  the potentially different time horizons over which those respective gaps would be anticipated to  close.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "For the time being, we are well positioned to wait for greater clarity before considering  any adjustments to our policy stance.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "At this meeting, the Committee continued its discussions as part of our five-year review  of our monetary policy framework.",
     "entities": [
       {
-        "name": "Monetary Policy",
+        "name": "Federal Reserve",
         "sentiment": 0.682
       },
       {
-        "name": "Federal Reserve",
+        "name": "Monetary Policy",
         "sentiment": 0.682
       }
     ]
@@ -372,21 +432,36 @@
   },
   {
     "sentence": "Our review includes outreach and public events involving a wide  range of parties, including Fed Listens events around the country and a research conference next  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 4 of 4    week.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Throughout this process, we are open to new ideas and critical feedback, and we will take  on board lessons of the last five years in determining our findings.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We intend to wrap up the  review by late summer.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The Fed has been assigned two goals for monetary policy—maximum employment and  stable prices.",
     "entities": [
       {
-        "name": "Monetary Policy",
+        "name": "Employment",
         "sentiment": 0.679
       },
       {
@@ -394,7 +469,7 @@
         "sentiment": 0.679
       },
       {
-        "name": "Employment",
+        "name": "Monetary Policy",
         "sentiment": 0.679
       }
     ]
@@ -414,64 +489,124 @@
   },
   {
     "sentence": "Our success in delivering on these goals matters to all Americans.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We understand that our  actions affect communities, families, and businesses across the country.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Everything we do is in  service to our public mission.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We at the Fed will do everything we can to achieve our maximum  employment and price stability goals.",
     "entities": [
       {
-        "name": "Federal Reserve",
+        "name": "Employment",
         "sentiment": -0.45
       },
       {
-        "name": "Employment",
+        "name": "Federal Reserve",
         "sentiment": -0.45
       }
     ]
   },
   {
     "sentence": "Thank you.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I look forward to your questions.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Steve.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "STEVE LIESMAN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Steve.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Steve Liesman, CNBC.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thank you, Mr. Chair, for taking my  question.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "A lot has happened since the last meeting.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There have been tariffs put on, tariffs taken  off, and meanwhile there was a bill advancing in Congress.",
@@ -488,15 +623,30 @@
   },
   {
     "sentence": "And I just wonder if I could press  you on the last part of your statement.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Are you any closer now to deciding which side of the  mandate is going to need urgent care first?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Well, so as we noted in our statement, post-meeting statement, we've  judged that the risks to higher employment and higher inflation have both risen.",
@@ -513,15 +663,30 @@
   },
   {
     "sentence": "And this, by the  way, of course, is compared to March.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So that's what we can say.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I don't think we can say, you  know, which way this will shake out.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I think there's a great deal of uncertainty about, for  example, where tariff policies are going to settle out, and also when they do settle out, what will  be the implications for the economy for growth and for employment?",
@@ -534,28 +699,43 @@
   },
   {
     "sentence": "And I think it's too early to  May 7,",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "2025  Chair Powell’s Press Conference  PRELIMINARY  Page 5 of 4    know that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So I mean, ultimately we think our policy rate is in a good place to stay as we await  further clarity on tariffs and ultimately our implications for the economy.",
     "entities": [
       {
-        "name": "Interest Rates",
+        "name": "Trade",
         "sentiment": -0.475
       },
       {
-        "name": "Trade",
+        "name": "Interest Rates",
         "sentiment": -0.475
       }
     ]
   },
   {
     "sentence": "STEVE LIESMAN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Hearing you describe what you're looking for in terms of being able  to make a decision, it sounded like that's a long-term process before you sound like you're going  to be comfortable, or the Committee would be comfortable to act on what the data is telling you.",
@@ -568,11 +748,21 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I don't think we know.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, I think -- look where we are today,  we have an economy that if you look through, you know, the sort of distortions in Q1 GDP,  you've still got an economy that looks like it's growing at a solid pace.",
@@ -603,27 +793,57 @@
   },
   {
     "sentence": "So, it's an economy that's been  resilient and is in good shape, and our policy is sort of modestly or moderately restrictive.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's  100 basis points less restrictive than it was last fall.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And so, we think that leaves us in a good  place to wait and see.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We don't think we need to be in a hurry.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We think we can be patient.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We're  going to be watching the data.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The data may move quickly or slowly, but we do think we're in a  good position where we are to let things evolve and become clearer in terms of what should be  the monetary policy response.",
@@ -636,27 +856,57 @@
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Nick.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "NICK TIMIRAOS.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Nick Timiraos for The Wall Street Journal.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Chair Powell, there's  naturally a lot of [inaudible] around 2021 in supply shocks.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But there are some who argue that  the current situation has notable differences, energy costs are down, housing imbalances look  nothing like they did four years ago, labor demand appears to be gradually cooling with wage  growth running below four percent.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "What do you see right now that could nourish higher  inflation beyond a rise in goods prices this year?",
@@ -669,7 +919,12 @@
   },
   {
     "sentence": "May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 6 of 4    CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I think the underlying inflation picture is good, it's what you see,  which is inflation now running a bit above two percent.",
@@ -682,31 +937,66 @@
   },
   {
     "sentence": "And we've had basically decent readings  in housing services and non-housing services, which is a big part of it.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So that part, I think is  moving along well.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But there's just so much that we don't know.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I think -- and we're in a good  position to wait and see, is the thing, we don't have to be in a hurry.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The economy is -- has been  resilient and is doing fairly well.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Our policy is well positioned, the cost of waiting to see further  are fairly low, we think.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So that's what we're doing.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And you know, we'll see the Administration  is entering into negotiations with many countries over tariffs.",
@@ -728,59 +1018,129 @@
   },
   {
     "sentence": "So, we think we'll be  learning.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I can't tell you how long it will take.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But for now, it does seem like it's a fairly clear  decision for us to wait and see and watch.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "NICK TIMIRAOS.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So when you say that you don't need to be in a hurry, does that mean  that -- could the outlook change in such a way that a change in your stance could be warranted as  soon as your next meeting?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, as I said, we're -- we are comfortable with our policy  stance.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We think the right -- we're in the right place to wait and see how things evolve.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We don't  feel like we need to be in a hurry.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We feel like it's appropriate to be patient.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And you know, when  things develop -- of course we have a record of -- we can move quickly when that's appropriate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But we think right now the appropriate thing to do is to wait and see how things evolve.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There's  so much uncertainty.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "If you talk to businesses, or market participants, or forecasters, everyone is  just waiting to see how developments play out, and then we'll be able to make",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "a better  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 7 of 4    assessment of what the appropriate path for a monetary policy is.",
@@ -793,23 +1153,48 @@
   },
   {
     "sentence": "So we're not in that place, and  you know, as that develops -- and I can't really give you a timeframe on that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Jonnelle.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "JONELLE MARTE.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Jonnelle Marte with Bloomberg.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So, many economists have been  pricing in higher odds of a recession, and several are noting that it is more difficult for the Fed to  cut rates preemptively, given the higher risks for higher inflation.",
@@ -826,15 +1211,30 @@
   },
   {
     "sentence": "So given the outlook, do you  still see a path for a soft landing, and what does that look like?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Well, let me say, I mean, so let's look back and see where we are.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So,  go through 2024 up to the day, we've had, you know, unemployment in the low fours for more  than a year, we've had inflation coming down in the -- now in the mid to low twos, and we've had  an economy growing at 2 and 1/2 percent.",
@@ -851,17 +1251,22 @@
   },
   {
     "sentence": "So that is the economy as we see it now.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "What looks  likely, given the scope and scale of the tariffs, is that we will see the -- certainly the risk to higher  inflation, higher unemployment have increased.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Trade",
         "sentiment": -0.488
       },
       {
-        "name": "Trade",
+        "name": "Inflation",
         "sentiment": -0.488
       },
       {
@@ -881,7 +1286,12 @@
   },
   {
     "sentence": "I think in the -- you  know, in our thinking we would get -- we would never -- we never do anything but keep  achieving those goals.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But what we would -- at least for the next, let's say year, we would not be  making progress toward those goals, again, if that is -- if that's the way the tariffs shake out.",
@@ -894,7 +1304,12 @@
   },
   {
     "sentence": "The  thing is, we don't know that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There's so much uncertainty about the scale, scope, timing, and  persistence of the tariffs.",
@@ -907,23 +1322,48 @@
   },
   {
     "sentence": "So that's that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "In terms of preemption, you know, I think you can look  back at the 2019 cuts, as preemptive.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I wouldn't say that what we did last fall was at all  preemptive.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "If anything, it was a little late.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But 2019 we did cut three times.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But situation was  you had a weakening economy and you had inflation at 1.6 percent.",
@@ -936,7 +1376,12 @@
   },
   {
     "sentence": "So that's a situation where  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 8 of 4    you can move preemptively.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Now we have inflation running above target.",
@@ -949,11 +1394,21 @@
   },
   {
     "sentence": "It has been above  target for four years.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's not so far above target now.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And we have an expectation conditional on  what happens that will see upward pressure on inflation.",
@@ -975,27 +1430,57 @@
   },
   {
     "sentence": "So, it makes it -- and then we've also got, you  know, forecasts of weakening in the economy and some have recession forecast.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We don't make a  -- publish a forecast about that, we don't publish a forecast that assesses how likely a recession  is; but in any case, it's not a situation where we can be preemptive, because we actually don't  know what the right response to the data will be until we see more data.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Colby.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "COLBY SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Colby Smith with The New York Times.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "How much weakness does the  Committee need to see, though, in the labor market and the economy more broadly to lower  interest rates again?",
@@ -1025,11 +1510,21 @@
   },
   {
     "sentence": "I mean, how are you making that  assessment?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, so first of all, we don't see that yet, right, we have 4.2  percent unemployment, good participation, wages behaving very well, participation, I  mentioned, at a good level.",
@@ -1060,15 +1555,30 @@
   },
   {
     "sentence": "And at the same time, we'd be looking at the other side  of the mandate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We could be in a position of having to balance those two things, which is, of  course, a very -- a difficult balancing judgment that we'd have to make.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 9 of 4    COLBY SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "On that point about balancing, I mean, you've mentioned that the  Committee would consider how far the economy is from each goal and the time it would take to  kind of get back to that point.",
@@ -1081,23 +1591,48 @@
   },
   {
     "sentence": "But what does that mean in practice?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I mean, how much of that  assessment will be rooted in a forecast versus data dependence?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It would be a combination of the two.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I mean, let's just say this is a --  this would be a complicated and challenging judgment that we would have to make if -- and this  is -- we're not in this situation, but the situation is if the two goals are intention.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So, let's say that  unemployment is moving up in an uncomfortable way and so is inflation, not the situation we're  in, hypothetically; but we would look at how far they are from the goals, how far they're  expected to be from the goals, what's the expected time to get back to their goals.",
@@ -1114,43 +1649,93 @@
   },
   {
     "sentence": "We'd look at all  those things and make a difficult judgment.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And that's in our framework.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's always been in our  thinking.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, it's -- we haven't had -- we haven't faced that question in a very long time.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And so, again, difficult judgment to make, and not one that we face today, and we may never  face it.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But you know, we have to be keeping it in our thinking now.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Edward.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "EDWARD LAWRENCE.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thank you, Edward Lawrence with Fox Business.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So we had  the CPI report that came out that showed month over month the first increase in inflation.",
@@ -1163,7 +1748,12 @@
   },
   {
     "sentence": "In  about three years, the jobs reporting said solid that we saw.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "At the same time, we have those new  tariffs that we're living under.",
@@ -1185,23 +1775,48 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, it's going to depend.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I think you have to just take a step  back and realize this is why we are where we are, is you know, we are going to need to see how  this evolves.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There are cases in which it would be appropriate for us to cut rates this year.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 10 of 4    are cases in which it wouldn't, and we just don't know.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Until we know more about how this is  going to settle out and what the economic implications are for employment, for -- and for  inflation, I couldn't confidently say that I know what the appropriate path will be.",
@@ -1218,7 +1833,12 @@
   },
   {
     "sentence": "EDWARD LAWRENCE.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So following on that, just, you know -- so then how does  President Trump calling on you personally as well as the Federal Reserve to make rate cuts affect  your decision today and affect your job difficulty?   CHAIR POWELL.",
@@ -1231,7 +1851,12 @@
   },
   {
     "sentence": "Doesn't affect our doing our job at all.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So we -- you know, we're  always going to do the same thing, which is we're going to use our tools to foster maximum  employment and price stability for the benefit of the American people.",
@@ -1244,27 +1869,57 @@
   },
   {
     "sentence": "We're always going to  consider only the economic data, the outlook, the balance of risks, and that's it, that's all we're  going to consider.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So it really doesn't affect either our job or the way we do it.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Howard.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "HOWARD SCHNEIDER.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Hi, Howard Schneider with Reuters, and thanks for the time.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I'm wondering -- I mean, given the complexity about the first quarter GDP and what lies ahead,  I'm just wondering what your intuition tells you about the underlying direction of the economy  right now.",
@@ -1277,23 +1932,48 @@
   },
   {
     "sentence": "Many of your colleagues have said they feel growth is slowing.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "If so, do you have any  sense of by how much, to what degree the slowdown may be?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "What does your gut tell you about  how things are evolving out there?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "My gut tells me that uncertainty about the path of the economy is  extremely elevated, [laughter] and that the downside risks have increased.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The risk is -- as we  pointed out in our statement, the risks of higher unemployment and higher inflation have risen,  but they haven't materialized yet.",
@@ -1310,139 +1990,309 @@
   },
   {
     "sentence": "They really haven't.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "They're not really not in the data yet, so  that -- and that tells me more than by intuition because I think it's obvious, actually, that the right  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 11 of 4    thing for us to do is that -- we're in a good place, our policy's in a very good place, and the right  thing to do is await further clarity.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And I -- you know, there's -- usually things clarify and that the  appropriate direction becomes clear, that's what usually happens, right?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Right now it's very hard  to say what that would be.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "In the meantime, the economy is doing fine.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Our policy isn't -- you  know, it's not highly restrictive.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's somewhat restrictive.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's 100 basis points less restrictive than  it was in, you know, last summer.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So, we think it's in a good place, and we think the appropriate  thing is for us to wait and see and get more clarity about the direction of the economy.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "HOWARD SCHNEIDER.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Well, let me press you on this side of the economy being fine  right now, because reading the Beige Book very closely the last time around there was a lot of,  you know, negative stuff, negative sentiment that was in there.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And I know that everybody's  looking at soft data right now.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You mentioned it yourself that the sentiment's sour.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But the Beige  Book was talking about, you know, the beginnings of layoffs in some industries, prices rising in  some places, and an awful lot of investment decisions being pushed to the sideline.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Doesn't that  point to a slowdown?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It may well.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It just hasn't shown up yet.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And you know, we all look at  all these sentiments and read many, many individual comments just to get a better feel.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And you  know, businesses and households very broadly are concerned and, you know, postponing  economic decisions of various kinds.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And yes, if that continues and nothing happens to sort of  alleviate those concerns, then you would expect that to begin to show up in economic data.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It  wouldn't maybe show up overnight, but it would show up over weeks and months.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And that may  be what happens, but it hasn't happened yet.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And also, there are things that can happen that will  change that narrative.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I mean, they haven't happened, but it's possible to imagine things.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But in  the meantime, yes, we're watching it extremely carefully like everyone is, but don't see really  May 7,",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "2025  Chair Powell’s Press Conference  PRELIMINARY  Page 12 of 4    much evidence of it in the actual economic data yet.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And by the way, consumers keep spending,  credit card spending.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's -- you know, it's still a healthy economy, albeit one that is shrouded in  some very downbeat sentiment on the part of people and businesses.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Michael.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHAEL MCKEE.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Michael McKee.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Michael McKee from Bloomberg Radio and  Television.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The Fed's been criticized recently by a former governor for what he calls \"mission  creep\", you take on more problems, use more tools, and then end up building tools to deal with  the fallout of those tools, which then makes it a given that you will act more aggressively in the  future.",
@@ -1455,15 +2305,30 @@
   },
   {
     "sentence": "Is that a fair critique, and is that something you would be looking at in your framework  review?   CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Sorry, say that critique again?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHAEL MCKEE.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "That the Fed has been involved in mission creep, gets involved in  using too many new tools to deal with problems and to go too far.",
@@ -1485,31 +2350,66 @@
   },
   {
     "sentence": "Oh, okay.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Sure.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHAEL MCKEE.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And went beyond the narrow confines of your mandate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So -- well, I mean, there are a couple -- that's not really beyond the  confines of our mandate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I -- look, I would say this, we -- you know, we did things -- essentially  we were on an emergency footing for a couple of years in the pandemic, and it's very fair and  very welcome for people to look back over what we did and say, \"Hey, you could have done this  better and differently.\"",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And one thing we hear a lot is we could have explained the QE a little  better.",
@@ -1522,11 +2422,21 @@
   },
   {
     "sentence": "We did think we were explaining it in real time.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I completely accept the thought that we  could have explained it better.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There's a lot of thinking that we went on too long with QE.",
@@ -1539,7 +2449,12 @@
   },
   {
     "sentence": "I can  May 7,",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "2025  Chair Powell’s Press Conference  PRELIMINARY  Page 13 of 4    tell you that the reason we did was we were concerned that we didn't want a tightening of -- a  sharp tightening in financial conditions at a time when we thought the economy was still  vulnerable.",
@@ -1561,7 +2476,12 @@
   },
   {
     "sentence": "And we, of course, tapered and  everything.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And then we immediately went into QT and, you know, we've -- we're down a couple  of trillion.",
@@ -1574,31 +2494,66 @@
   },
   {
     "sentence": "But I get the -- that, you know, we certainly with the benefit of hindsight could have  tapered earlier or faster.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "That's absolutely right.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But this is all very welcome.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, it's --  you know, we knew doing this in real time that we weren't going to get it perfect.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And those  kinds of, you know, after action kind of looks are essential.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And we're doing the same thing in --  you know, in our review, so -- on some issues.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHAEL MCKEE.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There -- the other part of that critique is that you've taken on topics  that are outside of the mandate, such as climate change and trying to ensure that certain groups  are benefited by your economic policies in terms of employment, et cetera.   CHAIR POWELL.",
@@ -1611,55 +2566,120 @@
   },
   {
     "sentence": "So okay on climate, you've heard me say over and over again that we  will not be climate policymakers and that our role on climate is a very, very narrow one.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And I  think that's what we've done.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We've done really very little on climate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You can say that was --  that little bit that we've done was too much, but I wouldn't want to give any impression that, you  know, we take -- that we've taken climate in and it's something that we're spending a lot of time  and energy on.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We're not.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We have very, very narrow things.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We did one thing, one guidance for  the banks and then we did one -- a one-time stress analysis, climate stress analysis, and that's it.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And you know, we dropped out of the network for being in the financial system.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So, we didn't do  much on climate, but -- and I do think -- and I've said this publicly several times, I think it's a  real danger for us to try to take on a mandate like that, which is very narrow application to our  work.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And you know, the risk is if you go for things that are really not on your mandate, you  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 14 of 4    know, then why are you independent?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, I think that's a very fair question.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And I do  think we've done a whole lot less on climate than some people seem to think we did.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Anyway,  that's what –   MICHAEL MCKEE.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Should you have taken on the question of bringing unemployment  rates down for specific categories?",
@@ -1672,11 +2692,21 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We didn't do that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, we said -- what we said was that we  never targeted any unemployment rate for individual, racial, or demographic groups.",
@@ -1707,39 +2737,84 @@
   },
   {
     "sentence": "Of course, we were never going to target on any individual group with that,  but I think some people, you know, wanted to hear it that way.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But that's not at all what we  meant.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But -- so that's just not a correct reading of our -- but I can see how, you know, maybe  people found that confusing and, you know, we have to take that into consideration.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Jo Ling.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "JO LING KENT.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Hi, Chair Powell, thanks for taking our question today.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I'm Jo Ling  Kent with CBS News.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You've said wait and see, and the economy is doing fine today.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But the  impact of tariffs are already showing up at the ports.",
@@ -1752,19 +2827,39 @@
   },
   {
     "sentence": "Businesses big and small are telling us that  they feel it, and most importantly, consumers say they feel it.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But the challenges are here.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And  there's no waiting and seeing.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "For Main Street, what is the breaking point?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "What would have to  happen to prompt a rate cut specifically?",
@@ -1777,36 +2872,61 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Well, you know, so we really don't see in the data yet big economic  effects.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We see sentiment, their concerns that higher prices may be coming or things like that, but  -- so people they're worried now about inflation -- they're worried about, you know, a shock from  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 15 of 4    the tariffs.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Trade",
         "sentiment": 0.739
       },
       {
-        "name": "Trade",
+        "name": "Inflation",
         "sentiment": 0.739
       }
     ]
   },
   {
     "sentence": "But they really haven't -- that shock hasn't hit yet.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Okay, so you know, we're going to  be looking at not just the sentiment data, but also the real economic data as we assess what it is  we should do.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And remember, we're -- there will be two effects.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "One of them would be  weakening economy, weakening economic activity which translates into higher unemployment,  and the other would be potentially higher inflation.",
@@ -1823,7 +2943,12 @@
   },
   {
     "sentence": "Again, to say it again, the timing, the scope,  the scale, and the persistence of those effects are very, very uncertain.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So, it's not at all clear what  the appropriate response for monetary policy is at this time.",
@@ -1836,7 +2961,12 @@
   },
   {
     "sentence": "And we're -- you know -- and by the  way, our policy's in a good place so we think we can wait and move when it is clear what the  right thing to do is; really not at all clear what it is we should do.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So, people are feeling stress  and concern, but unemployment hasn't gone up, job creation is fine, wages are in good shape.",
@@ -1849,7 +2979,12 @@
   },
   {
     "sentence": "You know, people are not -- layoffs are -- people are not getting laid off at high levels.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know,  initial claims for unemployment are not increasing, you know, in any kind of impressive way.",
@@ -1862,51 +2997,111 @@
   },
   {
     "sentence": "So,  the economy itself is still, you know, in solid shape.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "JO LING KENT.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Just a quick follow-up, President Trump now says he does not plan to  remove you as Chair.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "When you heard that, what did you think?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I don't have anything more for you on that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I've pretty much covered  that issue, thank you.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Chris.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHRIS RUGABER.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Hi, thank you, Chris Rugaber, Associated Press.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Well, I just wanted  to follow up.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Earlier it sounded like you said it was unclear how the Fed -- you know, what kind  of interest rate decisions you will make later this year.",
@@ -1919,39 +3114,84 @@
   },
   {
     "sentence": "So does that -- you know, in March there  was guidance that two cuts might happen, you know, two cuts were penciled in for this year.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Is  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 16 of 4    that now -- that guidance from the last press conference, has that been overtaken by events at this  point?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, we don't do a Summary of Economic Projections at every  meeting, as you know.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We do it every other meeting.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And so this was the meeting when we didn't  do it.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And I -- you know, we don't also kind of poll people, so I really wouldn't want to try to  make a specific projection for where we are relative to that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We will -- in six weeks, we have the  June meeting and you'll have another SEP.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I'm not going to hazard a guess here today what -- as  to what it would be.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Again, what I would say is that we think our policy rate is in a good place.",
@@ -1964,27 +3204,57 @@
   },
   {
     "sentence": "We think it leaves us well positioned to respond in a timely way to potential developments.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "That's where we are; and that -- depending on the way things play out, that could include rate  hikes -- sorry, rate cuts.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, it could include us holding where we are.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We just are going to  need to see, you know, how things play out before we make those decisions.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHRIS RUGABER.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Great.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And just to follow up on that, I mean, when you address the  issue of how the Fed would handle both rising unemployment and rising inflation, how are you  thinking about the fact that addressing one could exacerbate the other?",
@@ -2022,23 +3292,48 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Well, you just captured the -- this is the issue with the two goals being  in tension, it's a very challenging question.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Now, there can be a case in which one goal is very  far, one variable's very far from its goal, much farther than the other.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And if so, you concentrate  on that one.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And frankly, that was the case -- well it wasn't a case where they were really in  tension.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But if you go back to 2022, it was very clear that we needed to focus on inflation.",
@@ -2060,55 +3355,120 @@
   },
   {
     "sentence": "so it wasn't really a tradeoff.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, if -- I think you know  May 7,",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "2025  Chair Powell’s Press Conference  PRELIMINARY  Page 17 of 4    what our framework document says.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It says we'll look at how far each goal -- each variable is  from its goal and also we'll factor in the time it would take to get there.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So you know, that's going  to be a -- potentially a very difficult judgment.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But the data could break in a way that it's not.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You  know, I just don't think we know that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The data could easily favor one or the other.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And right now  there's no way to -- no need to make a choice and no real basis for doing so.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Victoria.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "VICTORIA GUIDA.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Hi, Victoria Guida with Politico.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I wanted to ask, Congress is  currently debating spending cuts alongside expending -- extending the tax cuts.",
@@ -2121,15 +3481,30 @@
   },
   {
     "sentence": "And I know  you've talked many times about how the path of the debt is unsustainable.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But given that we're  also talking right now about the economy slowing, potentially even recession, I was just  wondering is there a danger that spending cuts now could slow growth a lot more?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, we don't give Congress fiscal advice.",
@@ -2142,7 +3517,12 @@
   },
   {
     "sentence": "I -- they're going to  do -- we take what they do as a given and we put it in our models and in our assessment of the  economy, so I wouldn't want to, you know, speculate on that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I mean, I think we do know that the  debt is on an unsustainable level -- on an unsustainable path -- not on an unsustainable level, but  an unsustainable path, and it's on Congress to figure out how to get us back on a sustainable path  and, you know, it's not up to us to give them advice.",
@@ -2155,15 +3535,30 @@
   },
   {
     "sentence": "VICTORIA GUIDA.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Well, do you think that they should take macroeconomic conditions  into account as they look at this?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I think they don't need my advice and our advice on how to do fiscal  policy any more than we need their advice on monetary policy.",
@@ -2176,19 +3571,39 @@
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Andrew.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 18 of 4    ANDREW ACKERMAN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thanks, Mr. Chairman, Andrew Ackerman with The  Washington Post.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "In your Jackson Hole comments last year, you said you would not welcome  further cooling in labor market conditions.",
@@ -2210,7 +3625,12 @@
   },
   {
     "sentence": "Forecasters -- many forecasters now predict a higher jobless rate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "How has your  tolerance for weakening labor market conditions changed compared to a year ago?",
@@ -2223,11 +3643,21 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So it was quite a different situation.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "What was happening last year is  that over the space of six, eight, seven months, the unemployment rate went up by almost a full  percentage point, and it was click, click, click, click, click each month.",
@@ -2249,7 +3679,12 @@
   },
   {
     "sentence": "At the same time,  payroll job numbers were getting softer and softer.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So there was a really obvious concern about  downside risk to the labor market.",
@@ -2262,7 +3697,12 @@
   },
   {
     "sentence": "And so at Jackson Hole and then in September, you know, we  wanted to address that forthrightly.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We wanted to show that we were there for the -- I mean, we  had been there for inflation for a couple of years and we wanted to show also that we're there for  the labor market.",
@@ -2279,7 +3719,12 @@
   },
   {
     "sentence": "And it was important that we send that signal.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Fortunately, since then, the labor  market has really -- and the unemployment rate have really been moving sideways at a level that  is, you know, well in the range of mainstream estimates of maximum employment.",
@@ -2292,7 +3737,12 @@
   },
   {
     "sentence": "So that  concern has gotten a lot less.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So you know, you're at 4.2 percent unemployment.",
@@ -2305,7 +3755,12 @@
   },
   {
     "sentence": "I think we were  in a very different situation.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And now we have a situation where, you know, the risks to higher  inflation and higher unemployment have both gone up, as we noted in our statement, and we've  got to monitor both of those.",
@@ -2322,47 +3777,102 @@
   },
   {
     "sentence": "We actually have a potential situation where there may be a tradeoff  or tension between the two potentially.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We don't have it yet, and we may not have it, but that's  what we have, and that's why I think it's a very different situation.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 19 of 4    ANDREW ACKERMAN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I mean, I guess I want to follow up by asking how much of a  rise in the jobless rate you would -- you could tolerate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Yes, I can't give you a -- you know, a -- I'm not going to try to give  you a specific number.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I'll just say, we've got -- we have to now be looking at both variables and  which of them is, you know, demanding -- if one of them is demanding our focus more than the  other, that would tell us what to do with policies.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "They're more or less the -- you know, equally  distant and equally -- or not distant, then we don't have to make that assessment.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, the  assessment is you wait.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So I'm not going to try to be really specific about what we need to see in  terms of the number.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But if -- look, if we did see, you know, significant deterioration in the labor  market, of course that's one of our two variables and we would look to be able to support that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You'd hope that it wasn't also coming at a time when inflation was getting very bad.",
@@ -2375,47 +3885,102 @@
   },
   {
     "sentence": "And again,  we're speculating here.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We don't know this.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We don't know any of these things.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's very  hypothetical.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We're just going to have to wait and see how the -- how it plays out.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "ANDREW ACKERMAN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thanks.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Claire.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CLAIRE JONES.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Claire Jones, Financial Times.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "In terms of getting some clarity, we've  got some talks at the weekend in Geneva between the U.S. and China.",
@@ -2428,11 +3993,21 @@
   },
   {
     "sentence": "A lot of economists are  ask -- are attaching an awful lot of importance to how -- what we hear from those talks.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "How  much importance are you attaching to them in terms of judging what will happen to the U.S.  economy going forward?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And just in a similar vein, you know, some economists are saying it's  days, not weeks that we have until we start to put the U.S. economy at risk of seeing a sort of  pandemic here with shortages and higher prices if we don't kind of soothe relations between the  U.S. and China.",
@@ -2445,15 +4020,30 @@
   },
   {
     "sentence": "So it would be good to have your view on that, too.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 20 of 4    CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So you know, these are not talks that we're in any way involved in so  I really can't comment directly on them.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So but what I will say is this, you know, we had --  coming out of the March meeting, we -- the public generally had an assessment of where tariffs  were going and then April 2 happened and it was really substantially larger than anticipated in  the forecasts that I've seen and in our forecast.",
@@ -2466,27 +4056,57 @@
   },
   {
     "sentence": "So and now we have a different -- we're in a new  phase where -- it seems to be we're entering a new phase where the administration is entering  into beginning talks with a number of our important trading partners.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And that's -- that has the  potential to change the picture materially or not.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And so I think it's going to be very important  how that shakes out.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But I -- you know, we simply have to wait and see how it works out.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It  certainly could change the picture, and we're mindful of not trying to make conclusive judgments  about what will happen at a time when the -- you know, when the facts are changing.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CLAIRE JONES.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And just on the fallen ship and volumes from China over these  tensions, I mean, do you share that concern that we could start seeing goods shortages and higher  prices in the coming weeks if this isn't resolved very quickly?",
@@ -2499,63 +4119,138 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, I don't want to get my -- we're not -- we shouldn't be  involved even verbally in questions about the timing of these things.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Yes, we're -- of course we  follow all that data.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We see the shipping data.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We see all that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But ultimately, this is for the  administration to do.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "This is -- you know, this is their mandate, not ours.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And I know they're -- as  you can see, they're, again, having -- beginning to have talks with many nations.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And that has the  potential to change the picture materially, so we'll just have to wait and see.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Kosuke.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "KOSUKE TAKAMI.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Kosuke Takami with Nikkei.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thank you for doing this.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The volume  of imported goods increased significantly in the first quarter.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But do you think the decision could  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 21 of 4    cause a delay in the impact of tariff on inflation, and does this mean that it will take a longer time  to reduce uncertainty?",
@@ -2568,19 +4263,39 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The decision we made today?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Which decision?   KOSUKE TAKAMI.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So the future decisions.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So the volume of imports –   CHAIR POWELL.",
@@ -2593,15 +4308,30 @@
   },
   {
     "sentence": "Yes.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "KOSUKE TAKAMI.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Imported goods has increased significantly.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So the impact of the  imported inflation may delay.",
@@ -2614,32 +4344,52 @@
   },
   {
     "sentence": "So what is the impact to – Okay.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "-- your future decision?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Okay, so I mean, I think we think that the -- you know, there was a  big spike in imports, right, very big, historically large, really, and -- to beat tariffs and now that  should actually reverse so that it's -- you know, it's the difference between -- it's exports minus  imports, so -- and imports were huge and so then it conveyed a very negative contribution to U.S.  GDP -- annualized GDP in the first quarter, as we all know.",
     "entities": [
       {
-        "name": "GDP",
+        "name": "Trade",
         "sentiment": 0.048
       },
       {
-        "name": "Trade",
+        "name": "GDP",
         "sentiment": 0.048
       }
     ]
   },
   {
     "sentence": "So that could in the second quarter  be reversed so that we have, you know, an unusually large contribution to -- unusually positive.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "That's very likely as imports drop sharply.",
@@ -2652,35 +4402,75 @@
   },
   {
     "sentence": "You could also have -- you know, very likely you'll  have restatements of the -- of first quarter.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It will turn out to consumer spending was higher.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It  will turn out that inventories were higher.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And so you'll see those data revised up.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It may actually  go into the third quarter, too.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And so I think it's going -- this whole process is going to a little bit  make it harder to make a clean assessment of U.S. demand.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I mentioned private domestic final  purchases, which doesn't have inventories of government or – inventories, government.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Anyway,  it's a cleaner read on private demand, yes.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But that, too, probably was flattered a little bit by --  you know, by strong demand for imports to be tariffed.",
@@ -2693,23 +4483,48 @@
   },
   {
     "sentence": "So that might overstate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's a really good  reading, three percent PDFP in the first quarter.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "That might actually overstate.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So it's not really  going to -- I don't think it's going to affect our decisions.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I will just say, though, that it's a little  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 22 of 4    confusing and it's probably less confusing to us than it would be to the general public as we try to  explain this.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, it's complicated and, you know, GDP is sending a signal, PDFP is  sending a signal.",
@@ -2722,60 +4537,115 @@
   },
   {
     "sentence": "It's a little bit confusing.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But I think we understand what's going and it's not  really going to change things for us.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Courtenay.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "COURTENAY BROWN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thank you, Courtenay Brown from Axios.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I guess, you know,  we talked about some of the indications of potential layoffs, price hikes, an economic slowdown,  all being evident in the soft data.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I'm curious why the Fed needs to wait for that to translate into  hard data to, you know, make any type of monetary policy decision, especially if the hard data is  not as timely or might be warped by tariff-related effects.",
     "entities": [
       {
-        "name": "Monetary Policy",
+        "name": "Federal Reserve",
         "sentiment": 0.43
       },
       {
-        "name": "Federal Reserve",
+        "name": "Monetary Policy",
         "sentiment": 0.43
       }
     ]
   },
   {
     "sentence": "Are you worried that the soft data  might be some sort of false warning?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "No.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I mean, it's -- look, the -- look at the state of the economies.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "The  labor market is solid, inflation is low.",
@@ -2792,15 +4662,30 @@
   },
   {
     "sentence": "We can afford to be patient as things unfold.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There's no real  cost to our waiting at this point.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Also, the sense of it is we're not sure what the right thing will be.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, there should be some increase in inflation, there should be some increase in  unemployment.",
@@ -2817,19 +4702,39 @@
   },
   {
     "sentence": "Those call for different responses.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And so until we know -- potentially call for  different responses.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And so you know, until we know more, we have the ability to wait and see.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And it seems to be a pretty clear decision.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Everyone on the committee supported waiting.",
@@ -2842,104 +4747,213 @@
   },
   {
     "sentence": "And so  that's why we're waiting.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "COURTENAY BROWN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Just a very quick follow-up, there was this sort of vibe session,  if you will, where the sentiments expressed in soft data did not translate into the hard economic  data.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Are you -- how are you thinking about that when interpreting some of the signs in the softer  survey data?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 23 of 4    CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, I think going back a number of years, the link between  sentiment data and consumer spending has been weak.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's not been a strong link at all.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "On the  other hand, we haven't had a move of this, you know, speed and size.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So it wouldn't be the case  that we're looking at this and just completely dismissing it.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But it's another reason to wait and  see.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You're right that we had a couple of years during the pandemic where people were saying --  just very downbeat surveys and going out and spending money.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So that can happen and that may  happen to some degree here.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We just don't know.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "This is an outsized change in sentiment, though,  and so none of us are looking at this and saying that we're sure one way or the other.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We're not.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Matt.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MATT EGAN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thanks, Chair Powell, Matt Egan with CNN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So you mentioned earlier  that you're monitoring the shipping data.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And we have seen in the shipping data that imports  from China into the Port of Los Angeles have plunged.",
     "entities": [
       {
-        "name": "Countries",
+        "name": "Trade",
         "sentiment": -0.004
       },
       {
-        "name": "Trade",
+        "name": "Countries",
         "sentiment": -0.004
       }
     ]
   },
   {
     "sentence": "And that has raised concerns about  potential shortages.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "What tools, if any, does the Fed have to ensure that prices and inflation  expectations don't get out of hand if tariffs do cause significant supply chain disruptions?",
     "entities": [
+      {
+        "name": "Trade",
+        "sentiment": 0.391
+      },
       {
         "name": "Inflation",
         "sentiment": 0.391
@@ -2947,36 +4961,62 @@
       {
         "name": "Federal Reserve",
         "sentiment": 0.391
-      },
-      {
-        "name": "Trade",
-        "sentiment": 0.391
       }
     ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I mean, we don't have, you know, the kind of tools that are good at  dealing with supply chain problems.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "We don't have that at all.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "That's a job for the administration  and for the private sector more than anything.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, what we can do with our interest rate  tool is we can support -- be more or less supportive of demand.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And that's -- that would be a very  inefficient way to try to fix supply chain problems.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But you know, we don't see the inflation yet.",
@@ -2989,7 +5029,12 @@
   },
   {
     "sentence": "We're of course reading the same stories and watching the same data as everybody else.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And you  know, right now we see inflation, you know, kind of moving sideways at a fairly low level.",
@@ -3002,15 +5047,30 @@
   },
   {
     "sentence": "MATT EGAN.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "If I can follow up on that, President Trump has indicated that he will  likely name a replacement for you when your term as Chair expires next year.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But your position  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 24 of 4    on the Board runs through January 2028, I believe.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Would you consider remaining on the Fed  Board even if you're no longer Chair?",
@@ -3023,123 +5083,273 @@
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So I don't have anything for you on that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "My whole focus is on -- and  my colleagues' focus is all on, you know, trying to navigate this tricky passage we're in right  now, trying to make the right decisions.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "You know, we want to make the best decisions for the  people that we serve.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "That's what we think about day and night.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And this is a challenging  situation, and that's 100 percent of our focus right now.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "MICHELLE SMITH.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Let's go to Jennifer for the last question.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "JENNIFER SCHONBERGER.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thank you so much, Chair Powell, Jennifer Schonberger  with Yahoo Finance.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Public records of your schedule so far this year show no meetings with  President Trump.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Past Presidents Obama, Bush, and Clinton have all met with Fed chairs.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And  you met with Trump during his first term.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Why haven't you asked for a meeting yet with the  President?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I've never asked for a meeting with any President; and I never will.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's not -- I wouldn't do that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "There's never a reason for me to ask for a meeting.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's always been  the other way.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "JENNIFER SCHONBERGER.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So would you want to meet with him if given the  opportunity –   CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I have never -- --  JENNIFER SCHONBERGER.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "To get more information?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "CHAIR POWELL.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I never -- it's never an initiative that I take.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's always an initiative -- I  -- you know, I don't think it's up to a Fed chair to seek a meeting with the President, although  maybe some have done so.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "I've never done so, and I can't imagine myself doing that.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "It's -- I  May 7, 2025  Chair Powell’s Press Conference  PRELIMINARY  Page 25 of 4    think it's always -- comes the other way, a President wants to meet with you.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "But that hasn't  happened.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "JENNIFER SCHONBERGER.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And if I could just ask one question on monetary policy;  when it is time to cut rates, how will you determine how far down rates will have to come to try  to keep a balance on the inflation mandate as employment weakens?   CHAIR POWELL.",
@@ -3149,29 +5359,49 @@
         "sentiment": 0.721
       },
       {
-        "name": "Monetary Policy",
+        "name": "Employment",
         "sentiment": 0.721
       },
       {
-        "name": "Employment",
+        "name": "Monetary Policy",
         "sentiment": 0.721
       }
     ]
   },
   {
     "sentence": "You know, I think once you have a direction -- a clear direction, you  can make a -- we can make judgment about how fast to move and that kind of thing.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "So it's really  the harder question is the timing, I think, and when will that become clear?",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "And fortunately, as I  mentioned, we have our policy in a good place, the economy's in a good place, and it's really  appropriate, we think, for us to be patient and wait for things to unfold as we get more clarity  about what we should do.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   },
   {
     "sentence": "Thanks very much.",
-    "entities": []
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ]
   }
 ]
