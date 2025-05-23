@@ -74,7 +74,7 @@ def main(pdf_path, output_json_path):
             sentiment_score = get_sentiment_score(sentence_text, tokenizer, model)
             entities = [{"name": e, "sentiment": sentiment_score} for e in matched_entities]
         else:
-            entities = []
+            entities = [{"name": "", "sentiment": ""}]
 
         output.append({
             "sentence": sentence_text,
