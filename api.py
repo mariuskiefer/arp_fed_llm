@@ -14,4 +14,6 @@ response = client.chat.completions.create(
     stream=False
 )
 
+# comment
+
 print(response.choices[0].message.content)
