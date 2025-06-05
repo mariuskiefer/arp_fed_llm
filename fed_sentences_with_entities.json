@@ -66,15 +66,15 @@
     "sentence": "The risks of higher unemployment and higher inflation appear to  have risen, and we believe that the current stance of monetary policy leaves us well positioned to  respond in a timely way to potential economic developments.",
     "entities": [
       {
-        "name": "Inflation",
-        "sentiment": -0.883
-      },
-      {
         "name": "Employment",
         "sentiment": -0.883
       },
       {
         "name": "Monetary Policy",
+        "sentiment": -0.883
+      },
+      {
+        "name": "Inflation",
         "sentiment": -0.883
       }
     ]
@@ -92,11 +92,11 @@
     "sentence": "Following growth of 2.5 percent last year, GDP was reported to have edged down in the  first quarter, reflecting swings in net exports that were likely driven by businesses bringing in  imports ahead of potential tariffs.",
     "entities": [
       {
-        "name": "Trade",
+        "name": "GDP",
         "sentiment": 0.004
       },
       {
-        "name": "GDP",
+        "name": "Trade",
         "sentiment": 0.004
       }
     ]
@@ -177,11 +177,11 @@
     "sentence": "Wage growth has continued to moderate  while still outpacing inflation.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": -0.886
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": -0.886
       }
     ]
@@ -315,11 +315,11 @@
     "sentence": "If the large increases in tariffs that have been announced are sustained, they are likely to  generate a rise in inflation, a slowdown in economic growth, and an increase in unemployment.",
     "entities": [
       {
-        "name": "Trade",
+        "name": "Employment",
         "sentiment": 0.01
       },
       {
-        "name": "Inflation",
+        "name": "Trade",
         "sentiment": 0.01
       },
       {
@@ -327,7 +327,7 @@
         "sentiment": 0.01
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.01
       }
     ]
@@ -421,11 +421,11 @@
     "sentence": "We focused on inflation dynamics and the implications for  our monetary policy strategy.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Monetary Policy",
         "sentiment": 0.837
       },
       {
-        "name": "Monetary Policy",
+        "name": "Inflation",
         "sentiment": 0.837
       }
     ]
@@ -478,11 +478,11 @@
     "sentence": "We remain committed to supporting maximum employment, bringing inflation  sustainably to our 2 percent goal, and keeping longer-term inflation expectations well anchored.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": -0.857
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": -0.857
       }
     ]
@@ -652,11 +652,11 @@
     "sentence": "Well, so as we noted in our statement, post-meeting statement, we've  judged that the risks to higher employment and higher inflation have both risen.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": -0.892
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": -0.892
       }
     ]
@@ -719,11 +719,11 @@
     "sentence": "So I mean, ultimately we think our policy rate is in a good place to stay as we await  further clarity on tariffs and ultimately our implications for the economy.",
     "entities": [
       {
-        "name": "Trade",
+        "name": "Interest Rates",
         "sentiment": -0.475
       },
       {
-        "name": "Interest Rates",
+        "name": "Trade",
         "sentiment": -0.475
       }
     ]
@@ -1200,11 +1200,11 @@
     "sentence": "So, many economists have been  pricing in higher odds of a recession, and several are noting that it is more difficult for the Fed to  cut rates preemptively, given the higher risks for higher inflation.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Federal Reserve",
         "sentiment": -0.035
       },
       {
-        "name": "Federal Reserve",
+        "name": "Inflation",
         "sentiment": -0.035
       }
     ]
@@ -1240,11 +1240,11 @@
     "sentence": "So,  go through 2024 up to the day, we've had, you know, unemployment in the low fours for more  than a year, we've had inflation coming down in the -- now in the mid to low twos, and we've had  an economy growing at 2 and 1/2 percent.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": 0.061
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.061
       }
     ]
@@ -1262,15 +1262,15 @@
     "sentence": "What looks  likely, given the scope and scale of the tariffs, is that we will see the -- certainly the risk to higher  inflation, higher unemployment have increased.",
     "entities": [
       {
+        "name": "Employment",
+        "sentiment": -0.488
+      },
+      {
         "name": "Trade",
         "sentiment": -0.488
       },
       {
         "name": "Inflation",
-        "sentiment": -0.488
-      },
-      {
-        "name": "Employment",
         "sentiment": -0.488
       }
     ]
@@ -1486,15 +1486,15 @@
     "sentence": "How much weakness does the  Committee need to see, though, in the labor market and the economy more broadly to lower  interest rates again?",
     "entities": [
       {
+        "name": "Employment",
+        "sentiment": 0.653
+      },
+      {
         "name": "Interest Rates",
         "sentiment": 0.653
       },
       {
         "name": "Federal Reserve",
-        "sentiment": 0.653
-      },
-      {
-        "name": "Employment",
         "sentiment": 0.653
       }
     ]
@@ -1638,11 +1638,11 @@
     "sentence": "So, let's say that  unemployment is moving up in an uncomfortable way and so is inflation, not the situation we're  in, hypothetically; but we would look at how far they are from the goals, how far they're  expected to be from the goals, what's the expected time to get back to their goals.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": 0.392
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.392
       }
     ]
@@ -1822,11 +1822,11 @@
     "sentence": "Until we know more about how this is  going to settle out and what the economic implications are for employment, for -- and for  inflation, I couldn't confidently say that I know what the appropriate path will be.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": 0.822
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.822
       }
     ]
@@ -1979,11 +1979,11 @@
     "sentence": "The risk is -- as we  pointed out in our statement, the risks of higher unemployment and higher inflation have risen,  but they haven't materialized yet.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": 0.18
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.18
       }
     ]
@@ -2932,11 +2932,11 @@
     "sentence": "One of them would be  weakening economy, weakening economic activity which translates into higher unemployment,  and the other would be potentially higher inflation.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": 0.082
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.082
       }
     ]
@@ -3260,7 +3260,7 @@
     "sentence": "And just to follow up on that, I mean, when you address the  issue of how the Fed would handle both rising unemployment and rising inflation, how are you  thinking about the fact that addressing one could exacerbate the other?",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": 0.55
       },
       {
@@ -3268,7 +3268,7 @@
         "sentiment": 0.55
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.55
       }
     ]
@@ -3277,15 +3277,15 @@
     "sentence": "So a rate cut to reduce  unemployment could worsen inflation and vice versa, how does that -- how do you handle those  challenges?",
     "entities": [
       {
+        "name": "Employment",
+        "sentiment": 0.748
+      },
+      {
         "name": "Interest Rates",
         "sentiment": 0.748
       },
       {
         "name": "Inflation",
-        "sentiment": 0.748
-      },
-      {
-        "name": "Employment",
         "sentiment": 0.748
       }
     ]
@@ -3708,11 +3708,11 @@
     "sentence": "We wanted to show that we were there for the -- I mean, we  had been there for inflation for a couple of years and we wanted to show also that we're there for  the labor market.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": 0.577
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.577
       }
     ]
@@ -3766,11 +3766,11 @@
     "sentence": "And now we have a situation where, you know, the risks to higher  inflation and higher unemployment have both gone up, as we noted in our statement, and we've  got to monitor both of those.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": -0.413
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": -0.413
       }
     ]
@@ -4373,11 +4373,11 @@
     "sentence": "Okay, so I mean, I think we think that the -- you know, there was a  big spike in imports, right, very big, historically large, really, and -- to beat tariffs and now that  should actually reverse so that it's -- you know, it's the difference between -- it's exports minus  imports, so -- and imports were huge and so then it conveyed a very negative contribution to U.S.  GDP -- annualized GDP in the first quarter, as we all know.",
     "entities": [
       {
-        "name": "Trade",
+        "name": "GDP",
         "sentiment": 0.048
       },
       {
-        "name": "GDP",
+        "name": "Trade",
         "sentiment": 0.048
       }
     ]
@@ -4651,11 +4651,11 @@
     "sentence": "The  labor market is solid, inflation is low.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": 0.244
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": 0.244
       }
     ]
@@ -4691,11 +4691,11 @@
     "sentence": "You know, there should be some increase in inflation, there should be some increase in  unemployment.",
     "entities": [
       {
-        "name": "Inflation",
+        "name": "Employment",
         "sentiment": -0.241
       },
       {
-        "name": "Employment",
+        "name": "Inflation",
         "sentiment": -0.241
       }
     ]
@@ -4929,11 +4929,11 @@
     "sentence": "And we have seen in the shipping data that imports  from China into the Port of Los Angeles have plunged.",
     "entities": [
       {
-        "name": "Trade",
+        "name": "Countries",
         "sentiment": -0.004
       },
       {
-        "name": "Countries",
+        "name": "Trade",
         "sentiment": -0.004
       }
     ]
@@ -4955,11 +4955,11 @@
         "sentiment": 0.391
       },
       {
-        "name": "Inflation",
+        "name": "Federal Reserve",
         "sentiment": 0.391
       },
       {
-        "name": "Federal Reserve",
+        "name": "Inflation",
         "sentiment": 0.391
       }
     ]
@@ -5355,15 +5355,15 @@
     "sentence": "And if I could just ask one question on monetary policy;  when it is time to cut rates, how will you determine how far down rates will have to come to try  to keep a balance on the inflation mandate as employment weakens?   CHAIR POWELL.",
     "entities": [
       {
-        "name": "Inflation",
-        "sentiment": 0.721
-      },
-      {
         "name": "Employment",
         "sentiment": 0.721
       },
       {
         "name": "Monetary Policy",
+        "sentiment": 0.721
+      },
+      {
+        "name": "Inflation",
         "sentiment": 0.721
       }
     ]
