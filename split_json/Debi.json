@@ -1,0 +1,3502 @@
+[
+  {
+    "sentence": "Many participants highlighted that the Committee  needed to continue to balance two risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.575
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "One risk was  that an insufficiently restrictive monetary policy could  cause inflation to remain above the Committee’s target  for longer than anticipated, leading to unanchored infla- tion expectations and eroding the purchasing power of  households, especially for those already facing difficulty  making ends meet.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.017
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.042
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.022
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The other risk was that the lagged  cumulative effect of policy tightening could end up be- ing more restrictive than is necessary to bring down in- flation to 2 percent and lead to an unnecessary reduction  in economic activity, potentially placing the largest bur- dens on the most vulnerable groups of the population.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.16
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.007
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants generally indicated that upside risks to the  inflation outlook remained a key factor shaping the out- look for policy.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.425
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A couple of participants noted that risks  to the inflation outlook were becoming more balanced.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.745
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants generally observed that maintaining a re- strictive policy stance for a sustained period until infla- tion is clearly on a path toward 2 percent is appropriate  from a risk-management perspective.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Committee Policy Action",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.892
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In their discussion of monetary policy for this meeting,  members agreed that recent indicators pointed to mod- est growth in spending and production.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.351
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Members also  concurred that job gains had been robust in recent  months, and the unemployment rate had remained low.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.907
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": -0.283
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Members agreed that inflation had remained elevated,  reflecting supply and demand imbalances related to the  pandemic, higher food and energy prices, and broader  price pressures.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.198
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Members observed that Russia’s war against Ukraine  was causing tremendous human and economic hardship.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "They also agreed that the war and related events were  contributing to upward pressure on inflation and were  weighing on global economic activity.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.031
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.012
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Members con- curred that they remained highly attentive to inflation  risks.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.857
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Members agreed that the Committee seeks to achieve  maximum employment and inflation at the rate of 2 per- cent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.405
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.107
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.297
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In support of these goals,  members agreed to raise the target range for the federal  funds rate to 4¼ to 4½ percent.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Members anticipated  that ongoing increases in the target range would be ap- propriate in order to attain a stance of monetary policy  that is sufficiently restrictive to return inflation to 2 per- cent over time.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.152
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.627
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Members agreed that, in determining the  pace of future increases in the target range, they would  take into account the cumulative tightening of monetary  policy, the lags with which monetary policy affects eco- nomic activity and inflation, and economic and financial  developments.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.918
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.888
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In addition, members agreed that they  would continue reducing the Federal Reserve’s holdings  of Treasury securities and agency debt and agency mort- gage-backed securities, as described in the Plans for Re- ducing the Size of the Federal Reserve's Balance Sheet  that were issued in May.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.307
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "All members affirmed that the  Committee is strongly committed to returning inflation  to its 2 percent objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.72
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.498
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Members agreed that, in assessing the appropriate stance  of monetary policy, they would continue to monitor the  implications of incoming information for the economic  outlook.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.655
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "They would be prepared to adjust the stance of  monetary policy as appropriate if risks emerge that could  impede the attainment of the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.083
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.808
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Mem- bers agreed that their assessments will take into account  a wide range of information, including readings on pub- lic health, labor market conditions, inflation pressures  and inflation expectations, and financial and interna- tional developments.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.894
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "At the conclusion of the discussion, the Committee  voted to authorize and direct the Federal Reserve Bank  of New York, until instructed otherwise, to execute  transactions in the SOMA in accordance with the fol- lowing domestic policy directive, for release at 2:00 p.m.:",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.801
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "“Effective December 15, 2022, the Federal  Open Market Committee directs the Desk to:  •  Undertake open market operations as nec- essary to maintain the federal funds rate in  a target range of 4¼ to 4½ percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.814
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.674
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Conduct overnight repurchase agreement  operations with a minimum bid rate of  4.5 percent and with an aggregate operation  limit of $500 billion; the aggregate opera- tion limit can be temporarily increased at  the discretion of the Chair.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Conduct overnight reverse repurchase  agreement operations at an offering rate of  4.3 percent and with a per-counterparty  limit of $160 billion per day; the   per-counterparty limit can be temporarily  increased at the discretion of the Chair.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Page 10 Federal Open Market Committee _____________________________________________________________________________________________     •  Roll over at auction the amount of principal  payments from the Federal Reserve’s hold- ings of Treasury securities maturing in each  calendar month that exceeds a cap of  $60 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.869
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Redeem Treasury  coupon securities up to this monthly cap  and Treasury bills to the extent that coupon  principal payments are less than the  monthly cap.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Reinvest into agency mortgage-backed se- curities (MBS) the amount of principal pay- ments from the Federal Reserve’s holdings  of agency debt and agency MBS received in  each calendar month that exceeds a cap of  $35 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.915
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "•  Allow modest deviations from stated  amounts for reinvestments, if needed for  operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Engage in dollar roll and coupon swap  transactions as necessary to facilitate settle- ment of the Federal Reserve’s agency MBS  transactions.”",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.86
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The vote also encompassed approval of the statement  below for release at 2:00 p.m.:",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "“Recent indicators point to modest growth in  spending and production.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Job gains have been  robust in recent months, and the unemploy- ment rate has remained low.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.915
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Inflation remains  elevated, reflecting supply and demand imbal- ances related to the pandemic, higher food and  energy prices, and broader price pressures.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.198
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Russia’s war against Ukraine is causing tremen- dous human and economic hardship.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The war  and related events are contributing to upward  pressure on inflation and are weighing on global  economic activity.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.029
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.042
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The Committee is highly at- tentive to inflation risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.561
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.561
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum em- ployment and inflation at the rate of 2 percent  over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.504
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.345
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In support of these goals,  the Committee decided to raise the target range  for the federal funds rate to 4¼ to 4½ percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.263
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.583
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The Committee anticipates that ongoing in- creases in the target range will be appropriate in    5 In taking this action, the Board approved requests to estab- lish that rate submitted by the Boards of Directors of the Fed- order to attain a stance of monetary policy that  is sufficiently restrictive to return inflation to  2 percent over time.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.062
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.103
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.149
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In determining the pace of  future increases in the target range, the Com- mittee will take into account the cumulative  tightening of monetary policy, the lags with  which monetary policy affects economic activity  and inflation, and economic and financial devel- opments.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.902
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.888
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.64
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In addition, the Committee will con- tinue reducing its holdings of Treasury securi- ties and agency debt and agency mortgage- backed securities, as described in the Plans for  Reducing the Size of the Federal Reserve’s Bal- ance Sheet that were issued in May.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.372
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The Com- mittee is strongly committed to returning infla- tion to its 2 percent objective.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary  policy, the Committee will continue to monitor  the implications of incoming information for  the economic outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.824
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.891
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The Committee would  be prepared to adjust the stance of monetary  policy as appropriate if risks emerge that could  impede the attainment of the Committee’s  goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take  into account a wide range of information, in- cluding readings on public health, labor market  conditions, inflation pressures and inflation ex- pectations, and financial and international de- velopments.”",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.757
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.885
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Voting for this action:  Jerome H. Powell, John C.  Williams, Michael S. Barr, Michelle W. Bowman, Lael  Brainard, James Bullard, Susan M. Collins, Lisa D. Cook,  Esther L. George, Philip N. Jefferson, Loretta J. Mester,  and Christopher J. Waller.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Voting against this action:  None.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "To support the Committee’s decision to raise the target  range for the federal funds rate, the Board of Governors  of the Federal Reserve System voted unanimously to  raise the interest rate paid on reserve balances to 4.4 per- cent, effective December 15, 2022.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.005
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.726
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The Board of Gov- ernors of the Federal Reserve System voted unanimously  to approve a ½ percentage point increase in the primary  credit rate to 4.5 percent, effective December 15, 2022.5   It was agreed that the next meeting of the Committee  would be held on Tuesday–Wednesday, January 31– eral Reserve Banks of Boston, New York, Philadelphia, Cleve- land, Richmond, Atlanta, Chicago, St. Louis, Minneapolis,  Kansas City, Dallas, and San Francisco.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.923
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Minutes of the Meeting of December 13–14, 2022 Page 11 _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "February 1, 2023.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The meeting adjourned at 10:35 a.m.  on December 14, 2022.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Notation Vote  By notation vote completed on November 22, 2022, the  Committee unanimously approved the minutes of the  Committee meeting held on November 1–2, 2022.      _______________________",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.681
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "James A. Clouse  Secretary  Page 12 Federal Open Market Committee _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EDT                                  May 7, 2025",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Although swings in net exports have affected the data, recent indicators suggest that  economic activity has continued to expand at a solid pace.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": -0.328
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.928
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "The unemployment rate has stabilized  at a low level in recent months, and labor market conditions remain solid.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": -0.019
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Inflation remains  somewhat elevated.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.72
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum employment and inflation at the rate of  2 percent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.597
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.66
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.648
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Uncertainty about the economic outlook has increased further.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.007
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "The  Committee is attentive to the risks to both sides of its dual mandate and judges that the risks of  higher unemployment and higher inflation have risen.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.534
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.298
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": -0.593
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "In support of its goals, the Committee decided to maintain the target range for the federal  funds rate at 4-1/4 to 4-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.684
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "In considering the extent and timing of additional  adjustments to the target range for the federal funds rate, the Committee will carefully assess  incoming data, the evolving outlook, and the balance of risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.851
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.869
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "The Committee will continue  reducing its holdings of Treasury securities and agency debt and agency mortgage‑backed  securities.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.196
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "The Committee is strongly committed to supporting maximum employment and  returning inflation to its 2 percent objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.226
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.18
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.373
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary policy, the Committee will continue to  monitor the implications of incoming information for the economic outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.831
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.785
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.891
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "The Committee  would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that  could impede the attainment of the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.82
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take  (more)  -2-  into account a wide range of information, including readings on labor market conditions,  inflation pressures and inflation expectations, and financial and international developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.825
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.885
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,  Vice Chair; Michael S. Barr; Michelle W. Bowman; Susan M. Collins; Lisa D. Cook; Austan D.  Goolsbee; Philip N. Jefferson; Neel Kashkari; Adriana D. Kugler; Alberto G. Musalem; and  Christopher J. Waller.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.847
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Neel Kashkari voted as an alternate member at this meeting.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "-0-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Attachment  For media inquiries, please email media@frb.gov or call 202-452-2955.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EDT                                     May 7, 2025     Decisions Regarding Monetary Policy Implementation",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.901
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "The Federal Reserve has made the following decisions to implement the monetary policy stance  announced by the Federal Open Market Committee in its statement on May 7, 2025:  •  The Board of Governors of the Federal Reserve System voted unanimously to maintain the  interest rate paid on reserve balances at 4.4 percent, effective May 8, 2025.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.873
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.842
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to direct the Open  Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to  execute transactions in the System Open Market Account in accordance with the following  domestic policy directive:  \"Effective May 8, 2025, the Federal Open Market Committee directs the Desk to:  o Undertake open market operations as necessary to maintain the federal funds rate  in a target range of 4-1/4 to 4-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.876
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.758
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight repurchase agreement operations with a minimum bid  rate of 4.5 percent and with an aggregate operation limit of $500 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight reverse repurchase agreement operations at an  offering rate of 4.25 percent and with a per-counterparty limit of $160 billion per  day.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction the amount of principal payments from the Federal Reserve's  holdings of Treasury securities maturing in each calendar month that exceeds a  cap of $5 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.916
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "Redeem Treasury coupon securities up to this  monthly cap and Treasury bills to the extent that coupon principal payments are  less than the monthly cap.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "o Reinvest the amount of principal payments from the Federal Reserve's holdings of  agency debt and agency mortgage-backed securities (MBS) received in each  calendar month that exceeds a cap of $35 billion per month into Treasury  securities to roughly match the maturity composition of Treasury securities  outstanding.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.871
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "o Allow modest deviations from stated amounts for reinvestments, if needed for  operational reasons.\"",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "In a related action, the Board of Governors of the Federal Reserve System voted  unanimously to approve the establishment of the primary credit rate at the existing level  of 4.5 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.226
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "(more)  -2-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "This information will be updated as appropriate to reflect decisions of the Federal Open Market  Committee or the Board of Governors regarding details of the Federal Reserve's operational tools  and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on the  Federal Reserve Bank of New York's website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      }
+    ],
+    "document_id": "monetary20250507a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EST                     January 29, 2025        Recent indicators suggest that economic activity has continued to expand at a solid pace.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.923
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The unemployment rate has stabilized at a low level in recent months, and labor market  conditions remain solid.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": -0.023
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "Inflation remains somewhat elevated.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.72
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum employment and inflation at the rate of  2 percent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.597
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.66
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.648
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The Committee judges that the risks to achieving its employment  and inflation goals are roughly in balance.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.627
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.167
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.281
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The economic outlook is uncertain, and the  Committee is attentive to the risks to both sides of its dual mandate.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.58
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.565
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "In support of its goals, the Committee decided to maintain the target range for the federal  funds rate at 4-1/4 to 4-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.684
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "In considering the extent and timing of additional  adjustments to the target range for the federal funds rate, the Committee will carefully assess  incoming data, the evolving outlook, and the balance of risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.851
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.869
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The Committee will continue  reducing its holdings of Treasury securities and agency debt and agency mortgage‑backed  securities.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.196
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The Committee is strongly committed to supporting maximum employment and  returning inflation to its 2 percent objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.226
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.18
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.373
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary policy, the Committee will continue to  monitor the implications of incoming information for the economic outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.831
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.785
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.891
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The Committee  would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that  could impede the attainment of the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.82
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take  into account a wide range of information, including readings on labor market conditions,  (more)  -2-  inflation pressures and inflation expectations, and financial and international developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.757
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.888
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,  Vice Chair; Michael S. Barr; Michelle W. Bowman; Susan M. Collins; Lisa D. Cook; Austan D.  Goolsbee; Philip N. Jefferson; Adriana D. Kugler; Alberto G. Musalem; Jeffrey R. Schmid; and  Christopher J. Waller.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.847
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "-0-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "Attachment  For media inquiries, please email media@frb.gov or call 202-452-2955.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EST                         January 29, 2025     Decisions Regarding Monetary Policy Implementation",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.905
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "The Federal Reserve has made the following decisions to implement the monetary policy stance  announced by the Federal Open Market Committee in its statement on January 29, 2025:  •  The Board of Governors of the Federal Reserve System voted unanimously to maintain the  interest rate paid on reserve balances at 4.4 percent, effective January 30, 2025.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.825
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.842
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to direct the Open  Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to  execute transactions in the System Open Market Account in accordance with the following  domestic policy directive:  \"Effective January 30, 2025, the Federal Open Market Committee directs the Desk to:  o Undertake open market operations as necessary to maintain the federal funds rate  in a target range of 4-1/4 to 4-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.876
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.758
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight repurchase agreement operations with a minimum bid  rate of 4.5 percent and with an aggregate operation limit of $500 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight reverse repurchase agreement operations at an  offering rate of 4.25 percent and with a per-counterparty limit of $160 billion per  day.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction the amount of principal payments from the Federal Reserve's  holdings of Treasury securities maturing in each calendar month that exceeds a  cap of $25 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.916
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "Redeem Treasury coupon securities up to this  monthly cap and Treasury bills to the extent that coupon principal payments are  less than the monthly cap.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "o Reinvest the amount of principal payments from the Federal Reserve's holdings of  agency debt and agency mortgage-backed securities (MBS) received in each  calendar month that exceeds a cap of $35 billion per month into Treasury  securities to roughly match the maturity composition of Treasury securities  outstanding.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.871
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "o Allow modest deviations from stated amounts for reinvestments, if needed for  operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "o Engage in dollar roll and coupon swap transactions as necessary to facilitate  settlement of the Federal Reserve's agency MBS transactions.\"",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.84
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "In a related action, the Board of Governors of the Federal Reserve System voted  unanimously to approve the establishment of the primary credit rate at the existing level  of 4.5 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.226
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "(more)    -2-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "This information will be updated as appropriate to reflect decisions of the Federal Open Market  Committee or the Board of Governors regarding details of the Federal Reserve's operational tools  and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on the  Federal Reserve Bank of New York's website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      }
+    ],
+    "document_id": "monetary20250129a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EST                         December 13, 2023        Recent indicators suggest that growth of economic activity has slowed from its strong  pace in the third quarter.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.006
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "Job gains have moderated since earlier in the year but remain strong,  and the unemployment rate has remained low.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.732
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": -0.031
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "Inflation has eased over the past year but remains  elevated.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.613
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The U.S. banking system is sound and resilient.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "Tighter financial and credit conditions  for households and businesses are likely to weigh on economic activity, hiring, and inflation.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.199
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.065
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The extent of these effects remains uncertain.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The Committee remains highly attentive to  inflation risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.305
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.305
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum employment and inflation at the rate of  2 percent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.597
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.66
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.648
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "In support of these goals, the Committee decided to maintain the  target range for the federal funds rate at 5-1/4 to 5-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.636
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.846
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The Committee will continue to  assess additional information and its implications for monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.735
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.902
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "In determining the extent  of any additional policy firming that may be appropriate to return inflation to 2 percent over  time, the Committee will take into account the cumulative tightening of monetary policy, the lags  with which monetary policy affects economic activity and inflation, and economic and financial  developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.783
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.158
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.887
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.597
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "In addition, the Committee will continue reducing its holdings of Treasury  securities and agency debt and agency mortgage-backed securities, as described in its previously  announced plans.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.462
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The Committee is strongly committed to returning inflation to its 2 percent  objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.468
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.498
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "(more)  -2-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary policy, the Committee will continue to  monitor the implications of incoming information for the economic outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.831
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.785
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.891
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The Committee  would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that  could impede the attainment of the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.82
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take  into account a wide range of information, including readings on labor market conditions,  inflation pressures and inflation expectations, and financial and international developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.757
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.885
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,  Vice Chair; Michael S. Barr; Michelle W. Bowman; Lisa D. Cook; Austan D. Goolsbee; Patrick  Harker; Philip N. Jefferson; Neel Kashkari; Adriana D. Kugler; Lorie K. Logan; and Christopher  J. Waller.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.847
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "-0-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "For media inquiries, please email media@frb.gov or call 202-452-2955.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "Attachments",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EST                           December 13, 2023     Decisions Regarding Monetary Policy Implementation",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.902
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "The Federal Reserve has made the following decisions to implement the monetary policy stance  announced by the Federal Open Market Committee in its statement on December 13, 2023:  •  The Board of Governors of the Federal Reserve System voted unanimously to maintain the  interest rate paid on reserve balances at 5.4 percent, effective December 14, 2023.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.882
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.842
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to direct the Open  Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to  execute transactions in the System Open Market Account in accordance with the following  domestic policy directive:  \"Effective December 14, 2023, the Federal Open Market Committee directs the Desk to:  o Undertake open market operations as necessary to maintain the federal funds rate  in a target range of 5-1/4 to 5-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.876
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.759
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight repurchase agreement operations with a minimum bid  rate of 5.5 percent and with an aggregate operation limit of $500 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight reverse repurchase agreement operations at an  offering rate of 5.3 percent and with a per-counterparty limit of $160 billion per  day.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction the amount of principal payments from the Federal Reserve's  holdings of Treasury securities maturing in each calendar month that exceeds a  cap of $60 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.916
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "Redeem Treasury coupon securities up to this  monthly cap and Treasury bills to the extent that coupon principal payments are  less than the monthly cap.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "o Reinvest into agency mortgage-backed securities (MBS)",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "the amount of principal  payments from the Federal Reserve's holdings of agency debt and agency MBS  received in each calendar month that exceeds a cap of $35 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.918
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "o Allow modest deviations from stated amounts for reinvestments, if needed for  operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "o Engage in dollar roll and coupon swap transactions as necessary to facilitate  settlement of the Federal Reserve's agency MBS transactions.\"",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.84
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "In a related action, the Board of Governors of the Federal Reserve System voted  unanimously to approve the establishment of the primary credit rate at the existing level  of 5.5 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.226
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "(more)  -2-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "This information will be updated as appropriate to reflect decisions of the Federal Open Market  Committee or the Board of Governors regarding details of the Federal Reserve's operational tools  and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on the  Federal Reserve Bank of New York's website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      }
+    ],
+    "document_id": "monetary20231213a1.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT           November 3, 2021  The Federal Reserve is committed to using its full range of tools to support the  U.S. economy in this challenging time, thereby promoting its maximum employment  and price stability goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.686
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.561
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.429
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "With progress on vaccinations and strong policy support, indicators of economic  activity and employment have continued to strengthen.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.926
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The sectors most adversely  affected by the pandemic have improved in recent months, but the summer’s rise in  COVID-19 cases has slowed their recovery.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Inflation is elevated, largely reflecting  factors that are expected to be transitory.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.49
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Supply and demand imbalances related to  the pandemic and the reopening of the economy have contributed to sizable price  increases in some sectors.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.896
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Overall financial conditions remain accommodative, in  part reflecting policy measures to support the economy and the flow of credit to U.S.  households and businesses.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.175
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The path of the economy continues to depend on the course of the virus.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.848
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Progress  on vaccinations and an easing of supply constraints are expected to support continued  gains in economic activity and employment as well as a reduction in inflation.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.656
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.903
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.92
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.917
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Risks  to the economic outlook remain.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.057
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum employment and inflation at the rate  of 2 percent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.597
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.66
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.648
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "With inflation having run persistently below this  longer-run goal, the Committee will aim to achieve inflation moderately above  2 percent for some time so that inflation averages 2 percent over time and longer‑term  inflation expectations remain well anchored at 2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.806
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.011
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The Committee expects to  maintain an accommodative stance of monetary policy until these outcomes are  achieved.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.624
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.336
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The Committee decided to keep the target range for the federal funds rate  (more)",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.853
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.874
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT            November 3, 2021  -2-    at 0 to 1/4 percent and expects it will be appropriate to maintain this target range until  labor market conditions have reached levels consistent with the Committee’s  assessments of maximum employment and inflation has risen to 2 percent and is on  track to moderately exceed 2 percent for some time.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.898
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.895
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.735
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "In light of the substantial further  progress the economy has made toward the Committee’s goals since last December,  the Committee decided to begin reducing the monthly pace of its net asset purchases  by $10 billion for Treasury securities and $5 billion for agency mortgage-backed  securities.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.566
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.73
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Beginning later this month, the Committee will increase its holdings of  Treasury securities by at least $70 billion per month and of agency mortgage‑backed  securities by at least $35 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.506
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Beginning in December, the Committee  will increase its holdings of Treasury securities by at least $60 billion per month and  of agency mortgage-backed securities by at least $30 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.437
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The  Committee judges that similar reductions in the pace of net asset purchases will likely  be appropriate each month, but it is prepared to adjust the pace of purchases if  warranted by changes in the economic outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.142
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.734
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The Federal Reserve’s ongoing  purchases and holdings of securities will continue to foster smooth market  functioning and accommodative financial conditions, thereby supporting the flow of  credit to households and businesses.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.702
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary policy, the Committee will  continue to monitor the implications of incoming information for the economic  outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.831
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.785
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The Committee would be prepared to adjust the stance of monetary policy  as appropriate if risks emerge that could impede the attainment of the Committee’s  goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.877
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.814
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take into account a wide range of  information, including readings on public health, labor market conditions, inflation  pressures and inflation expectations, and financial and international developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.799
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.9
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "(more)",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT            November 3, 2021  -3-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C.  Williams, Vice Chair; Thomas I. Barkin; Raphael W. Bostic; Michelle W. Bowman; Lael  Brainard; Richard H. Clarida; Mary C. Daly; Charles L. Evans; Randal K. Quarles; and  Christopher J. Waller.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.825
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "-0-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT  November 3,",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "2021  Decisions Regarding Monetary Policy Implementation  The Federal Reserve has made the following decisions to implement the monetary  policy stance announced by the Federal Open Market Committee in its statement on  November 3, 2021:",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.913
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.863
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "The Board of Governors of the Federal Reserve System voted unanimously to maintain the interest rate paid on reserve balances at 0.15 percent, effective November 4, 2021.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.57
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to authorize and direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive: “Effective November 4, 2021, the Federal Open Market Committee directs the  Desk to:  o Undertake open market operations as necessary to maintain the federal funds rate in a target range of 0 to 1/4 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.759
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.758
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Complete the increase in System Open Market Account (SOMA) holdings of Treasury securities by $80 billion and of agency mortgage-backed securities (MBS) by $40 billion, as indicated in the monthly purchase plans released in mid-October.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Increase the SOMA holdings of Treasury securities by $70 billion and of agency MBS by $35 billion, during the monthly purchase period beginning in mid-November.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Increase the SOMA holdings of Treasury securities by $60 billion and of agency MBS by $30 billion, during the monthly purchase period beginning in mid-December.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o Increase holdings of Treasury securities and agency MBS by additional amounts as needed to sustain smooth functioning of markets for these securities.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Conduct overnight repurchase agreement operations with a minimum bid rate of 0.25 percent and with an aggregate operation limit of $500 billion; the aggregate operation limit can be temporarily increased at the discretion of the Chair.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Conduct overnight reverse repurchase agreement operations at an offering rate of 0.05 percent and with a per-counterparty limit of $160 billion per day; the per-counterparty limit can be temporarily increased at the discretion of the Chair.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "(more)",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT  November 3, 2021  -2-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction all principal payments from the Federal Reserve's holdings of Treasury securities and reinvest all principal payments from the Federal Reserve's holdings of agency debt and agency MBS in agency MBS.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o Allow modest deviations from stated amounts for purchases and reinvestments, if needed for operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "Engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.”",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.876
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "In a related action, the Board of Governors of the Federal Reserve System voted unanimously to approve the establishment of the primary credit rate at the existing level of 0.25 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.178
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "This information will be updated as appropriate to reflect decisions of the Federal Open  Market Committee or the Board of Governors regarding details of the Federal Reserve’s  operational tools and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on  the Federal Reserve Bank of New York’s website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.922
+      }
+    ],
+    "document_id": "monetary20211103a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EDT                                 July 31, 2024        Recent indicators suggest that economic activity has continued to expand at a solid pace.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.929
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Job gains have moderated, and the unemployment rate has moved up but remains low.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.553
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": -0.333
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Inflation  has eased over the past year but remains somewhat elevated.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.311
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "In recent months, there has been  some further progress toward the Committee’s 2 percent inflation objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.867
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.561
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum employment and inflation at the rate of  2 percent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.597
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.66
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.648
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The Committee judges that the risks to achieving its employment  and inflation goals continue to move into better balance.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.627
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.891
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.481
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The economic outlook is uncertain, and  the Committee is attentive to the risks to both sides of its dual mandate.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.58
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.565
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "In support of its goals, the Committee decided to maintain the target range for the federal  funds rate at 5-1/4 to 5-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.684
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "In considering any adjustments to the target range for the  federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and  the balance of risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.869
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.875
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The Committee does not expect it will be appropriate to reduce the target  range until it has gained greater confidence that inflation is moving sustainably toward 2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.851
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.877
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "In addition, the Committee will continue reducing its holdings of Treasury securities and agency  debt and agency mortgage‑backed securities.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.468
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The Committee is strongly committed to returning  inflation to its 2 percent objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.372
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.498
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary policy, the Committee will continue to  monitor the implications of incoming information for the economic outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.831
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.785
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.891
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The Committee  would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that   (more)    -2-  could impede the attainment of the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.833
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take  into account a wide range of information, including readings on labor market conditions,  inflation pressures and inflation expectations, and financial and international developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.757
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.885
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,  Vice Chair; Thomas I. Barkin; Michael S. Barr; Raphael W. Bostic; Michelle W. Bowman; Lisa  D. Cook; Mary C. Daly; Austan D. Goolsbee; Philip N. Jefferson; Adriana D. Kugler; and  Christopher J. Waller.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.847
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Austan D. Goolsbee voted as an alternate member at this meeting.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "-0-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Attachment  For media inquiries, please email media@frb.gov or call 202-452-2955.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EDT      July 31, 2024  Decisions Regarding Monetary Policy Implementation",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.888
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The Federal Reserve has made the following decisions to implement the monetary policy  stance announced by the Federal Open Market Committee in its statement on July 31, 2024:",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.842
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "The Board of Governors of the Federal Reserve System voted unanimously to maintain the interest rate paid on reserve balances at 5.4 percent, effective August 1, 2024.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.57
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to direct the Open Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the System Open Market Account in accordance with the following domestic policy directive: \"Effective August 1, 2024, the Federal Open Market Committee directs the Desk to:  o Undertake open market operations as necessary to maintain the federal funds rate in a target range of 5-1/4 to 5-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.873
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.759
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight repurchase agreement operations with a minimum bid rate of 5.5 percent and with an aggregate operation limit of $500 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight reverse repurchase agreement operations at an offering rate of 5.3 percent and with a per-counterparty limit of $160 billion per day.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing in each calendar month that exceeds a cap of $25 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.919
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Redeem Treasury coupon securities up to this monthly cap and Treasury bills to the extent that coupon principal payments are less than the monthly cap.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Reinvest the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities (MBS) received in each calendar month that exceeds a cap of $35 billion per month into Treasury securities to roughly match the maturity composition of Treasury securities outstanding.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.875
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "o Allow modest deviations from stated amounts for reinvestments, if needed for operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "Engage in dollar roll and coupon swap transactions as necessary to facilitate settlement of the Federal Reserve's agency MBS transactions.\"",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.878
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "In a related action, the Board of Governors of the Federal Reserve System voted unanimously to approve the establishment of the primary credit rate at the existing level of 5.5 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.178
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "(more)  -2-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "This information will be updated as appropriate to reflect decisions of the Federal Open Market  Committee or the Board of Governors regarding details of the Federal Reserve's operational tools  and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on the  Federal Reserve Bank of New York's website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      }
+    ],
+    "document_id": "monetary20240731a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EDT                                        July 26, 2023",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Recent indicators suggest that economic activity has been expanding at a moderate pace.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.921
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Job gains have been robust in recent months, and the unemployment rate has remained low.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.929
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": -0.629
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Inflation remains elevated.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.481
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The U.S. banking system is sound and resilient.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Tighter credit conditions for households  and businesses are likely to weigh on economic activity, hiring, and inflation.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.199
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.065
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The extent of  these effects remains uncertain.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The Committee remains highly attentive to inflation risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.305
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.305
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum employment and inflation at the rate of  2 percent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.597
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.66
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.648
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "In support of these goals, the Committee decided to raise the  target range for the federal funds rate to 5-1/4 to 5-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.263
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.503
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The Committee will continue to  assess additional information and its implications for monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.735
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.902
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "In determining the extent  of additional policy firming that may be appropriate to return inflation to 2 percent over time, the  Committee will take into account the cumulative tightening of monetary policy, the lags with  which monetary policy affects economic activity and inflation, and economic and financial  developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.783
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.158
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.883
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.597
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "In addition, the Committee will continue reducing its holdings of Treasury  securities and agency debt and agency mortgage-backed securities, as described in its previously  announced plans.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.462
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The Committee is strongly committed to returning inflation to its 2 percent  objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.468
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.498
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary policy, the Committee will continue to  monitor the implications of incoming information for the economic outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.831
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.785
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.891
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The Committee   (more)    -2-  would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that  could impede the attainment of the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.848
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.824
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take  into account a wide range of information, including readings on labor market conditions,  inflation pressures and inflation expectations, and financial and international developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.757
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.885
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,  Vice Chair; Michael S. Barr; Michelle W. Bowman; Lisa D. Cook; Austan D. Goolsbee; Patrick  Harker; Philip N. Jefferson; Neel Kashkari; Lorie K. Logan; and Christopher J. Waller.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.847
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "-0-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "For media inquiries, please email media@frb.gov or call 202-452-2955.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Attachment    For release at 2:00 p.m. EDT                                     July 26, 2023       Decisions Regarding Monetary Policy Implementation",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.897
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "The Federal Reserve has made the following decisions to implement the monetary policy stance  announced by the Federal Open Market Committee in its statement on July 26, 2023:  •  The Board of Governors of the Federal Reserve System voted unanimously to raise the  interest rate paid on reserve balances to 5.4 percent, effective July 27, 2023.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.884
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.842
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to direct the Open  Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to  execute transactions in the System Open Market Account in accordance with the following  domestic policy directive:   \"Effective July 27, 2023, the Federal Open Market Committee directs the Desk to:  o Undertake open market operations as necessary to maintain the federal funds rate  in a target range of 5-1/4 to 5-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.876
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.759
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight repurchase agreement operations with a minimum bid  rate of 5.5 percent and with an aggregate operation limit of $500 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight reverse repurchase agreement operations at an  offering rate of 5.3 percent and with a per-counterparty limit of $160 billion per  day.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction the amount of principal payments from the Federal Reserve's  holdings of Treasury securities maturing in each calendar month that exceeds a  cap of $60 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.916
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Redeem Treasury coupon securities up to this  monthly cap and Treasury bills to the extent that coupon principal payments are  less than the monthly cap.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "o Reinvest into agency mortgage-backed securities (MBS)",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "the amount of principal  payments from the Federal Reserve's holdings of agency debt and agency MBS  received in each calendar month that exceeds a cap of $35 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.918
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "o Allow modest deviations from stated amounts for reinvestments, if needed for  operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "o Engage in dollar roll and coupon swap transactions as necessary to facilitate  settlement of the Federal Reserve's agency MBS transactions.\"",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.84
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "In a related action, the Board of Governors of the Federal Reserve System voted  unanimously to approve a 1/4 percentage point increase in the primary credit rate to 5.5  percent, effective July 27, 2023.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.122
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "In taking this action, the Board approved requests to  establish that rate submitted by the Boards of Directors of the Federal Reserve Banks of  Boston, Philadelphia, Cleveland, Richmond, Chicago, St. Louis.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.914
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  }
+]

@@ -1,0 +1,3062 @@
+[
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We receive these letters with respect, and we write careful responses  and address concerns.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We listen, again, because we’re talking to the people who, in our system  of government, have oversight over our activity.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So that’s—but at the end of the day, we take  that on board, but we have to make our judgments, and we have to “stick to our knitting”— which is maximum employment, price stability, supervise and regulate the banks, work on the  payment system:  the things that we do.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.881
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Claire.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CLAIRE JONES.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thank you.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Claire Jones, Financial Times.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thanks a lot for the  opportunity to ask a question.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "As Chair of the FOMC, would you want to see unanimity on the  March 20, 2024  Chair Powell’s Press Conference  FINAL",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.891
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Page 15 of 24    Committee or something close to it, meaning no more than one dissent, before you begin cutting  rates?",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.917
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thank you.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We’re a very consensus-oriented organization, and we do try to  achieve consensus and, ideally, unanimity.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "People do dissent.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "It’s something that happens.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Life  goes on, and it’s not a problem.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We’ve always had dissents.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But—and so I—you know, you  respect thoughtful dissents very much.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "It’s like, you may not agree with some arguments, but  you really want to understand them.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So you may read a book that takes a position that you have  long opposed, just to understand [the position of] that book.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So I treat dissents with real respect  as well.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Simon.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "SIMON RABINOVITCH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Simon Rabinovitch with the Economist.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Can you hear me?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Yes.  SIMON RABINOVITCH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Okay.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Great.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Obviously, inflation is some ways away from  target.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.045
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Unemployment, though, if you look at the projection for the full year of 4.0 percent, in  February, we were already at 3.9 percent, so quite close to the median projection.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": 0.623
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Are you  concerned at all that—notwithstanding the very strong jobs growth—that in fact there may be  some cracks appearing in the employment market?",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.047
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You talked about a significant deterioration  in the labor market being a condition for easing rates.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.305
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "What would constitute that in your books?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thank you.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So we, of course, monitor—it’s one of our two goal variables.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We all  monitor the labor market very, very carefully.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And I don’t see those cracks today.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And I, you  know—we follow all the possible stories that are out there about, about there being cracks, but  the overall picture really is a strong labor market.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "The extreme imbalances that we saw in the  March 20, 2024  Chair Powell’s Press Conference  FINAL",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Page 16 of 24    early parts of the pandemic recovery have mostly been resolved.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You’re seeing high job growth.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You’re seeing big increases in supply.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You’re seeing strong wage growth, but wage growth is  gradually moderating down to more sustainable levels.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.01
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "In many, many respects, the things are  returning more to their state in 2019, which we can think of as normal for this purpose.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "That’s  job openings and quits.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And surveys of workers and businesses are always interesting on this:   You know, how tight is the—how easy is it to find a job?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "How hard is it—how easy it is to find  a worker?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Those have both—those surveys have both come down.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So the labor market is—it’s in good shape.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You know, you do see things like the low— the low hiring rate, and people have made the argument that if, if layoffs were to increase, that  would—that would mean that the net would be fairly quick increases in unemployment.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": 0.032
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So  that’s something we’re watching, but we’re not seeing it.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Of course, initial claims are very, very  low and, if anything, have tracked down a little bit.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So—watching it carefully.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Don’t see it.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And when I say something—I, I use the term “unexpected” weakening of the labor market.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So,  you know, we do expect the unemployment rate to—the forecast is that it would move up, I  think, closer to what we see as the longer-run sustainable level.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": -0.619
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "That’s just—that’s just people’s  forecast, individual forecasts.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But we’re talking about something that’s unexpected.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "That’s  where I’ll leave it, though.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Steve.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "STEVE MATTHEWS.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Steve Matthews with Bloomberg.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You mentioned at the  beginning of the press conference that the Committee thought it might be appropriate to slow the  pace of asset runoff fairly soon.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.633
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I’m wondering is—when you say fairly soon, does that mean  that the Committee would meet about this again in May and a decision could be reached that  soon?",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.9
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And I was wondering if you could also just describe the scope of what the Committee is  March 20, 2024  Chair Powell’s Press Conference  FINAL  Page 17 of 24    discussing here.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.931
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You’re at $95 billion of caps right now.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Would that be cut about in half or  something in that nature?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thank you.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So that is what we’re discussing essentially is—and we’re not  discussing all the other many other balance sheet issues.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We will discuss those in due course.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But what we’re really looking at is slowing the pace of runoff.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "There isn't much runoff among  MBS—in MBS right now, but there is in Treasuries.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And we’re talking about going to a lower  pace.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I don’t want to give you a specific number because we haven’t made a—haven’t had an  agreement or decision, but that’s the idea.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And that’s what we’re looking at.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "In terms of the timing, I said fairly soon.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I wouldn’t want to try to be more specific than  that, but you get the idea.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "The idea is—and this is in our longer-run plans—that we may actually  be able to get to a lower level, because we would avoid the kind of frictions that can happen.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Liquidity is not evenly distributed in a system.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And there can be times when, in the aggregate,  reserves are ample or even abundant, but not in every part.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And those parts where they’re not  ample, there can be stress, and that can cause you to prematurely stop the process to avoid the  stress.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And then it would be very hard to restart, we think.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So something like that happened in  ’19 perhaps.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So that’s what we’re doing.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We’re looking at what would be a good time and what  would be a good structure, and “fairly soon” is words that we use to mean fairly soon.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "STEVE MATTHEWS.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And will there be a discussion about returning to an all- Treasuries balance sheet at some point?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So that—our, our longer-run goal is to return to a balance sheet that  is mostly Treasuries.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I do expect that, once we’re through this, we’ll come back to the other  issues about the composition and the maturity and revisit those issues, but it’s, you know, not  March 20, 2024  Chair Powell’s Press Conference  FINAL  Page 18 of 24    urgent right now.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We want to get this, this decision made first and then we can, when the time is  right, come back to the other issues.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Victoria.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "VICTORIA GUIDA.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Hi, Victoria Guida with Politico.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Also on the balance sheet, you  know, can you talk a little bit about how the outlook for the banking sector might impact your  balance sheet plans?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Do you worry that, as deposits start to shrink, that we could see more  turbulence?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You know, we’ll be watching carefully.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But one of the reasons  we’re slowing down—we will soon enough, fairly soon I should say, slow down—is that we  want to avoid any, any kind of that turbulence.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I wasn’t thinking particularly about the banking- sector turbulence, but we—and we had some indicators the last time.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "This is our second time in  doing this, and I think we’re going to be paying a lot of attention to the things that started to  happen and that foreshadowed what eventually happened at the end of that tightening cycle  where we wound up in a short[-of-]reserves situation.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.501
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And we don’t want to do that again.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And  I think now we have a better sense of what are the indicators.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "It isn’t—it wasn’t so much in the  banking system as it was around, for example, where federal funds are trading relative to the  administered rates and where secured rates are relative to the administered rates.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Those sorts of  things.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We will always be watching the banking system for similar signs, though.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "VICTORIA GUIDA.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Well, is it also because you’re not sure exactly how the reserve  supply will react once the overnight reverse repo facility drops near—at zero?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Well, I think we broadly think that, once [take-up at] the overnight",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "[reverse] repo [facility] stabilizes, either at zero or close to zero, that, as the balance sheet  March 20, 2024  Chair Powell’s Press Conference  FINAL  Page 19 of 24    shrinks, we should expect that reserves will decline pretty close to dollar-for-dollar with that.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "That’s what we think.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Let’s go to Jean.  JEAN YUNG.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Hi Chair Powell.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Jean Yung with MNI Market News.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I wanted to ask  also about the balance sheet.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Will you—you said that starting the taper sooner could get you to a  smaller balance sheet size.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Does that mean you don’t have to make a decision on when to end  QT at this point?",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.839
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And will you be setting up the process for deciding that sooner, or will you  wait until we’re close to the end?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So it’s sort of ironic that, by going slower, you can get farther.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But  that’s the idea.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "The idea is that, with a smoother transition, you won’t—you’ll run much less risk  of kind of liquidity problems, which can grow into shocks, and which can cause you to stop the  process prematurely.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So that’s—in terms of how it ends, we’re going to be monitoring carefully  money market conditions and asking ourselves whether they—what they’re telling us about  reserves.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Are they—right now, we would characterize them as “abundant,” and what we’re  aiming for is “ample” and, you know, which is a little bit less than abundant.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So there isn’t a— you know, there’s not a dollar amount or a percent of GDP or anything like that where we think  we have a really pretty clear understanding of that.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": 0.85
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We’re going to be looking at what these— what’s happening in money markets, in particular—a bunch of different indicators, including the  ones I mentioned, to tell us when we’re getting close.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Then, though, you reach a point ultimately  where you stop allowing the balance sheet to run off and you—but then, from that point, there’s  another period in which nonreserves—nonreserve liabilities grow organically, like currency, and  that also shrinks the reserves at a very slow pace.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So you have a, you know, a slower pace of  runoff, which we’ll have fairly soon.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Then you have another time where you effectively hold the  March 20, 2024  Chair Powell’s Press Conference  FINAL",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Page 20 of 24    balance sheet constant and allow nonreserve liabilities to expand.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And then that ultimately  brings you, ideally, in for—brings it into a nice, easy landing at a level that is above—you know,  above what we think the lowest possible ample number would be.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We’re not trying for that.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We  want to have a cushion, a buffer, because we know that demand for reserves can be very volatile.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And we don’t want to, again, find ourselves in a situation where there aren’t reserves, and we  have to turn around and buy assets and put reserves back in the banking system the way we did  in 2019 and ’20.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH:  Nancy.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "NANCY MARSHALL-GENZER.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Hi, Nancy Marshall-Genzer with Marketplace.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Chair  Powell, you said you’re waiting to become more confident that inflation’s getting to your  2 percent goal before you cut rates.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.139
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Can you just sum up more specifically what data you’re  looking at that would give you that confidence?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Sure.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So we’re—most importantly, we’re looking at the incoming  inflation data and the contents of it and what they’re telling us, so that’ll be—and also the  various components—so obviously that’s what we want.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.912
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We want more confidence that  inflation is coming down sustainably toward 2 percent.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.139
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And, I mean, of course we’ll also be  looking at all the other things that are happening in the economy.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.616
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We’ll look at the totality of the  data, including everything essentially as we make that assessment.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But the most important thing  will be the inflation data coming in.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.865
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "NANCY MARSHALL-GENZER.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Well, are there things that you would give more  weight to, like wages?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Wages is one thing.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We don’t—our target is not wages.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "It’s really  inflation.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.494
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But we would look to the fact that wages are still coming in very strong.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But, but  March 20, 2024  Chair Powell’s Press Conference  FINAL",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Page 21 of 24    they’ve been—wage increases, that’s to say—wage increases have been quite strong, but they’re,  they’re gradually coming down to levels that are more sustainable over time.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And that’s what  we want.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We don’t think that—the inflation was not originally caused—we think, I don’t think,  by mostly by wages.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.767
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "That wasn’t really the story.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But we do think that, to get inflation back  down to 2 percent sustainably, we’d like to see, you know, continuing gradual movement of  wage increases at still high levels but back down to levels that are more sustainable over time.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.486
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Let’s go to Greg.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "GREG ROBB.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thank you.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Greg Robb from MarketWatch.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Chair Powell, could you say  at this meeting whether there were more officials who wanted to be careful and go slower than— about rates—than there were at the last meeting?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Was there—was there that sense of maybe it’s  smart to wait?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thanks.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I guess I’d put it this way:",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "The—if you look at the incoming  inflation data that we’ve had for January and February, I think very broadly that suggests that we  were right to wait until we’re more confident.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.857
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So I think, I think—I didn’t hear anyone  dismissing it as not information that we should look at or anything like that.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So I think, generally  speaking, it does go in the direction of saying, yes, it’s appropriate for us to be careful as we  approach this question.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Brendan.   BRENDAN PEDERSEN.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thanks Chair Powell.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Brendan Pedersen with Punchbowl  News.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I wanted to ask you about central bank digital currency stuff.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.884
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We’ve been hearing a lot  from Republicans in Congress about what the Fed is or isn’t doing in a digital dollar, but I know  you have said to Congress that you’re going to wait for approval before the Fed does anything— launches anything.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.826
+      },
+      {
+        "name": "Congress",
+        "sentiment": 0.807
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But folks like House Majority Whip Tom Emmer have said that the Fed is  March 20, 2024  Chair Powell’s Press Conference  FINAL",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.867
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Page 22 of 24    either actively researching or hiring personnel to study the implications of the CBDC.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Can you  give us any clarity on what the Fed is doing right now on a digital dollar?",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.855
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Sure.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So I think we’ve been pretty transparent on this, but I will— I’ll try harder.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So we are not getting ready to—we haven’t proposed—we haven’t come to a  conclusion that we should propose, or anything like that, that Congress consider legislation to  authorize a digital dollar.",
+    "entities": [
+      {
+        "name": "Congress",
+        "sentiment": 0.818
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And it would take legislation by Congress signed by the President to  give us the ability to do what we think of as a CBDC, which is really a retail CBDC with the  public.",
+    "entities": [
+      {
+        "name": "Congress",
+        "sentiment": 0.825
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So we’re just a long, long way from that.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "What we are doing, and I think what every  major central bank is doing, is we’re trying to stay in the frontiers of what’s going on in digital  finance, and it has many, many different areas.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.724
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "It has applications in wholesale finance, in the  payment system, and so we need—to serve the public—these issues have become very front  burner in the last five or six years—we need to be knowledgeable about all that.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So we actually  do have people trying to understand things that are—but it’s wrong to say that we’re working on  a CBDC and that we’ve secretly got a lab here where we’ve got one, and we’re just going to  spring it on Congress at the right moment.",
+    "entities": [
+      {
+        "name": "Congress",
+        "sentiment": 0.797
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We don’t.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I haven’t at all, in my own mind, made a  decision that I think this is something the U.S. should be doing.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I just think it’s something we  need to be—we need to understand.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We do have people who are keeping up with that, as part of  the broader payments landscape.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "That’s, that’s how I would characterize it.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Mark.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MARK HAMRICK.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thank you.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "It’s Mark Hamrick with Bankrate.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Mr. Chairman,  April 27 will mark the 13th anniversary since a Fed Chairman began holding regular news  conferences.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "How important is that higher transparency been in your view, both for the proper  March 20, 2024  Chair Powell’s Press Conference  FINAL  Page 23 of 24    functioning of the central bank and also in accomplishing your mission?",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.842
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And is there more that  you and your colleagues can do on the transparency front?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And what might that look like?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I generally think—I mean, this movement actually started 30 years  ago—30 years ago, when some academics posited that a more transparent central bank, if the  public understands your reaction function, the markets will do your work for you.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.703
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "They’ll react  to the data.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And so it all happens that way and so there’s been a march toward greater and  greater transparency.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And that—certainly Chairman Bernanke advanced that, Chairman  Greenspan did, Chair Yellen did, and I.  You know, so we went from four press conferences a  year to eight, so now every meeting really is “live” now.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I think that’s a good innovation.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I  wouldn’t want to turn it back.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We also have done a bunch of other things.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "You know, we have an annual supervision  report, Financial Stability Report.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I mean, there’s a long list of things that we’ve done.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I think  you—I mean, nothing comes to mind as really desperately in need of doing at this moment.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We’re very transparent.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We have no shortage of FOMC participants speaking to the public  through the media.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.834
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And so that channel is full, I would say.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So I think it’s generally broadly  helped and made things better.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But not every day and in every way.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "MARK HAMRICK.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Well, to follow up:  Has there ever been a day where you wanted to  put that genie back in the bottle somewhat?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Of course not.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "[Laughter]  MICHELLE SMITH.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Let’s go to Jennifer, for the last question.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "JENNIFER SCHONBERGER.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thank you, Chair Powell.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Jennifer Schonberger with  Yahoo Finance.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Not to harp too much more on confidence and inflation, but you did say earlier  in this press conference that the recent inflation data hasn’t raised anyone’s confidence.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.881
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But  March 20, 2024  Chair Powell’s Press Conference  FINAL",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Page 24 of 24    when you testified before the Senate a couple weeks ago, you told lawmakers that you are “not  far from receiving the confidence needed on inflation to begin cutting rates.”",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.59
+      },
+      {
+        "name": "Congress",
+        "sentiment": 0.558
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So are you still of  that belief or not?",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "What are we to take by those words, “not far?”  CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So let me say my main message at that—in those two days of  hearings was really that the Committee needs to see more evidence to build our confidence that  inflation is moving down sustainably toward our 2 percent goal, and we don’t expect that it will  be appropriate to begin to reduce rates until we’re more confident that that is the case.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.576
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.338
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I said that  any number of times, so those were kind of the main part of the message.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We repeated that  today in our statement.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "I also—to the language you mentioned, I, I really pointed out that we  had made significant progress over the past year, and what we’re looking for now is confirmation  that that progress will continue.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We had a series of inflation readings over the second half of last  year that were really much lower.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.335
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We didn’t overreact, as I mentioned.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But that’s what I had in  mind.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "JENNIFER SCHONBERGER.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "But given that you said that PCE for February,  2.8 percent the estimate, and that we have been seeing PCE—core PCE coming down by a tenth  of a percent every month, I mean, wouldn’t you be at about 2.4 percent this summer, June, July,  to a point where you could cut then?  CHAIR POWELL.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.629
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Well, we’ll just have to see how the data come in.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We would, of  course, love to get great inflation data.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.499
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We got really good inflation data on the second—in the  second part of last year.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.855
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Again, we didn’t overreact to it.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "We said we needed to see more, and  we said it would be bumpy.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "And now we have January and February, which I’ve talked about a  couple of times.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "So, you know, we’re looking for more good data, and we would certainly  welcome it.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "Thank you.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "FOMCpresconf20240320.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EST                 December 18, 2024",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Recent indicators suggest that economic activity has continued to expand at a solid pace.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.927
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Since earlier in the year, labor market conditions have generally eased, and the unemployment  rate has moved up but remains low.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": -0.866
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Inflation has made progress toward the Committee’s  2 percent objective but remains somewhat elevated.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.528
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.895
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum employment and inflation at the rate of  2 percent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.597
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.66
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.648
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "The Committee judges that the risks to achieving its employment  and inflation goals are roughly in balance.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.627
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.167
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.281
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "The economic outlook is uncertain, and the  Committee is attentive to the risks to both sides of its dual mandate.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.58
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.565
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "In support of its goals, the Committee decided to lower the target range for the federal  funds rate by 1/4 percentage point to 4-1/4 to 4-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.515
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "In considering the extent and timing  of additional adjustments to the target range for the federal funds rate, the Committee will  carefully assess incoming data, the evolving outlook, and the balance of risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.851
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.868
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "The Committee  will continue reducing its holdings of Treasury securities and agency debt and agency  mortgage‑backed securities.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.196
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "The Committee is strongly committed to supporting maximum  employment and returning inflation to its 2 percent objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.195
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.18
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.449
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary policy, the Committee will continue to  monitor the implications of incoming information for the economic outlook.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.831
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.785
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.891
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "The Committee  would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that  could impede the attainment of the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.82
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take   (more)      -2-  into account a wide range of information, including readings on labor market conditions,  inflation pressures and inflation expectations, and financial and international developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.779
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.885
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,  Vice Chair; Thomas I. Barkin; Michael S. Barr; Raphael W. Bostic; Michelle W. Bowman; Lisa  D. Cook; Mary C. Daly; Philip N. Jefferson; Adriana D. Kugler; and Christopher J. Waller.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.847
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Voting against the action was Beth M. Hammack, who preferred to maintain the target range for  the federal funds rate at 4-1/2 to 4-3/4 percent.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.87
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "-0-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Attachment  For media inquiries, please email media@frb.gov or call 202-452-2955.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "For release at 2:00 p.m. EST                           December 18, 2024     Decisions Regarding Monetary Policy Implementation",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.895
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "The Federal Reserve has made the following decisions to implement the monetary policy stance  announced by the Federal Open Market Committee in its statement on December 18, 2024:  •  The Board of Governors of the Federal Reserve System voted unanimously to lower the  interest rate paid on reserve balances to 4.4 percent, effective December 19, 2024.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.88
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.842
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to direct the Open  Market Desk at the Federal Reserve Bank of New York, until instructed otherwise, to  execute transactions in the System Open Market Account in accordance with the following  domestic policy directive:  \"Effective December 19, 2024, the Federal Open Market Committee directs the Desk to:  o Undertake open market operations as necessary to maintain the federal funds rate  in a target range of 4-1/4 to 4-1/2 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.876
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.758
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight repurchase agreement operations with a minimum bid  rate of 4.5 percent and with an aggregate operation limit of $500 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Conduct standing overnight reverse repurchase agreement operations at an  offering rate of 4.25 percent and with a per-counterparty limit of $160 billion per  day.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Setting this rate at the bottom of the target range for the federal funds rate is  intended to support effective monetary policy implementation and the smooth  functioning of short-term funding markets.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.818
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.086
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction the amount of principal payments from the Federal Reserve's  holdings of Treasury securities maturing in each calendar month that exceeds a  cap of $25 billion per month.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.916
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "Redeem Treasury coupon securities up to this  monthly cap and Treasury bills to the extent that coupon principal payments are  less than the monthly cap.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "o Reinvest the amount of principal payments from the Federal Reserve's holdings of  agency debt and agency mortgage-backed securities (MBS) received in each  calendar month that exceeds a cap of $35 billion per month into Treasury  securities to roughly match the maturity composition of Treasury securities  outstanding.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.871
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "o Allow modest deviations from stated amounts for reinvestments, if needed for  operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "o Engage in dollar roll and coupon swap transactions as necessary to facilitate  settlement of the Federal Reserve's agency MBS transactions.\"",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.84
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "(more)  -2-    •",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "In a related action, the Board of Governors of the Federal Reserve System voted  unanimously to approve a 1/4 percentage point decrease in the primary credit rate to 4.5  percent, effective December 19, 2024.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.122
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "In taking this action, the Board approved requests  to establish that rate submitted by the Boards of Directors of the Federal Reserve Banks  of Boston, New York, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, and San  Francisco.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.926
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "This information will be updated as appropriate to reflect decisions of the Federal Open Market  Committee or the Board of Governors regarding details of the Federal Reserve's operational tools  and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on the  Federal Reserve Bank of New York's website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      }
+    ],
+    "document_id": "monetary20241218a1.pdf"
+  }
+]

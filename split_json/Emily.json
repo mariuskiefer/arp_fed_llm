@@ -1,0 +1,3278 @@
+[
+  {
+    "sentence": "Minneapolis, Kansas City,  Dallas, and San Francisco.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "(more)    -2-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "This information will be updated as appropriate to reflect decisions of the Federal Open Market  Committee or the Board of Governors regarding details of the Federal Reserve's operational tools  and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on the  Federal Reserve Bank of New York's website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      }
+    ],
+    "document_id": "ARP_07.2023.pdf"
+  },
+  {
+    "sentence": "Minutes of the Federal Open Market Committee  March 16–17, 2021    A joint meeting of the Federal Open Market Committee  and the Board of Governors was held by videoconfer- ence on Tuesday, March 16, 2021, at 11:00 a.m. and con- tinued on Wednesday, March 17, 2021, at 9:00 a.m.1    PRESENT:  Jerome H. Powell, Chair  John C. Williams, Vice Chair  Thomas I. Barkin  Raphael W. Bostic  Michelle W. Bowman  Lael Brainard  Richard H. Clarida  Mary C. Daly  Charles L. Evans  Randal K. Quarles  Christopher J. Waller    James Bullard, Esther L. George, Loretta J. Mester, and  Eric Rosengren, Alternate Members of the Federal  Open Market Committee    Patrick Harker, Robert S. Kaplan, and Neel Kashkari,  Presidents of the Federal Reserve Banks of  Philadelphia, Dallas, and Minneapolis, respectively    James A. Clouse, Secretary  Matthew M. Luecke, Deputy Secretary  Michelle A. Smith, Assistant Secretary  Mark E. Van Der Weide, General Counsel  Michael Held, Deputy General Counsel  Trevor A. Reeve, Economist  Stacey Tevlin, Economist  Beth Anne Wilson, Economist    Shaghil Ahmed, Kartik B. Athreya, Brian M. Doyle,  Rochelle M. Edge, Eric M. Engen, Sylvain Leduc,  Anna Paulson, and William Wascher, Associate  Economists    Lorie K. Logan, Manager, System Open Market  Account    Patricia Zobel, Deputy Manager, System Open Market  Account    1",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.901
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The Federal Open Market Committee is referenced as the  “FOMC” and the “Committee” in these minutes.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.914
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Matthew J. Eichner,2 Director, Division of Reserve  Bank Operations and Payment Systems, Board of  Governors; Michael S. Gibson, Director, Division  of Supervision and Regulation, Board of  Governors; Andreas Lehnert, Director, Division of  Financial Stability, Board of Governors    Margie Shanks, Deputy Secretary, Office of the  Secretary, Board of Governors    Jon Faust, Senior Special Adviser to the Chair, Division  of Board Members, Board of Governors    Joshua Gallin, Special Adviser to the Chair, Division of  Board Members, Board of Governors    William F. Bassett, Antulio N. Bomfim, Wendy E.  Dunn, Burcu Duygan-Bump, Jane E. Ihrig, Kurt F.  Lewis, and Chiara Scotti, Special Advisers to the  Board, Division of Board Members, Board of  Governors    Elizabeth Klee, Senior Associate Director, Division of  Financial Stability, Board of Governors; David E.  Lebow and Michael G. Palumbo, Senior Associate  Directors, Division of Research and Statistics,  Board of Governors    Don H. Kim and Ellen E. Meade, Senior Advisers,  Division of Monetary Affairs, Board of Governors    Glenn Follette, Associate Director, Division of  Research and Statistics, Board of Governors;  David López-Salido, Associate Director, Division  of Monetary Affairs, Board of Governors     Stephanie E. Curcuru, Deputy Associate Director,  Division of International Finance, Board of  Governors; Christopher J. Gust, Deputy Associate  Director, Division of Monetary Affairs, Board of  Governors; Norman J. Morin and Paul A. Smith,  Deputy Associate Directors, Division of Research  and Statistics, Board of Governors; Jeffrey D.  Walker,2 Deputy Associate Director, Division of  2 Attended through the discussion of developments in finan- cial markets and open market operations.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Page 1 _____________________________________________________________________________________________       Reserve Bank Operations and Payment Systems,  Board of Governors    Jennifer Gallagher, Special Assistant to the Board,  Division of Board Members, Board of Governors    Brian J. Bonis, Michiel De Pooter, and Zeynep Senyuz,2  Assistant Directors, Division of Monetary Affairs,  Board of Governors    Alyssa G. Anderson,2 Section Chief, Division of  Monetary Affairs, Board of Governors; Penelope  A. Beattie,2 Section Chief, Office of the Secretary,  Board of Governors    Mark A. Carlson, Senior Economic Project Manager,  Division of Monetary Affairs, Board of Governors    David H. Small, Project Manager, Division of  Monetary Affairs, Board of Governors    Michele Cavallo, Sebastian Infante, and Ander Perez- Orive, Principal Economists, Division of Monetary  Affairs, Board of Governors    Randall A. Williams, Lead Information Manager,  Division of Monetary Affairs, Board of Governors    Anthony Sarver,2",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Senior Financial Institution Policy  Analyst, Division of Monetary Affairs, Board of  Governors     Ellen J. Bromagen, First Vice President, Federal  Reserve Bank of Chicago    Michael Dotsey, Executive Vice President, Federal  Reserve Bank of Philadelphia    Anne Baum, Edward S. Knotek II, Giovanni Olivei,  Paula Tkac, and Mark L.J. Wright, Senior Vice  Presidents, Federal Reserve Banks of New York,  Cleveland, Boston, Atlanta, and Minneapolis,  respectively    Kathryn B. Chen2 and Jonathan P. McCarthy, Vice  Presidents, Federal Reserve Bank of New York    Brett Rose,2 Assistant Vice President, Federal Reserve  Bank of New York    Anthony Murphy, Senior Economic Policy Advisor,  Federal Reserve Bank of Dallas  Brent Bundick, Research and Policy Advisor, Federal  Reserve Bank of Kansas City    Michael Koslow,2 Markets Officer, Federal Reserve  Bank of New York    Fernando M. Martin, Research Officer, Federal Reserve  Bank of St. Louis    William G. O’Boyle,2",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.901
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Policy and Markets Manager,  Federal Reserve Bank of New York    Michael Junho Lee,2 Economist, Federal Reserve Bank  of New York     Action to Adopt Changes to the Committee’s Rules  Regarding Availability of Information  By unanimous vote, the Committee approved a final rule  that revises its Rules Regarding Availability of Infor- mation, which are the Committee’s Freedom of Infor- mation Act (FOIA) rules.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.885
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The revised FOIA rules,  which include a range of minor and technical updates,  will become effective 30 days after the forthcoming pub- lication of the final rule in the Federal Register.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Developments in Financial Markets and Open  Market Operations  The manager turned first to a discussion of financial  market developments.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In the United States, the trend  toward higher longer-term yields observed in recent  months accelerated over the intermeeting period, and  far-forward real rates based on Treasury Inflation-  Protected Securities (TIPS) rose considerably.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.936
+      },
+      {
+        "name": "Countries",
+        "sentiment": -0.301
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Market  participants highlighted an improving economic out- look, bolstered by passage of the American Rescue Plan  (ARP) and progress on vaccinations, as underlying the  increase in yields.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Model- and survey-based estimates  suggested that a significant portion of the increase in  yields was associated with an increase in term premiums.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Higher term premiums could reflect the outlook for  more expansive fiscal policy and an associated upward  revision in the expected path for Treasury debt out-",
+    "entities": [
+      {
+        "name": "Congress",
+        "sentiment": -0.212
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "standing.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Increased uncertainty over the outlook for  longer-term interest rates as well as technical factors may  also have contributed to the rise in term premiums.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.06
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The  Treasury market functioned well over most of the pe- riod, although measures of market liquidity deteriorated  somewhat toward the end of February.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Conditions  gradually improved, although some measures of market  liquidity had not fully returned to earlier levels.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Page 2 Federal Open Market Committee _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.873
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Rates implied by interest rate futures maturing over the  next several years rose notably over the intermeeting pe-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "riod, reportedly reflecting a reassessment by market par-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "ticipants of the expected path of the target range for the  federal funds rate.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.898
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Since the January meeting, the date  of the first increase in the target range for the federal  funds rate implied by a straight read of market pricing  moved notably earlier to the first quarter of 2023, and  the implied target rate at the end of 2023 rose around  50 basis points.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "However, responses to the Open Mar- ket Desk surveys suggested more modest changes to  policy rate expectations.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.031
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The probability-weighted mean  survey expectation for the target rate at the end of 2023  rose only around 5 basis points.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Expectations for economic conditions at the time of the  first increase in the target range, as measured by the  Desk surveys, appeared to remain broadly consistent  with the Committee’s policy framework and forward  guidance.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.793
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.773
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Expectations from the Desk surveys for the  path of asset purchases were little changed.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Contacts  noted that these expectations have been held steady by  policymaker communications emphasizing both the  need to see realized progress toward the Committee’s  goals and the intent to communicate well in advance of  the time when progress could be judged substantial  enough to warrant a change in the pace of purchases.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.504
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Alongside the rise in U.S. yields, broad U.S. equity price  indexes increased moderately, with the largest gains in  cyclically sensitive sectors.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The rise in U.S. yields was  also accompanied by increases in sovereign yields in  other advanced economies.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Some central banks re- sponded to these yield increases with adjustments to op- erations; others suggested that the rising yields reflected  improvements in the outlook.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The deputy manager discussed the evolution of the Fed- eral Reserve’s balance sheet and related developments in  money markets.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.888
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Reserve balances rose more than  $400 billion, on net, over the intermeeting period to  $3.7 trillion, while Treasury bills outstanding decreased  more than $200 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Against this backdrop, the ef- fective federal funds rate softened modestly, while re- purchase agreement (repo) rates declined to a greater ex- tent.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.909
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Moreover, market participants projected that re- serves would grow at a historically rapid pace in coming  months, reflecting continued expansion of the Federal  Reserve’s balance sheet along with a projected draw- down in the balances maintained in the Treasury General  Account.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Market contacts suggested that continued  rapid expansion of reserves could put further downward  pressure on money market rates.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The deputy manager  noted that the earliest and most pronounced pressure  was likely to be observed in overnight secured financing  markets, and there could be increasing usage of the over- night reverse repurchase agreement (ON RRP) facility.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In light of the potential for expanded use of the ON  RRP facility, the staff had conducted a review to ensure  that the terms of the facility and its counterparty base  were well positioned to continue to support effective  policy implementation.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "By offering a broad range of  money market lenders an outside investment option, the  ON RRP facility enhances lenders’ bargaining power in  negotiating rates on short-term private investments and  thus helps establish a floor on overnight money market  rates.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The facility can also alleviate downward pressure  on overnight rates associated with reserve growth by  broadening the range of liabilities that support the Fed- eral Reserve’s balance sheet expansion.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.614
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The review rec- ommended raising the ON RRP per-counterparty limit  from $30 billion to $80 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The $30 billion limit had  been established a number of years ago, and the amount  of credit intermediated through money markets had  grown substantially since then.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The increase in the limit  to $80 billion would restore the capacity of the facility  relative to the aggregate size of money fund counterpar- ties to roughly the level in place when the facility was  established.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The staff would also monitor money market  conditions on an ongoing basis to assess whether any  additional adjustments were needed to the ON RRP fa- cility terms.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In addition to changes to the ON RRP parameters, the  deputy manager also noted that the Federal Reserve  could consider adjusting its administered rates if undue  downward pressure on overnight rates emerged.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.644
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Re- sponses to the Desk surveys indicated that many market  participants anticipated adjustments to the interest on  excess reserves rate and the ON RRP rate at or before  the June meeting.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Finally, in light of more normal con- ditions in agency commercial mortgage-backed securi- ties (CMBS) markets, the Desk planned to conduct  agency CMBS operations as needed to sustain smooth  market functioning but would cease regularly scheduled  CMBS operations.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In their discussion following the Desk briefings, partici- pants noted that the ON RRP facility had been very ef- fective in establishing a firm floor for the federal funds  rate and supporting monetary policy implementation.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.769
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants commented that the facility would continue  to be an important part of the monetary policy imple- mentation framework going forward, particularly in  Minutes of the Meeting of March 16–17, 2021 Page 3 _____________________________________________________________________________________________       coming months with reserve levels projected to rise rap- idly.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.692
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants broadly supported the proposed in- crease in the counterparty limit, and a few participants  also noted that they would support removing the limit  altogether.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A few participants suggested that some type  of dynamic or differential limit could be considered in  the future to enable the ON RRP facility to adapt more  readily to market developments.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A few participants  noted that the concerns at the time the facility was es- tablished about possible adverse effects of the ON RRP  facility on financial stability and the structure of money  markets had not materialized.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Indeed, over the spring  of 2020, the facility played an important role in helping  stabilize money market conditions.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In light of the po- tential for greater use of the ON RRP facility going for- ward in connection with the expansion of the Federal  Reserve’s balance sheet and associated downward pres- sure on overnight rates, a couple of participants noted  that it might be useful to review lessons learned regard- ing the ON RRP facility since its inception.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Following the discussion, the Chair noted the potential  for downward pressure on money market rates and sug- gested that, should undue downward pressure on over- night rates emerge, it might be appropriate to implement  adjustments to administered rates at upcoming meetings  or even between meetings to support effective policy im- plementation and ensure that the federal funds rate re- mains well within the target range.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.104
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "By unanimous vote, the Committee ratified the Desk’s  domestic transactions over the intermeeting period.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.457
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "No  intervention operations occurred in foreign currencies  for the System’s account during the intermeeting period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Staff Review of the Economic Situation  The COVID-19 pandemic and the measures undertaken  to contain its spread continued to affect economic activ- ity in the United States and abroad.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.024
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The information  available at the time of the March 16–17 meeting sug- gested that U.S. real gross domestic product (GDP) was  expanding in the first quarter of 2021 at a pace that was  faster than in the fourth quarter of last year, although the  level of real GDP had likely not yet returned to the level  seen before the onset of the pandemic.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": -0.933
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Labor market  conditions improved in January and February, but em- ployment was still well below its level at the start of 2020.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Consumer price inflation through January—as measured  by the 12-month percentage change in the price index  for personal consumption expenditures (PCE)—re- mained well below 2 percent.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.042
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Total nonfarm payroll employment increased solidly  over January and February after softening at the end of  last year.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.93
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "As of February, payroll employment had re- traced somewhat more than half of the losses seen since  the onset of the pandemic.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.021
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The unemployment rate fell  to 6.2 percent in February.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": 0.013
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The unemployment rates for  Hispanics and Asians declined, on balance, over January  and February, while the unemployment rate for African  Americans was unchanged on net; the rates for both Af- rican Americans and Hispanics remained well above the  national average.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": 0.267
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Even though the labor force participa- tion rate edged down, the employment-to-population ra- tio moved up somewhat over January and February;  both measures remained below their pre-pandemic lev- els.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.388
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Initial claims for unemployment insurance in early  March were at their lowest level since November of last  year.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": 0.015
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Weekly estimates of private-sector payrolls con- structed by Federal Reserve Board staff using data pro- vided by the payroll processor ADP indicated that the  four-week average increase in private employment at the  end of February was about the same as it had been in the  middle of the month, when the Bureau of Labor Statis- tics collects payroll employment data.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.734
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.028
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Average hourly earnings for all employees rose 5.3 per- cent over the 12 months ending in February, and labor  compensation per hour in the business sector increased  6.6 percent over the four quarters of 2020.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The gains in  both these measures, however, continued to be domi- nated by changes in the composition of the workforce.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In particular, the concentration of job losses among  lower-wage workers since early last year had resulted in  outsized increases in average hourly earnings and com- pensation per hour that were not indicative of tight labor  market conditions.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": 0.009
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "By contrast, the employment cost  index of total hourly compensation in the private sector  rose 2.6 percent over the 12 months of last year, and a  staff estimate of the 12-month change in the median  wage derived from the ADP data was 3.2 percent in Jan- uary.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.213
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "These measures are likely to have been less af- fected by changes in workforce composition, and they  were rising more slowly than their pre-pandemic pace.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Total PCE price inflation was 1.5 percent over the  12 months ending in January and continued to be held  down by slack in resource utilization.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.594
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Core PCE price  inflation, which excludes changes in consumer energy  prices and many consumer food prices, also was 1.5 per- cent over the 12 months ending in January, while the  trimmed mean measure of 12-month PCE inflation con- structed by the Federal Reserve Bank of Dallas was  1.7 percent in January.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.373
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.889
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In February, the 12-month  change in the consumer price index (CPI) was 1.7 per- cent, while core CPI inflation was 1.3 percent over the  same period.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.258
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The latest readings on survey-based  Page 4 Federal Open Market Committee _____________________________________________________________________________________________       measures of longer-run inflation expectations were little  changed on balance.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.783
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.481
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In early March, the University of  Michigan Surveys of Consumers preliminary measure  for the next 5 to 10 years was the same as in the previous  two months, while in February, the 3-year-ahead meas- ure of inflation expectations produced by the Federal  Reserve Bank of New York was essentially unchanged  from its January level.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.222
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The Survey of Professional Fore- casters measure of PCE price inflation over the next  10 years edged up in the first quarter, returning to its pre- pandemic level.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.24
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A staff index of common inflation ex- pectations, which summarizes the co-movement of a  wide variety of inflation expectations measures, was at  about the same level in the fourth quarter of last year as  in the third quarter.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.884
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Consumer spending appeared to be increasing in the  first quarter at a pace considerably faster, on balance,  than in the fourth quarter of last year.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Real PCE ex- panded strongly in January after declining over the pre- ceding two months, with spending likely boosted by fed- eral stimulus payments sent out in early January.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.579
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The  components of the nominal retail sales data used by the  Bureau of Economic Analysis to estimate PCE pointed  to a step-down in spending in February, but revised data  for the previous month suggested an even stronger gain  in January.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.014
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Spending in March was expected to be  boosted by additional federal stimulus payments from  the ARP, which started to be distributed around the mid- dle of the month.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In addition, the personal saving rate  jumped to an even higher level in January, and ongoing  gains in labor earnings along with further fiscal support  pointed to additional increases in accumulated house- hold savings.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Moreover, the preliminary reading of con- sumer sentiment from the Michigan survey moved up  notably in early March to its highest level over the past  year, reportedly reflecting the growing number of vac- cinations and the enactment of the ARP, although con- sumer sentiment remained below its levels from just be-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "fore the onset of the pandemic.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Construction of single-family homes and home sales re- mained well above their pre-pandemic levels.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "However,  the incoming data for this sector were mixed.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Starts of  single-family homes moved down notably over January  and February, in part likely reflecting severe winter  weather in February.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Starts of multifamily units also fell  in February but by less than the strong increase seen in  January.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Construction permits for single-family homes  moved down, on net, over January and February, point-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "ing to some slowing in construction in coming months.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Sales of both new and existing homes increased further  in January, and home prices continued to rise briskly.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Business investment in equipment and intangibles was  continuing to increase in the first quarter after rising ap- preciably in the fourth quarter of last year.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Nominal  shipments of nondefense capital goods excluding air- craft expanded strongly in January, and rising orders for  these goods pointed to further gains in business equip- ment spending in coming months.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Business investment  in the drilling and mining sector appeared to be increas- ing further after turning up sharply in the fourth quarter,  as crude oil and natural gas rigs in operation—an indica- tor of drilling investment—continued to rise through  early March with oil prices moving higher.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Nominal  nonresidential construction spending rose somewhat in  January, but investment in nonresidential structures out- side of the drilling and mining sector looked to remain  weak in the current quarter after declining further in the  fourth quarter, reflecting continued hesitation by busi- nesses to commit to building projects with lengthy times  to completion and uncertain future returns.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Industrial production continued to rise solidly in January  but then fell markedly in February, largely reflecting de- clines in manufacturing and mining sector output caused  by severe winter weather in the south central region of  the country in the middle of that month.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": 0.003
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Along with the  severe weather, a cutback in the production of motor  vehicles and parts also reflected a global shortage of  semiconductors.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "New orders indexes in national and re- gional manufacturing surveys pointed toward solid in- creases in factory output in the coming months, al- though reports of shortages in materials and labor, as  well as bottlenecks in transportation, signaled some po- tential restraints on the pace of the manufacturing recov-",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": -0.732
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "ery.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Total real government purchases appeared to be rising  in the first quarter after edging down in the fourth quar- ter.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Although data through February indicated that de- fense spending was moving down, a likely bounceback  in nondefense spending was expected to lift total federal  purchases.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "State and local government purchases looked  to be increasing, as the payrolls of these governments  expanded, on net, over January and February, and nom- inal state and local construction spending increased sol- idly in January.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Moreover, additional federal support for  state and local governments included in the ARP, along  with an improved outlook for state and local tax reve- nues, pointed to further notable increases in state and  local purchases.   Data for December and January showed a narrower  nominal U.S. international trade deficit than in Novem- ber.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": -0.075
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Both imports and exports continued to rebound  Minutes of the Meeting of March 16–17, 2021 Page 5 _____________________________________________________________________________________________       from their collapse in the first half of last year.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": -0.84
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Goods  imports in January were much higher than a year earlier,  with continued gains in most categories.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": -0.924
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Nominal goods  exports in January nearly recovered to their level from a  year earlier, with particular strength in exports of capital  goods and industrial supplies.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": -0.863
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Services imports and ex- ports remained depressed, weighed down by the contin- ued suspension of most international travel.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": 0.01
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Recent data pointed to a slowdown in economic activity  across foreign economies around the turn of the year, as  tight social-distancing restrictions were imposed to rein  in a new wave of COVID-19 infections in various parts  of the world, most notably in Europe and Latin America.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.855
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.014
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Even so, economies appeared to be better adapted to  operating under restrictions than during previous waves  of infections.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Manufacturing activity continued to gen- erally outperform activity in the services sector, and  manufactured exports from China and some other Asian  economies remained strong, especially to the United  States.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": 0.488
+      },
+      {
+        "name": "Countries",
+        "sentiment": -0.935
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Inflation rebounded in many foreign economies,  reflecting rising energy prices and other temporary fac- tors.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.897
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "However, underlying inflationary pressures re- mained subdued.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Staff Review of the Financial Situation  Investors appeared to have become more optimistic  about the economic outlook over the intermeeting pe-",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.849
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "riod against the backdrop of progress on COVID-19  vaccinations, signs of stronger domestic spending, and  additional fiscal stimulus.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The nominal Treasury yield  curve steepened markedly, largely because of increases  in longer-term real yields, although measures of inflation  compensation also increased further.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.935
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Despite the spikes  in equity market volatility early in the intermeeting pe- riod, spurred by heavy trading concentrated in a few spe- cific stocks and subsequent concerns over the rapid rise  in longer-term interest rates, broad equity price indexes  rose on net.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.911
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Consistent with the stronger outlook,  spreads on high-yield corporate bonds narrowed.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Fi- nancing conditions for businesses with access to capital  markets and households with high credit scores re- mained broadly accommodative, but conditions stayed  tight for other borrowers.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The Treasury yield curve steepened over the intermeet- ing period, with 5- and 10-year yields rising markedly.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Measures of inflation compensation increased moder- ately, on net, continuing the trend observed over recent  months.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.71
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "However, in contrast to recent months, most  of the recent increase in longer-term Treasury yields was  accounted for by higher TIPS-implied real yields.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Mar- ket participants attributed the increases in longer-term  yields in part to increased investor optimism about the  economic outlook and expectations of higher Treasury  debt issuance.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.922
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "On February 25, yields rose especially  sharply.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Market depth became thin, and bid-ask spreads  widened, but Treasury market liquidity gradually recov- ered over the following days.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Swaption-implied volatili- ties of longer-term interest rates rose notably.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.936
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The expected path for the federal funds rate over the  next few years, as implied by a straight read of overnight  index swap quotes, rose substantially since the previous  FOMC meeting and moved above 25 basis points in the  first quarter of 2023, about three quarters sooner than  expected at the time of the January meeting.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.912
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.766
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Broad stock price indexes increased, on net, over the in- termeeting period, consistent with increased investor  optimism about the economic outlook and the enact- ment of the ARP.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.905
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Stocks in cyclically sensitive industries  such as energy, banking, and small caps recorded sizable  gains, while other sectors experienced mixed perfor- mance.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "One-month option-implied volatility on the  S&P 500—the VIX—fluctuated over a wide range dur-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "ing the intermeeting period but moved lower on balance.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Spreads of corporate bond yields over comparable-  maturity Treasury yields were roughly unchanged on   investment-grade corporate bonds but narrowed for  speculative-grade bonds.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Conditions in short-term funding markets remained sta- ble over the intermeeting period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Spreads on commer- cial paper and negotiable certificates of deposit across  different tenors were little changed and remained near  historically low levels.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Assets under management  (AUM) of government money market funds (MMFs)  rose over the intermeeting period, whereas AUM of  prime MMFs declined somewhat.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The effective federal funds rate and the Secured Over- night Financing Rate averaged 7 basis points and 3 basis  points, respectively, over the intermeeting period, de- creasing somewhat relative to the previous intermeeting  period average amid a net decrease in Treasury bill issu- ance and rising reserves.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.883
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "There continued to be no par- ticipation in the Federal Reserve’s repo operations, but  participation in the Federal Reserve’s ON RRP increased  a little.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.804
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Amid stable market conditions, there was no  take-up in the Money Market Mutual Fund Liquidity Fa- cility or the Commercial Paper Funding Facility.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Improved U.S. economic growth prospects and opti- mism about the eventual lifting of social-distancing and  related restrictions globally were major drivers of asset  prices abroad, spurring sizable increases in sovereign  Page 6 Federal Open Market Committee _____________________________________________________________________________________________       yields in advanced foreign economies.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.835
+      },
+      {
+        "name": "GDP",
+        "sentiment": -0.91
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In response to  rising yields, the Reserve Bank of Australia increased its  bond purchases, and the European Central Bank indi- cated it would increase the pace of its bond purchases  going forward.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.855
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The broad dollar index rose modestly,  with more notable appreciation against currencies of  emerging market economies (EMEs).",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "EME sovereign  spreads edged up, and flows into EME bond funds fell  back later in the period amid the rise in yields in ad- vanced economies.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "However, flows into dedicated  EME equity funds remained strong.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Overall, foreign eq- uity indexes increased slightly in most major markets.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Financing conditions for nonfinancial businesses in cap- ital markets remained broadly accommodative over the  intermeeting period, supported by low interest rates and  high equity valuations.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.704
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Gross and net corporate bond  issuances were solid in January and February.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Gross is- suance of leveraged loans was strong in January, driven  mainly by refinancing activity, as primary-market spreads  compressed notably since the end of last year in re- sponse to strong investor demand for such loans.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Eq- uity raised through traditional initial public offerings and  seasoned equity offerings continued to be strong in Jan- uary and February, and initial equity offerings by special  purpose acquisition companies remained exceptionally  high.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Commercial and industrial loans outstanding on  banks’ balance sheets continued to decline through Feb- ruary as loan paydowns persisted and demand for new  bank credit reportedly remained subdued.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Corporate earnings continued to recover while the credit  quality of nonfinancial corporations improved further.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Corporate bond defaults declined in December and Jan- uary and reached levels substantially below their 2019  average.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In addition, the volume of nonfinancial corpo- rate credit rating upgrades modestly outpaced down- grades over the first two months of 2021.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Market indi- cators of future default expectations moved lower.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Financing conditions for small businesses remained  tight.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Demand for loans remained depressed—and loan  originations fell in December last year to about the same  level seen in August—after the spike in lending associ- ated with the first round of the Paycheck Protection Pro- gram.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Long-term delinquencies remained elevated rela- tive to recent years but were at levels significantly below  those experienced during the Global Financial Crisis.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Municipal market financing conditions stayed accom- modative over the intermeeting period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "For commercial real estate (CRE) financed through cap- ital markets, financing conditions remained accommo- dative over the intermeeting period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Agency CMBS  spreads narrowed further with strong issuance in De- cember and January.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Spreads on non-agency CMBS also  tightened, although triple-B spreads stayed at elevated  levels compared with pre-pandemic levels.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Issuance of  non-agency CMBS remained weak relative to pre-  pandemic levels.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "CRE loan growth at banks was weak,  on net, through February, consistent with tight bank  lending standards.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Financing conditions in the residential mortgage market  tightened somewhat over the intermeeting period but re- mained accommodative for stronger borrowers.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Mort- gage rates for most borrowers increased but stayed near  historically low levels, supporting elevated refinance and  purchase activity through January.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Credit was broadly  available to higher-score borrowers meeting standard  conforming loan criteria but tightened further for bor- rowers with lower credit scores.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The share of mortgages  in forbearance was unchanged.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Financing conditions in consumer credit markets re- mained generally accommodative for borrowers with  strong credit scores but were still tight for those with  nonprime scores.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Auto loan balances continued to grow  in January, while credit card balances declined.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Interest  rates on new credit card offers to borrowers with prime  credit scores continued to trend down, on net, through  December.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In contrast, offer rates to nonprime borrow- ers rose further.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Conditions in the asset-backed securi- ties market were stable during the intermeeting period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Staff Economic Outlook  The U.S. economic projection prepared by the staff for  the March FOMC meeting was considerably stronger  than the January forecast.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.85
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.862
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Real GDP growth appeared  to be picking up at the beginning of this year by more  than the staff had expected, likely reflecting both a  faster-than-anticipated easing in social distancing and a  more rapid response by households to the fiscal support  package enacted in late December.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": -0.873
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.903
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Moreover, the size  of the ARP enacted in March was considerably larger  than what the staff had assumed in the January projec- tion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "All told, real GDP growth was projected to be sub- stantial this year and the unemployment rate was fore- cast to decline markedly, as the staff’s projection also  continued to anticipate that widespread vaccination  would allow for further easing in social distancing this  year.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": -0.005
+      },
+      {
+        "name": "GDP",
+        "sentiment": -0.638
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.757
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Real GDP growth was expected to step down in  2022 and 2023 but still outpace that of potential over  this period, leading to a decline in the unemployment  rate to historically low levels, as monetary policy was as- sumed to remain highly accommodative.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": -0.027
+      },
+      {
+        "name": "GDP",
+        "sentiment": 0.033
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.089
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Minutes of the Meeting of March 16–17, 2021 Page 7 _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Incoming data on inflation were a little above what the  staff had expected.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.481
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The 12-month changes in total and  core PCE prices were expected to transitorily move  above 2 percent in coming months, as the low inflation  readings from the spring of last year dropped out of the  calculation window.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.364
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In addition, inflation was forecast  to be temporarily boosted this year by the expected  emergence of some production bottlenecks and supply  constraints.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.921
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Following the transitory increase this year,  inflation was projected to run a bit below 2 percent next  year and then to reach 2 percent by 2023, reflecting tight  resource utilization in product and labor markets.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.071
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The staff continued to see the uncertainty surrounding  the outlook as elevated.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Moreover, the uncertain course  of the pandemic, particularly the emergence of more- contagious strains of the coronavirus in the United  States and elsewhere, was still viewed as tilting the risks  to the economic outlook to the downside.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.067
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "However,  given the resilience of the economy in the face of the  earlier surge in new COVID-19 cases, hospitalizations,  and deaths and the magnitude of fiscal support enacted,  the downside risks to the economic outlook were seen  as smaller than for the previous projection.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.392
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The staff  viewed the risks of upside inflationary pressures as hav- ing increased since the previous forecast and now saw  the risks to the inflation projection as balanced.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.081
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants’ Views on Current Conditions and the  Economic Outlook",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.637
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In conjunction with this FOMC meeting, participants  submitted their projections of the most likely outcomes  for real GDP growth, the unemployment rate, and infla- tion for each year from 2021 through 2023 and over the  longer run, based on their individual assessments of ap- propriate monetary policy, including the path of the fed- eral funds rate.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.918
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": 0.779
+      },
+      {
+        "name": "GDP",
+        "sentiment": 0.826
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.889
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The longer-run projections represented  each participant’s assessment of the rate to which each  variable would be expected to converge, over time, un- der appropriate monetary policy and in the absence of  further shocks to the economy.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.461
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.533
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A Summary of Eco- nomic Projections was released to the public following  the conclusion of the meeting.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In their discussion of current conditions, participants  noted that the COVID-19 pandemic was causing tre- mendous human and economic hardship across the  United States and around the world.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.072
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Following a mod- eration in the pace of the recovery, indicators of eco- nomic activity and employment had turned up recently,  although the sectors most adversely affected by the pan- demic remained weak.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.83
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Inflation continued to run below  2 percent.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.047
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Overall financial conditions remained accom- modative, in part reflecting policy measures to support  the economy and the flow of credit to U.S. households  and businesses.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.175
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants noted that the path of the  economy would depend significantly on the course of  the virus, including progress on vaccinations, and that  the ongoing public health crisis would continue to weigh  on economic activity, employment, and inflation and  posed considerable risks to the economic outlook.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.416
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.604
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.025
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants observed that the pace of the economic re- covery had picked up recently and that the economy  continued to show resilience in the face of the pandemic.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.929
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "They noted encouraging developments regarding the  pandemic, including significant declines in the number  of new cases, hospitalizations, and deaths over the inter- meeting period as well as a pickup in the pace of vac- cinations.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In light of these developments as well as the  extent of the recent fiscal policy support, participants  significantly revised up their projections for real GDP  growth this year compared with the projections they  submitted last December.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": 0.143
+      },
+      {
+        "name": "Congress",
+        "sentiment": -0.207
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "They noted, however, that  economic activity and employment were currently well  below levels consistent with maximum employment.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.005
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.005
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants observed that the economic downturn had  not fallen equally on all Americans and that lower-  income and Black and Hispanic households had been  disproportionately affected by the pandemic.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A number  of participants stressed that recently enacted fiscal sup- port would help address some of the hardships faced by  these groups and that monetary policy would also help  by promoting the economy’s return to the Committee’s  goals of broad-based and inclusive maximum employ- ment and price stability.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.062
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.287
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.084
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants observed that household spending had risen  notably so far this year and anticipated that further gains  in consumer spending would contribute significantly to  the economic recovery.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.754
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "While household spending on  services that typically require close personal contact re- mained weak, participants expected spending on these  services would improve as vaccinations became more  widespread, social-distancing measures were relaxed,  and the public became less wary of close personal inter- actions.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants anticipated consumer spending  would be bolstered by the recently enacted fiscal stimu- lus packages as well as by accommodative monetary pol- icy.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Many participants also pointed to the elevated level  of household savings and judged that the release of pent- up demand could boost consumption growth further as  social distancing waned.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants also observed that  residential construction continued to be solid and home  Page 8 Federal Open Market Committee _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.417
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "sales remained robust in part because of low interest  rates.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Low inventory was viewed as an important factor  supporting strong gains in housing prices.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "With respect to the business sector, participants ob- served that business equipment investment had contin- ued to increase and that readings on new orders and  shipments of capital goods remained strong.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "While  some District contacts continued to report that firms in  industries such as CRE or leisure, travel, and hospitality  were struggling from pandemic-related social distancing,  other District contacts reported that activity in these in- dustries had started to improve.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants noted that  surveys of business activity had picked up recently and  that many District contacts were growing increasingly  optimistic about business prospects given ongoing pro- gress on vaccinations.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants also discussed re- ports of shortages in materials, key intermediate inputs,  and labor as well as bottlenecks in shipping.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A few par- ticipants noted that higher crop prices were continuing  to boost income in the agricultural sector.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Several par- ticipants judged that the support provided by the ARP  could improve the financial positions of small firms that  had been adversely affected by the pandemic.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants observed that labor market conditions had  improved recently, as payroll employment registered  strong gains in February and the unemployment rate fell  to 6.2 percent.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.937
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": 0.005
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Even so, payroll employment was about  9.5 million jobs below its pre-pandemic level, and labor  market conditions for those in the most disadvantaged  communities were viewed as lagging behind those of  other households.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.011
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Moreover, participants noted that  employment in the leisure and hospitality sector was still  down substantially from its pre-pandemic level despite a  sharp rebound in February.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.48
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants generally ex- pected strong job gains to continue over coming months  and into the medium term, supported by accommoda- tive fiscal and monetary policies as well as by continued  progress on vaccinations, further reopening of sectors  most affected by the pandemic, and the associated re- covery in economic activity.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.923
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.024
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "However, participants  noted that the economy was far from achieving the  Committee’s broad-based and inclusive goal of maxi- mum employment.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.061
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.152
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.013
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Some participants commented that  labor force participation continued to be held down by  workers’ health concerns and additional childcare re- sponsibilities associated with virtual schooling and that  the pace of recovery in the labor market would depend  importantly on how rapidly those affected by these is- sues could rejoin the labor force.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.02
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Several participants  noted that the speed of the labor market recovery also  depended on factors such as the movement of workers  across industries and occupations in a restructuring  economy or the effects of technological change on the  demand for labor.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.712
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Several participants suggested that  the ARP could hasten the recovery, which could help  limit longer-term damage in labor markets caused by the  pandemic.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants observed that headline PCE inflation con- tinued to run below 2 percent.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.017
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In the near term, the   12-month change in PCE prices was expected to move  above 2 percent as the low inflation readings from the  spring of last year drop out of the calculation.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.634
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Most par- ticipants also pointed to supply constraints that could  contribute to price increases for some goods in coming  months as the economy continued to reopen.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.921
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "After the  transitory effects of these factors fade, however, partici- pants generally anticipated that annual inflation readings  would edge down next year.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.01
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Subsequently, participants  expected that inflation would likely move along a trajec- tory consistent with achieving the Committee’s objec- tives over time, supported by strong aggregate demand,  which participants expected would be driven in part by  accommodative monetary and fiscal policies.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.881
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.295
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants discussed market- and survey-based  measures of longer-term inflation expectations and their  implications for the inflation outlook.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.862
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Market-based  measures of inflation compensation at the 5- and 10-year  horizons had continued to move up over the intermeet- ing period, while survey-based measures of inflation ex-",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.868
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "pectations were little changed on balance.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A number of  participants indicated that the increases in market-based  measures of inflation compensation from the very low  levels of last spring were consistent with the view that  inflation was likely to move along a path over time con- sistent with the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.499
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.906
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants noted that overall financial conditions re- mained highly accommodative, in part reflecting the  stance of monetary policy.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.809
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants commented on  the notable rise in longer-term Treasury yields that oc- curred over the intermeeting period and generally  viewed it as reflecting the improved economic outlook,  some firming in inflation expectations, and expectations  for increased Treasury debt issuance.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.884
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.572
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Disorderly condi- tions in Treasury markets or a persistent rise in yields  that could jeopardize progress toward the Committee’s  goals were seen as cause for concern.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.043
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "While overall fi- nancial conditions were still seen as accommodative, a  number of participants remarked that financing condi- tions remained challenging for many small businesses.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A  Minutes of the Meeting of March 16–17, 2021 Page 9 _____________________________________________________________________________________________       couple of participants expressed concern that highly ac- commodative financial conditions could lead to exces- sive risk-taking and the buildup of financial imbalances.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "While generally acknowledging that the medium-term  outlook for real GDP growth and employment had im- proved, participants continued to see the uncertainty  surrounding that outlook as elevated.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.66
+      },
+      {
+        "name": "GDP",
+        "sentiment": -0.201
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants  agreed that the path of the economy would depend sig- nificantly on the course of the virus, including progress  on vaccinations.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.839
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Most participants indicated that the  pandemic continued to pose considerable risks to the  economic outlook, including risks associated with new  more-contagious virus strains, obstacles in getting suffi- cient numbers of the public vaccinated, or social-  distancing fatigue.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.077
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A few participants pointed to risks  associated with stress in the CRE sector or to risks asso- ciated with the unwinding of mortgage forbearance and  eviction moratoriums provided to households.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "With re- gard to upside risks, some participants pointed to the  possibility that fiscal policy could have a more expan- sionary effect than anticipated, that households could  display a greater-than-expected willingness to spend out  of accumulated savings, or that widespread vaccinations  and easing of social distancing could result in a more  rapid boost to spending and employment than antici- pated.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.916
+      },
+      {
+        "name": "Congress",
+        "sentiment": 0.648
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.74
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Most participants noted that they viewed the risks to the  outlook for inflation as broadly balanced.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.585
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Several re- marked that supply disruptions and strong demand  could push up price inflation more than anticipated.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.176
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Several participants commented that the factors that had  contributed to low inflation during the previous expan- sion could again exert more downward pressure on in- flation than expected.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.416
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In their consideration of the stance of monetary policy,  participants reaffirmed the Federal Reserve’s commit- ment to using its full range of tools to support the U.S.  economy during this challenging time, thereby promot- ing the Committee’s statutory goals of maximum em- ployment and price stability.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.078
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.279
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.489
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants noted that in- dicators of economic activity and employment had  turned up recently after a period of moderation, al- though the sectors most adversely affected by the pan- demic remained weak.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.883
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.669
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Despite these positive indicators  and an improved public health situation, participants  agreed that the economy remained far from the Com- mittee’s longer-run goals and that the path ahead re- mained highly uncertain, with the pandemic continuing  to pose considerable risks to the outlook.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.134
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Consequently,  participants judged that the current stance of policy and  policy guidance remained appropriate to foster further  economic recovery as well as to achieve inflation that av-",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.7
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.742
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "erages 2 percent over time and longer-term inflation ex-",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.745
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "pectations that remain well anchored at 2 percent.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants judged that the Committee’s current guid- ance for the federal funds rate and asset purchases was  serving the economy well.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.595
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.044
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.039
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "They noted that a benefit of  the outcome-based guidance was that it did not need to  be recalibrated often in response to incoming data or the  evolving outlook.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants also noted the im- portance of communicating to the public that the exist- ing guidance, together with the new monetary policy  framework as delineated in the revised Statement on  Longer-Run Goals and Monetary Policy Strategy, meant  that the path of the federal funds rate and the balance  sheet depend on actual progress toward reaching the  Committee’s maximum-employment and inflation goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.848
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.905
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.487
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.793
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.854
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In particular, various participants noted that changes in  the path of policy should be based primarily on observed  outcomes rather than forecasts.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants agreed that overall financial conditions were  accommodative.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "They noted that the Federal Reserve’s  asset purchases since last March had materially eased fi- nancial conditions and were providing substantial sup- port to the economy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.22
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.75
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Participants noted that it would  likely be some time until substantial further progress to- ward the Committee’s maximum-employment and  price-stability goals would be realized and that, con- sistent with the Committee’s outcome-based guidance,  asset purchases would continue at least at the current  pace until then.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.453
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.725
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "A number of participants highlighted  the importance of the Committee clearly communicating  its assessment of progress toward its longer-run goals  well in advance of the time when it could be judged sub- stantial enough to warrant a change in the pace of asset  purchases.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.239
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The timing of such communications would  depend on the evolution of the economy and the pace  of progress toward the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.53
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.895
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Committee Policy Action",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.892
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In their discussion of monetary policy for this meeting,  members agreed that the COVID-19 pandemic was  causing tremendous human and economic hardship  across the United States and around the world.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.517
+      },
+      {
+        "name": "Countries",
+        "sentiment": 0.393
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "They  noted that following a moderation in the pace of the re- covery, indicators of economic activity and employment  had turned up recently, although the sectors most ad- versely affected by the pandemic remained weak.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.112
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.606
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Infla- tion continued to run below 2 percent.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Overall financial  conditions remained accommodative, in part reflecting  policy measures to support the economy and the flow of  Page 10 Federal Open Market Committee _____________________________________________________________________________________________       credit to U.S. households and businesses.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.778
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.473
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Members also  remarked that the path of the economy would depend  significantly on the course of the virus, including pro- gress on vaccinations.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.813
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In addition, members agreed that  the ongoing public health crisis continued to weigh on  economic activity, employment, and inflation and was  posing considerable risks to the economic outlook.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.156
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.039
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.052
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Members agreed that the Federal Reserve was commit- ted to using its full range of tools to support the U.S.  economy in this challenging time, thereby promoting its  maximum-employment and price-stability goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.719
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.704
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.536
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "All  members reaffirmed that, in accordance with the Com- mittee’s goals to achieve maximum employment and in- flation at the rate of 2 percent over the longer run and  with inflation running persistently below this longer-run  goal, they would aim to achieve inflation moderately  above 2 percent for some time so that inflation averages  2 percent over time and longer-term inflation expecta-",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.017
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.65
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "tions remain well anchored at 2 percent.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Members ex- pected to maintain an accommodative stance of mone- tary policy until those outcomes were achieved.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "All members agreed to maintain the target range for the  federal funds rate at 0 to ¼ percent, and they expected  that it would be appropriate to maintain this target range  until labor market conditions had reached levels con- sistent with the Committee’s assessments of maximum  employment and inflation had risen to 2 percent and was  on track to moderately exceed 2 percent for some time.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.485
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.756
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.885
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.701
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "In addition, members agreed that it would be appropri- ate for the Federal Reserve to continue to increase its  holdings of Treasury securities by at least $80 billion per  month and agency mortgage-backed securities by at least  $40 billion per month until substantial further progress  had been made toward the Committee’s maximum-  employment and price-stability goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.602
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.548
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "They judged that  these asset purchases would help foster smooth market  functioning and accommodative financial conditions,  thereby supporting the flow of credit to households and  businesses.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Members agreed that, in assessing the appropriate stance  of monetary policy, they would continue to monitor the  implications of incoming information for the economic  outlook and that they would be prepared to adjust the  stance of monetary policy as appropriate in the event  that risks emerged that could impede the attainment of  the Committee’s goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.05
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.655
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Members also agreed that, in as- sessing the appropriate stance of monetary policy, they  would take into account a wide range of information, in- cluding readings on public health, labor market condi- tions, inflation pressures and inflation expectations, and  financial and international developments.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.892
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.829
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "With regard to the postmeeting statement, in light of the  notably positive tone of recent data, members judged  that it was appropriate to incorporate that development  in the description of the economic situation with the lan- guage that “indicators of economic activity and employ- ment have turned up recently.”",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.396
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Members also deter- mined that, with oil prices having essentially retraced  their pandemic-related declines, it was appropriate to re- move the reference to oil prices as a factor holding down  consumer price inflation and to simply state that “infla- tion continues to run below 2 percent.”",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.541
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Regarding the  directive to the Desk, members agreed that the directive  should incorporate the proposed increase in the per- counterparty limit for the ON RRP facility to $80 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "At the conclusion of the discussion, the Committee  voted to authorize and direct the Federal Reserve Bank  of New York, until instructed otherwise, to execute  transactions in the System Open Market Account in ac- cordance with the following domestic policy directive,  for release at 2:00 p.m.:  “Effective March 18, 2021, the Federal Open  Market Committee directs the Desk to:  •  Undertake open market operations as nec- essary to maintain the federal funds rate in  a target range of 0 to ¼ percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.801
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.574
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Increase the System Open Market Ac- count holdings of Treasury securities by  $80 billion per month and of agency mort- gage-backed securities (MBS) by $40 bil- lion per month.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "•  Increase holdings of Treasury securities  and agency MBS by additional amounts  and  purchase  agency  commercial   mortgage-backed securities (CMBS) as  needed to sustain smooth functioning of  markets for these securities.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "•  Conduct repurchase agreement operations  to support effective policy implementation  and the smooth functioning of short-term  U.S. dollar funding markets.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Conduct overnight reverse repurchase  agreement operations at an offering rate of  0.00 percent and with a per-counterparty  limit of $80 billion per day; the per-  Minutes of the Meeting of March 16–17, 2021 Page 11 _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "counterparty limit can be temporarily in- creased at the discretion of the Chair.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "•  Roll over at auction all principal payments  from the Federal Reserve’s holdings of  Treasury securities and reinvest all princi- pal payments from the Federal Reserve’s  holdings of agency debt and agency MBS  in agency MBS.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.905
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "•  Allow modest deviations from stated  amounts for purchases and reinvestments,  if needed for operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Engage in dollar roll and coupon swap  transactions as necessary to facilitate settle- ment of the Federal Reserve’s agency MBS  transactions.”",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.86
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The vote also encompassed approval of the statement  below for release at 2:00 p.m.:  “The Federal Reserve is committed to using its  full range of tools to support the U.S. economy  in this challenging time, thereby promoting its  maximum employment and price stability goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.606
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.698
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.536
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The COVID-19 pandemic is causing tremen- dous human and economic hardship across the  United States and around the world.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.351
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Following  a moderation in the pace of the recovery, indi- cators of economic activity and employment  have turned up recently, although the sectors  most adversely affected by the pandemic remain  weak.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.265
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.611
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Inflation continues to run below 2 per- cent.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.045
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "Overall financial conditions remain ac- commodative, in part reflecting policy measures  to support the economy and the flow of credit  to U.S. households and businesses.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.175
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The path of the economy will depend signifi- cantly on the course of the virus, including pro- gress on vaccinations.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.9
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  },
+  {
+    "sentence": "The ongoing public  health crisis continues to weigh on economic  activity, employment, and inflation, and poses  considerable risks to the economic outlook.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.423
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.185
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.283
+      }
+    ],
+    "document_id": "fomcminutes20210317.pdf"
+  }
+]
