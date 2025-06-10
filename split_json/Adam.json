@@ -1,0 +1,3322 @@
+[
+  {
+    "sentence": "For release at 2 p.m. EDT  April 29, 2020    The Federal Reserve is committed to using its full range of tools to support the  U.S. economy in this challenging time, thereby promoting its maximum employment and  price stability goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.792
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.561
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.429
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The coronavirus outbreak is causing tremendous human and economic hardship  across the United States and around the world.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.393
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The virus and the measures taken to  protect public health are inducing sharp declines in economic activity and a surge in job  losses.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.007
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "Weaker demand and significantly lower oil prices are holding down consumer  price inflation.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.006
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The disruptions to economic activity here and abroad have significantly  affected financial conditions and have impaired the flow of credit to U.S. households and  businesses.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.014
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The ongoing public health crisis will weigh heavily on economic activity,  employment, and inflation in the near term, and poses considerable risks to the economic  outlook over the medium term.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.374
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.229
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.06
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "In light of these developments, the Committee decided to  maintain the target range for the federal funds rate at 0 to 1/4 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.76
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.816
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The Committee  expects to maintain this target range until it is confident that the economy has weathered  recent events and is on track to achieve its maximum employment and price stability  goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.688
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.866
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.876
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The Committee will continue to monitor the implications of incoming information  for the economic outlook, including information related to public health, as well as global  developments and muted inflation pressures, and will use its tools and act as appropriate  to support the economy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.901
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.573
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.882
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "In determining the timing and size of future adjustments to the  stance of monetary policy, the Committee will assess realized and expected economic  conditions relative to its maximum employment objective and its symmetric 2 percent       (more)",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.822
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.314
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.86
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT  April 29, 2020    - 2 -  inflation objective.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.888
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "This assessment will take into account a wide range of information,  including measures of labor market conditions, indicators of inflation pressures and  inflation expectations, and readings on financial and international developments.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.895
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "To support the flow of credit to households and businesses, the Federal Reserve  will continue to purchase Treasury securities and agency residential and commercial  mortgage-backed securities in the amounts needed to support smooth market functioning,  thereby fostering effective transmission of monetary policy to broader financial  conditions.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.705
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.367
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "In addition, the Open Market Desk will continue to offer large-scale  overnight and term",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "repurchase agreement operations.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The Committee will closely  monitor market conditions and is prepared to adjust its plans as appropriate.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.876
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C.  Williams, Vice Chair; Michelle W. Bowman; Lael Brainard; Richard H. Clarida; Patrick  Harker; Robert S. Kaplan; Neel Kashkari; Loretta J. Mester; and Randal K. Quarles.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.825
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "- 0 -    For release at 2 p.m. EDT  April 29, 2020",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "Decisions Regarding Monetary Policy Implementation",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.884
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The Federal Reserve has made the following decisions to implement the monetary policy  stance announced by the Federal Open Market Committee in its statement on April 29,  2020:",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.916
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.842
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "The Board of Governors of the Federal Reserve System voted unanimously to  maintain the interest rate paid on required and excess reserve balances at 0.10  percent, effective April 30, 2020.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.296
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to  authorize and direct the Open Market Desk at the Federal Reserve Bank of New  York, until instructed otherwise, to execute transactions in the System Open Market  Account in accordance with the following domestic policy directive:  “Effective April 30, 2020, the Federal Open Market Committee directs the Desk  to:    o Undertake open market operations as necessary to maintain the federal  funds rate in a target range of 0 to 1/4 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.774
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "o",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "Increase the System Open Market Account holdings of Treasury  securities, agency mortgage-backed securities (MBS), and agency  commercial mortgage-backed securities (CMBS) in the amounts needed  to support the smooth functioning of markets for these securities.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "o Conduct term and overnight repurchase agreement operations to support  effective policy implementation and the smooth functioning of short-term  U.S. dollar funding markets.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "o Conduct overnight reverse repurchase agreement operations at an offering  rate of 0.00 percent and with a per-counterparty limit of $30 billion per  day; the per-counterparty limit can be temporarily increased at the  discretion of the Chair.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction all principal payments from the Federal Reserve's  holdings of Treasury securities and reinvest all principal payments from  the Federal Reserve's holdings of agency debt and agency MBS in agency  MBS and all principal payments from holdings of agency CMBS in  agency CMBS.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.908
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "o Engage in dollar roll and coupon swap transactions as necessary to  facilitate settlement of the Federal Reserve's agency MBS transactions.”",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "In a related action, the Board of Governors of the Federal Reserve System voted  unanimously to approve the establishment of the primary credit rate at the existing  level of 0.25 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.226
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "(more)",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT  April 29, 2020  - 2 -    This information will be updated as appropriate to reflect decisions of the Federal Open  Market Committee or the Board of Governors regarding details of the Federal Reserve’s  operational tools and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on  the Federal Reserve Bank of New York’s website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.922
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "- 0 -",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "ARP_04.2020.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT             May 4, 2022  Although overall economic activity edged down in the first quarter, household  spending and business fixed investment remained strong.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.006
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "Job gains have been robust  in recent months, and the unemployment rate has declined substantially.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.915
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": -0.016
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "Inflation  remains elevated, reflecting supply and demand imbalances related to the pandemic,  higher energy prices, and broader price pressures.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.236
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "The invasion of Ukraine by Russia is causing tremendous human and economic  hardship.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "The implications for the U.S. economy are highly uncertain.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.552
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "The invasion  and related events are creating additional upward pressure on inflation and are likely  to weigh on economic activity.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.027
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.188
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "In addition, COVID-related lockdowns in China are  likely to exacerbate supply chain disruptions.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.011
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "The Committee is highly attentive to  inflation risks.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.488
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.488
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "The Committee seeks to achieve maximum employment and inflation at the rate  of 2 percent over the longer run.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.597
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.66
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.648
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "With appropriate firming in the stance of monetary  policy, the Committee expects inflation to return to its 2 percent objective and the  labor market to remain strong.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.825
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.722
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "In support of these goals, the Committee decided to  raise the target range for the federal funds rate to 3/4 to 1 percent and anticipates that  ongoing increases in the target range will be appropriate.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.263
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.191
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "In addition, the Committee  decided to begin reducing its holdings of Treasury securities and agency debt and  agency mortgage-backed securities on June 1, as described in the Plans for Reducing  the Size of the Federal Reserve’s Balance Sheet that were issued in conjunction with  this statement.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.511
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "In assessing the appropriate stance of monetary policy, the Committee will  continue to monitor the implications of incoming information for the economic   (more)",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.831
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.785
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT              May 4, 2022  -2-  outlook.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "The Committee would be prepared to adjust the stance of monetary policy  as appropriate if risks emerge that could impede the attainment of the Committee’s  goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.877
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.814
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "The Committee’s assessments will take into account a wide range of  information, including readings on public health, labor market conditions, inflation  pressures and inflation expectations, and financial and international developments.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.799
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.9
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C.  Williams, Vice Chair; Michelle W. Bowman; Lael Brainard; James Bullard; Esther L.  George; Patrick Harker; Loretta J. Mester; and Christopher J. Waller.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.825
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "Patrick Harker  voted as an alternate member at this meeting.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "-0-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT              May 4,",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "2022    Decisions Regarding Monetary Policy Implementation  The Federal Reserve has made the following decisions to implement the monetary policy  stance announced by the Federal Open Market Committee in its statement on May 4,  2022:",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.881
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "The Board of Governors of the Federal Reserve System voted unanimously to raise  the interest rate paid on reserve balances to 0.9 percent, effective May 5, 2022.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.539
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "•",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "As part of its policy decision, the Federal Open Market Committee voted to  authorize and direct the Open Market Desk at the Federal Reserve Bank of New  York, until instructed otherwise, to execute transactions in the System Open Market  Account in accordance with the following domestic policy directive:  “Effective May 5, 2022, the Federal Open Market Committee directs the Desk to:  o Undertake open market operations as necessary to maintain the federal  funds rate in a target range of 3/4 to 1 percent.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.774
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "o Conduct overnight repurchase agreement operations with a minimum bid  rate of 1.0 percent and with an aggregate operation limit of $500 billion;  the aggregate operation limit can be temporarily increased at the  discretion of the Chair.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "o Conduct overnight reverse repurchase agreement operations at an offering  rate of 0.8 percent and with a per-counterparty limit of $160 billion per  day; the per-counterparty limit can be temporarily increased at the  discretion of the Chair.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "o Roll over at auction the amount of principal payments from the Federal  Reserve's holdings of Treasury securities maturing in the calendar month  of June that exceeds a monthly cap of $30 billion.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "Redeem Treasury  coupon securities up to this monthly cap and Treasury bills to the extent  that coupon principal payments are less than the monthly cap.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "o Reinvest into agency mortgage-backed securities (MBS) the amount of  principal payments from the Federal Reserve's holdings of agency debt  and agency MBS received in the calendar month of June that exceeds a  monthly cap of $17.5 billion.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.916
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "o Allow modest deviations from stated amounts for reinvestments, if  needed for operational reasons.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "o Engage in dollar roll and coupon swap transactions as necessary to  facilitate settlement of the Federal Reserve's agency MBS transactions.”",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.858
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "(more)",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "For release at 2 p.m. EDT              May 4, 2022  -2-    •  In a related action, the Board of Governors of the Federal Reserve System voted  unanimously to approve a 1/2 percentage point increase in the primary credit rate to  1 percent, effective May 5, 2022.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.191
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "In taking this action, the Board approved requests  to establish that rate submitted by the Boards of Directors of the Federal Reserve  Banks of Boston, New York, Philadelphia, Cleveland, Richmond, Atlanta, Chicago,  St. Louis, Minneapolis, Kansas City, Dallas, and San Francisco.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.926
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "This information will be updated as appropriate to reflect decisions of the Federal Open  Market Committee or the Board of Governors regarding details of the Federal Reserve’s  operational tools and approach used to implement monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.925
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.909
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "More information regarding open market operations and reinvestments may be found on  the Federal Reserve Bank of New York’s website.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.922
+      }
+    ],
+    "document_id": "monetary20220504a1.pdf"
+  },
+  {
+    "sentence": "Minutes of the Federal Open Market Committee  December 13–14, 2022    A joint meeting of the Federal Open Market Committee  and the Board of Governors of the Federal Reserve Sys- tem was held in the offices of the Board of Governors  on Tuesday, December 13, 2022, at 10:00 a.m. and con- tinued on Wednesday, December 14, 2022, at 9:00 a.m.1  Attendance   Jerome H. Powell, Chair  John C. Williams, Vice Chair  Michael S. Barr  Michelle W. Bowman  Lael Brainard  James Bullard  Susan M. Collins  Lisa D. Cook  Esther L. George  Philip N. Jefferson  Loretta J. Mester  Christopher J. Waller  Charles L. Evans, Patrick Harker, Neel Kashkari, Lorie  K. Logan, and Helen E. Mucciolo, Alternate  Members of the Committee  Thomas I. Barkin, Raphael W. Bostic, and Mary C.  Daly, Presidents of the Federal Reserve Banks of  Richmond, Atlanta, and San Francisco, respectively  James A. Clouse, Secretary  Matthew M. Luecke, Deputy Secretary  Brian J. Bonis, Assistant Secretary  Michelle A. Smith, Assistant Secretary  Mark E. Van Der Weide, General Counsel  Richard Ostrander, Deputy General Counsel  Trevor A. Reeve, Economist  Stacey Tevlin, Economist  Beth Anne Wilson, Economist  Shaghil Ahmed, Carlos Garriga, Joseph W. Gruber, and  William Wascher, Associate Economists   Patricia Zobel, Manager pro tem, System Open Market  Account  Jose Acosta, Senior Communications Analyst, Division  of Information Technology, Board     1",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.91
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The Federal Open Market Committee is referenced as the  “FOMC” and the “Committee” in these minutes; the Board  of Governors of the Federal Reserve System is referenced as  the “Board” in these minutes.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.914
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "David Altig, Executive Vice President, Federal Reserve  Bank of Atlanta  Roc Armenter, Vice President, Federal Reserve Bank of  Philadelphia  Kartik B. Athreya, Executive Vice President, Federal  Reserve Bank of Richmond  Penelope A. Beattie, Section Chief, Office of the  Secretary, Board   Daniel O. Beltran, Deputy Associate Director, Division  of International Finance, Board  Ellen J. Bromagen, First Vice President, Federal  Reserve Bank of Chicago  Jennifer J. Burns, Deputy Director, Division of  Supervision and Regulation, Board  Mark A. Carlson, Adviser, Division of Monetary  Affairs, Board  Todd E. Clark, Senior Vice President, Federal Reserve  Bank of Cleveland  Stephanie E. Curcuru, Deputy Director, Division of  International Finance, Board  Navtej S. Dhillon, Special Adviser to the Board,  Division of Board Members, Board  Burcu Duygan-Bump, Special Adviser to the Board,  Division of Board Members, Board  Rochelle M. Edge, Deputy Director, Division of  Monetary Affairs, Board  Matthew J. Eichner,2 Director, Division of Reserve  Bank Operations and Payment Systems, Board  Eric M. Engen, Senior Associate Director, Division of  Research and Statistics, Board  Eric C. Engstrom, Associate Director, Division of  Monetary Affairs, Board  2 Attended through the discussion of developments in finan- cial markets and open market operations.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.907
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Page 1 _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Jon Faust, Senior Special Adviser to the Chair, Division  of Board Members, Board  Glenn Follette, Associate Director, Division of  Research and Statistics, Board  Joshua Gallin, Senior Special Adviser to the Chair,  Division of Board Members, Board  Jonathan E. Goldberg, Principal Economist, Division  of Monetary Affairs, Board  Erik A. Heitfield, Deputy Associate Director, Division  of Research and Statistics, Board  Valerie S. Hinojosa, Section Chief, Division of  Monetary Affairs, Board  Jane E. Ihrig, Special Adviser to the Board, Division of  Board Members, Board  Benjamin K. Johannsen, Section Chief, Division of  Monetary Affairs, Board  Michael T. Kiley, Deputy Director, Division of  Financial Stability, Board  Don H. Kim, Senior Adviser, Division of Monetary  Affairs, Board  Elizabeth K. Kiser, Associate Director, Division of  Research and Statistics, Board  Sylvain Leduc, Executive Vice President, Federal  Reserve Bank of San Francisco  Andreas Lehnert, Director, Division of Financial  Stability, Board  Paul Lengermann, Assistant Director, Division of  Research and Statistics, Board  Eric LeSueur,2 Policy and Market Monitoring Advisor,  Federal Reserve Bank of New York   Kurt F. Lewis, Special Adviser to the Board, Division  of Board Members, Board  Laura Lipscomb, Special Adviser to the Board,  Division of Board Members, Board  David López-Salido, Senior Associate Director,  Division of Monetary Affairs, Board  Jonathan P. McCarthy, Economic Research Advisor,  Federal Reserve Bank of New York     3",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.877
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Attended Tuesday’s session only.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Ann E. Misback, Secretary, Office of the Secretary,  Board   Raven Molloy, Deputy Associate Director, Division of  Research and Statistics, Board  Norman J. Morin, Deputy Associate Director, Division  of Research and Statistics, Board  Michelle M. Neal, Head of Markets, Federal Reserve  Bank of New York   Giovanni Nicolò, Senior Economist, Division of  Monetary Affairs, Board  Anna Nordstrom, Capital Markets Trading Head,  Federal Reserve Bank of New York   Marcelo Ochoa,3 Principal Economist, Division of  Monetary Affairs, Board  Giovanni Olivei, Senior Vice President, Federal  Reserve Bank of Boston  Anna Paulson, Executive Vice President, Federal  Reserve Bank of Chicago  Andrea Raffo, Senior Vice President, Federal Reserve  Bank of Minneapolis  Linda Robertson, Assistant to the Board, Division of  Board Members, Board  Achilles Sangster II, Senior Information Manager,  Division of Monetary Affairs, Board  Anthony Sarver, Senior Financial Institution and Policy  Analyst, Division of Monetary Affairs, Board  John W. Schindler,4 Senior Associate Director,  Division of Financial Stability, Board  Samuel Schulhofer-Wohl, Senior Vice President,  Federal Reserve Bank of Dallas   Seth Searls,2 Policy and Market Monitoring Associate  Director, Federal Reserve Bank of New York  Nitish Ranjan Sinha, Special Adviser to the Board,  Division of Board Members, Board  Clara Vega, Special Adviser to the Board, Division of  Board Members, Board  Annette Vissing-Jørgensen, Senior Adviser, Division of  Monetary Affairs, Board  4 Attended opening remarks for Tuesday’s session only.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.907
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Page 2 Federal Open Market Committee _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.873
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Jeffrey D. Walker,2 Associate Director, Division of  Reserve Bank Operations and Payment Systems,  Board  Min Wei, Senior Associate Director, Division of  Monetary Affairs, Board  Paul R. Wood, Special Adviser to the Board, Division  of Board Members, Board  Rebecca Zarutskie, Special Adviser to the Board,  Division of Board Members, Board  Selection of Committee Officer  By unanimous vote, the Committee selected Richard  Ostrander to serve as deputy general counsel, effective  December 13, 2022, until the first regularly scheduled  meeting of the Committee in 2023.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.921
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Developments in Financial Markets and Open  Market Operations  The manager pro tem turned first to a discussion of de- velopments in financial markets.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Following several  months of tightening, financial conditions eased over the  period as investor concerns about global risks edged  lower and incoming data showed nascent signs of a  moderation in inflationary pressures.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.925
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Central bank com- munications signaling a slower pace of policy rate in- creases appeared to contribute to improved sentiment.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.12
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.815
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Measures of implied volatility across financial markets  declined somewhat from the elevated levels observed in  October.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Consistent with the decline in volatility,  model-based measures suggested that a drop in term  premiums accounted for much of the decline in Treasury  yields over the period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Equity markets moved higher.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "However, equity market contacts noted risks to growth  ahead, and earnings expectations for coming quarters  had been marked down.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In foreign exchange markets,  moderating concerns about the potential for highly ele- vated U.S. interest rates spurred a depreciation in the  foreign exchange value of the dollar.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.004
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In other market  developments, the manager pro tem noted the failure of  a prominent crypto-asset exchange.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "While the spillovers  from this situation had been significant among other  crypto lenders and exchanges, the collapse was not seen  as posing broader market risks to the financial system.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Regarding the outlook for inflation in the United States,  inflation compensation implied by Treasury Inflation  Protected Securities declined over the period, respond- ing to lower-than-expected consumer price index (CPI)  data and a sizable drop in oil prices.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.003
+      },
+      {
+        "name": "Countries",
+        "sentiment": 0.813
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "However, the Desk  survey-based measures of inflation expectations were lit- tle changed from the prior survey, suggesting that falling  inflation risk premiums may have contributed to the  moves.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.119
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Both market- and survey-based measures con- tinued to point to expectations for a moderation of in- flation over the coming year.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Regarding the outlook for monetary policy, both mar- ket- and Desk survey-based measures indicated expecta- tions for the Committee to maintain elevated policy rates  through 2023.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.272
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.872
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In the December survey, the median re- spondent’s modal expectation for the path of the federal  funds rate in 2023 shifted higher by 25 basis points rela- tive to the November survey.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The survey-based estimate  of the expected policy path in 2024 continued to suggest  a decline in the target range for the federal funds rate  over 2024, little changed from the path anticipated in the  November survey.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.072
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In contrast, the market-implied path  of the federal funds rate in 2024 shifted down by as  much as ¾ percentage point over the period, likely re- flecting declining risk premiums.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.028
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The manager pro tem turned next to a discussion of op- erations and money markets and assessed that balance  sheet runoff was proceeding smoothly.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Repurchase  agreement (repo) rates firmed modestly relative to the  overnight reverse repurchase agreement (ON RRP) fa-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "cility rate over the period with balance sheet reduction  reportedly contributing, in part, to an increase in the de- mand for financing of Treasury securities.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "ON RRP bal- ances declined, on net, as money market funds shifted  investments out of the ON RRP facility, reportedly in  favor of higher rates available in repo markets.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In recent months, banks continued to increase their use  of wholesale funding.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In addition, survey information  suggested that banks expected to move deposit rates  modestly higher relative to the target range in coming  months.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Over time, greater competition among banks  for funding could contribute to drawdowns in the  ON RRP facility.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Staff indicated that they would con- tinue to monitor money market conditions closely as bal- ance sheet reduction proceeds.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Looking ahead to year end, market participants antici- pated limited pressures.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The manager pro tem noted  that if transitory pressures emerged in money markets,  the Federal Reserve’s backstop facilities are available to  support effective policy implementation and smooth  market functioning.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.398
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "By unanimous vote, the Committee ratified the Desk’s  domestic transactions over the intermeeting period.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.457
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "There were no intervention operations in foreign curren- cies for the System’s account during the intermeeting pe-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "riod.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Minutes of the Meeting of December 13–14, 2022 Page 3 _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Staff Review of the Economic Situation",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The information available at the time of the Decem- ber 13–14 meeting suggested that U.S. real gross domes- tic product (GDP) was increasing at a modest pace in  the fourth quarter of 2022 after expanding strongly in  the third quarter.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": -0.913
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Labor market conditions eased some-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "what over October and November but remained quite  tight.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Consumer price inflation—as measured by the   12-month percent change in the price index for personal  consumption expenditures (PCE)—stepped down in  October but continued to be elevated.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.454
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Total nonfarm payroll employment posted solid gains in  October and November that were slower than the aver- age monthly pace seen over the earlier part of the year.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.928
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The unemployment rate moved up 0.2 percentage point  to 3.7 percent in October and remained at that rate in  November.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": -0.913
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "On balance, the unemployment rate for Af- rican Americans edged down over those two months,  while the unemployment rate for Hispanics increased  slightly; the unemployment rates for both groups re- mained above the national measure.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": 0.001
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Both the labor  force participation rate and the employment-to-  population ratio declined a little over the past two  months.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.006
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The private-sector job openings rate, as meas- ured by the Job Openings and Labor Turnover Survey,  moved back down in October but remained high.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Nominal wage growth continued to be elevated and re- mained above the pace judged to be consistent with the  FOMC’s 2 percent inflation objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.776
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.092
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.92
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Average hourly  earnings rose 5.1 percent over the 12 months ending in  November, close to the pace recorded in the employ- ment cost index of hourly compensation in the private  sector over the 12 months ending in September.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Com- pensation per hour (CPH) in the business sector rose  4.0 percent over the four quarters ending in the third  quarter, but the reported increase likely understated the  true pace of increase in CPH, as the lower second-quar- ter employment data from the Quarterly Census of Em- ployment and Wages had not yet been incorporated in  the CPH measure.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.919
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Consumer price inflation remained elevated but had  eased in recent months.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.445
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Total PCE price inflation was  6.0 percent over the 12 months ending in October,  0.3 percentage point below the September figure.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.641
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Core  PCE price inflation, which excludes changes in con- sumer energy prices and many consumer food prices,  was 5.0 percent over the 12 months ending in October,  down 0.2 percentage point from its September reading.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.9
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The trimmed mean measure of 12-month PCE price in- flation constructed by the Federal Reserve Bank of Dal- las remained at 4.7 percent in October.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.65
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.84
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In November,  the 12-month change in the CPI stepped down to  7.1 percent and core CPI inflation dropped to 6.0 per- cent.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.02
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The CPI, along with data from the producer price  index, pointed to a further slowing in PCE price inflation  in November.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.209
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A preliminary estimate of the staff’s com- mon inflation expectations index, which combines infor- mation from many indicators of inflation expectations  and inflation compensation, edged down in the fourth  quarter but continued to be above pre-pandemic levels.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.896
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "After expanding at a moderate pace in the third quarter,  real PCE growth appeared to have picked up in the  fourth quarter.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.928
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In contrast, residential investment  looked to be contracting sharply further, and growth in  business fixed investment seemed to be slowing mark- edly, with tepid gains in equipment and intangibles  spending and continued declines in nonresidential struc- tures investment.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Manufacturing production increased  only modestly in October, and the available data pointed  to a decline in November.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A decrease in factory output  would be consistent with recent readings from national  and regional manufacturing surveys, which showed de- clining new orders and a drawdown in order backlogs.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": 0.021
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "After narrowing in the third quarter, the nominal U.S.  international trade deficit widened in October.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": -0.487
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Real  goods exports fell, led by declines in exports of industrial  supplies and consumer goods.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": 0.001
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Real goods imports rose,  driven by increases in imports of industrial supplies,  which more than offset declines in imports of capital  goods and consumer goods.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": -0.933
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Exports of services rose, in  part as travel exports continued to recover, while im- ports of services were little changed.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": -0.929
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Foreign economic activity grew at a moderate pace in the  third quarter, but more recent data pointed to weakening  growth, weighed down by the economic fallout of Rus- sia’s war against Ukraine and a COVID-19-related slow- down in China.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.02
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.8
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "High inflation continued to contribute  to a decline in real disposable incomes, which, together  with disruptions to energy supplies, depressed economic  activity, especially in Europe.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.04
+      },
+      {
+        "name": "Countries",
+        "sentiment": 0.016
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In China, authorities be- gan to ease social restrictions even as COVID cases  surged, raising the prospect of significant disruptions to  economic activity in the near term, but also a faster reo- pening.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.267
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.003
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Weaker global demand and high interest rates  also weighed on activity in emerging market economies.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.016
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Despite tentative signs of easing in foreign headline in- flation, core inflationary pressures remained elevated in  Page 4 Federal Open Market Committee _____________________________________________________________________________________________     many countries.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.492
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.742
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In response to high inflation, many cen- tral banks further tightened monetary policy, albeit at a  slower pace in some cases.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.189
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.271
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Staff Review of the Financial Situation  Over the intermeeting period, Treasury yields and  measures of inflation compensation declined, on net,  and the implied path of the federal funds rate in 2023  ended modestly lower.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.008
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.001
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Stock market indexes rose, on  balance, likely reflecting reduced concerns about the in- flation outlook, and market volatility declined notably.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Borrowing costs declined, on net, over the intermeeting  period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Credit flows moderated a bit in recent months,  and the credit quality of businesses and most households  remained solid.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The expected path of the federal funds rate implied by a  straight read of financial market quotes ended the inter- meeting period lower, largely reflecting data releases that  pointed to a larger-than-expected moderation in infla- tion.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.78
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Medium-to-longer-term nominal Treasury yields  declined substantially over the intermeeting period,  driven primarily by lower-than-expected inflation data  releases, which appeared to prompt a substantial reduc- tion in investors’ concerns about the possibility that in- flation would remain high for a long period.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.01
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In line with  those developments, inflation compensation measures  based on inflation swaps declined notably, especially for  shorter maturities.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.827
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Broad stock price indexes increased, likely reflecting re- duced concerns about the inflation outlook and the as- sociated implications for the future path of policy.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.048
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "On  net, the one-month option-implied volatility on the  S&P 500—the VIX—decreased notably and was around  the middle of its range since mid-2020.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In line with re- duced investor concerns about the inflation outlook,  spreads of interest rates on corporate debt, mortgage- backed securities, and municipal bonds to comparable- duration Treasury yields all narrowed over the intermeet- ing period.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.692
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.141
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Conditions in short-term funding markets remained sta- ble over the intermeeting period, with the November in- crease in the target range for the federal funds rate and  the associated increases in the Federal Reserve’s admin- istered rates passing through quickly to overnight money  market rates.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.329
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.772
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In secured markets, repo rates were below  the ON RRP offering rate less frequently than in the pre- vious intermeeting period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Daily take-up in the  ON RRP facility declined modestly, consistent with the  recent firming in overnight repo rates.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Net yields on  money market funds rose further over the intermeeting  period, mostly passing through the increase in adminis- tered rates, while bank deposit rates increased only  slightly in October and November.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Foreign financial conditions broadly eased over the in- termeeting period, largely driven by lower-than-expected  U.S. inflation data.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.253
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The foreign exchange value of the  dollar depreciated against most foreign currencies, par- ticularly against those of advanced foreign economies, in  part reflecting a narrowing of near-term yield differen- tials between the United States and other advanced  economies.",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": 0.525
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Investors reacted positively to news of an  easing of COVID restrictions in China, which drove  risky asset prices significantly higher despite near-term  challenges associated with the health policy shift.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.914
+      },
+      {
+        "name": "Countries",
+        "sentiment": -0.424
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Emerging market fund outflows moderated and turned  to inflows later in the intermeeting period.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Option-  implied volatility measures for exchange rates and  benchmark foreign yields declined but remained ele- vated by historical norms amid a high degree of uncer- tainty around global inflation and the prospects for a re- opening of the Chinese economy.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.447
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.55
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In domestic credit markets, changes in borrowing costs  were mixed during the intermeeting period but remained  above levels observed at the end of the previous tight- ening cycle.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Yields for corporate bonds declined, while  borrowing costs for leveraged loans remained at an ele- vated level.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Bank interest rates for commercial and in- dustrial (C&I) loans continued to trend up in the third  quarter.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.919
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Municipal bond yields also decreased across rat- ing categories.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Residential mortgage rates fell, on net,  after the November FOMC meeting.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.006
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In contrast, inter- est rates in credit card offers continued to increase, re- flecting the higher prime rate that was quickly passed  through.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Interest rates on auto loans also rose steadily  through November.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.897
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Credit continued to be generally available to businesses  and households, but high borrowing costs appeared to  weigh on financing volumes in many markets.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Issuance  of investment-grade corporate bonds rebounded some-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "what in late October and November from earlier sub- dued levels, while speculative-grade issuance remained  soft.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "New launches of leveraged loans picked up in No- vember, particularly for higher-rated firms.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Business loan originations continued to expand in Octo- ber and November but at a slower pace than observed  in previous months.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "C&I loans continued to grow in  October and November but decelerated relative to the  third-quarter pace, moderating the robust rate of growth  observed earlier this year.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Nonetheless, the volume of  Minutes of the Meeting of December 13–14, 2022 Page 5 _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "C&I lending remained solid overall.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Commercial real es- tate (CRE) loans outstanding at commercial banks con- tinued to increase in October and November, but the  recent pace was somewhat lower than in previous  months.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In addition, banks increased CRE originations  to multifamily and industrial properties relative to office  properties, reflecting caution in the context of rising of- fice vacancies.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Moreover, commercial mortgage-backed  securities (CMBS) issuance softened somewhat in Octo- ber amid elevated financing costs and tighter underwrit- ing standards.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Credit availability to small businesses ap- peared to have tightened further this fall, with the share  of small firms reporting that it was more difficult to ob- tain credit than three months earlier trending up through  November.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Credit was readily available in the residential mortgage  market for high-credit-score borrowers who met stand- ard conforming loan criteria.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Credit availability for  households with lower credit scores was considerably  tighter at levels comparable with what prevailed before  the pandemic.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The number of home purchases and re- finance mortgage rate locks edged lower at subdued lev- els despite recent declines in mortgage interest rates.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.806
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In  contrast, home equity lines of credit (HELOCs) grew  notably in recent months, on net, potentially reflecting  homeowners using HELOCs as a preferred way of ex- tracting home equity in the presence of high mortgage  rates.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Consumer credit remained available for most con- sumers through September, with auto loans and credit  card debt growing at a robust pace.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Bank credit data also  indicate that the expansion in credit card balances con- tinued in October before slowing in early November.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The credit quality of nonfinancial corporations remained  solid.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The volume of speculative-grade corporate bond  downgrades slightly exceeded upgrades in October and  November, while for investment-grade corporate  bonds, the volume of upgrades turned positive, on net,  in November.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Leveraged loans experienced net down- grades in October, but the pace of net downgrades  slowed substantially in recent weeks.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Default rates on  corporate bonds and leveraged loans remained at very  low levels.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "However, measures of expected default  probabilities for corporate bonds and leveraged loans  had increased from their levels at the beginning of the  year in recent months.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Overall, the credit quality of mu- nicipalities remained robust amid strong revenues at  state and local governments.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The credit quality of busi- nesses that borrow from banks remained sound on bal- ance.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Delinquencies on C&I loans stayed flat, and those  on small businesses loans continued to edge up, but de- linquencies remained low relative to historical levels.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In  addition, the credit quality of non-agency CMBS loan  borrowers deteriorated slightly, with average delin- quency rates ticking up in September and October,  driven by the office and retail sectors.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The credit quality of most households remained solid  overall.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Delinquencies on conventional mortgages con- tinued to trend down through October, while those on  Federal Housing Administration mortgages ticked up a  bit from low levels.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In contrast, delinquency rates for  credit cards and auto loans continued to rise over the  third quarter.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "While delinquency rates on credit cards  remained low relative to their historical range, those on  auto loans surpassed their pre-pandemic peak.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Staff Economic Outlook  The forecast for U.S. economic activity prepared by the  staff for the December FOMC meeting was not as weak  as the November projection.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.017
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.876
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Recent data suggested that  real GDP growth in the second half of 2022 was  stronger than previously expected, but economic growth  was still forecast to slow markedly in 2023 from its sec- ond-half pace.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": 0.005
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Broad financial conditions were pro- jected to be somewhat less restrictive than previously as- sumed, as the effects of a higher path for equity values  and a lower path for the dollar more than offset a higher  medium-term trajectory for interest rates.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.751
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Nevertheless,  the forecast for U.S. real GDP growth through 2025 re- mained subdued.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": -0.538
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The staff slightly lowered its outlook  for potential output, reflecting a lower expected trend in  labor force participation.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.434
+      },
+      {
+        "name": "GDP",
+        "sentiment": 0.005
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Moreover, the staff assumed a  slower pace of decline in the natural rate of unemploy- ment over the near term in response to recent estimates  suggesting that job-matching efficiency was not improv- ing as fast as previously anticipated.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "With all these  changes, output was expected to move below the staff’s  estimate of potential near the end of 2024—a year later  than in the previous forecast—and to remain below po-",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": -0.038
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "tential in 2025.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Likewise, the unemployment rate was  expected to move above the staff’s estimate of its natural  rate near the end of 2024 and remain above it in 2025.",
+    "entities": [
+      {
+        "name": "Unemployment",
+        "sentiment": -0.866
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "On a four-quarter change basis, total PCE price inflation  was expected to be 5.5 percent in 2022, while core infla- tion was expected to be 4.7 percent, both lower than in  the November projection.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.745
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "With the effects of supply– demand imbalances in goods markets expected to un- wind further and labor and product markets projected to  become less tight, the staff continued to forecast that in- flation would decline markedly over the next two years.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Core goods inflation was anticipated to slow further,  housing services inflation was expected to peak in 2023  and then move down, while core non-housing services  Page 6 Federal Open Market Committee _____________________________________________________________________________________________",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.872
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.04
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "inflation was forecast to move down as wage growth  eased.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.04
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.04
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In 2025, both total and core PCE price inflation  were expected to be near 2 percent.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.548
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "With inflation still elevated, the staff continued to view  the risks to the inflation projection as skewed to the up- side.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.8
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Moreover, the sluggish growth in real private do- mestic spending expected over the next year, a subdued  global economic outlook, and persistently tight financial  conditions were seen as tilting the risks to the downside  around the baseline projection for real economic activ- ity, and the staff still viewed the possibility of a recession  sometime over the next year as a plausible alternative to  the baseline.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.07
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants’ Views on Current Conditions and the  Economic Outlook",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.637
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In conjunction with this FOMC meeting, participants  submitted their projections of the most likely outcomes  for real GDP growth, the unemployment rate, and infla- tion for each year from 2022 through 2025 and over the  longer run, based on their individual assessments of ap- propriate monetary policy, including the path of the fed- eral funds rate.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.918
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": 0.81
+      },
+      {
+        "name": "GDP",
+        "sentiment": 0.826
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.889
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The longer-run projections represented  each participant’s assessment of the rate to which each  variable would be expected to converge, over time, un- der appropriate monetary policy and in the absence of  further shocks to the economy.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.461
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.533
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A Summary of Eco- nomic Projections was released to the public following  the conclusion of the meeting.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In their discussion of current economic conditions, par- ticipants noted that recent indicators pointed to modest  growth of spending and production.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": -0.388
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Nonetheless, job  gains had been robust in recent months, and the unem- ployment rate had remained low.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Inflation remained el- evated, reflecting supply and demand imbalances related  to the pandemic, higher food and energy prices, and  broader price pressures.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.198
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants recognized that  Russia’s war against Ukraine was causing tremendous  human and economic hardship.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The war and related  events were contributing to upward pressure on inflation  and were weighing on global economic activity.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.031
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.012
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Against  this background, participants continued to be highly at-",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "tentive to inflation risks.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.644
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants observed that the growth of economic ac- tivity had slowed significantly in 2022 from the previous  year’s robust pace, partly in response to the Committee’s  policy actions.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.911
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "The effects of those actions were espe- cially notable in interest-sensitive sectors, particularly  housing.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants remarked that, although real GDP  appeared to have rebounded moderately in the second  half of 2022 after declining somewhat in the first half,  economic activity appeared likely to expand in 2023 at a  pace well below its trend growth rate.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": -0.811
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.923
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "With inflation re- maining unacceptably high, participants expected that a  sustained period of below-trend real GDP growth would  be needed to bring aggregate supply and aggregate de- mand into better balance and thereby reduce inflationary  pressures.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.188
+      },
+      {
+        "name": "GDP",
+        "sentiment": -0.838
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In their discussion of the household sector, participants  noted that growth in consumer spending in September  and October had been stronger than they had previously  expected, likely supported by a strong labor market and  households running down excess savings accumulated  during the pandemic.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A couple of participants remarked  that excess savings likely would continue to support con- sumption spending for a while.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A couple of other par- ticipants, however, commented that excess savings, par- ticularly among low-income households, appeared to be  lower and declining more rapidly than previously  thought or that the savings, the majority of which ap- peared to be held by higher-income households, might  continue to be largely unspent.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Several participants re- marked that budgets were stretched for low-to-moder- ate-income households and that many consumers were  shifting their spending to less expensive alternatives.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "They also observed that many households were increas- ingly using credit to finance spending.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Overall, partici- pants assessed that there was considerable uncertainty  around the consumer spending outlook.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants  commented that higher mortgage interest rates had no- tably restrained housing activity and that they expected  housing activity to remain weak.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.037
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A couple of partici- pants remarked on anecdotes or concerns from builder  contacts about contract cancellations by purchasers no  longer able to qualify for loans at higher interest rates.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.274
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "With regard to the business sector, participants noted  that growth in investment spending appeared modest  and was being restrained by high borrowing costs and an  outlook for slow growth of final demand, although  views on investment prospects varied across businesses  and Districts.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Based on discussions with District con- tacts as well as a survey of firms’ chief financial officers,  some participants commented that while businesses  were generally optimistic about their own prospects,  they expressed increasing concern about the general eco- nomic outlook for 2023.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants noted signs of  continued easing in supply bottlenecks, with a couple cit- ing District contacts’ reports of declines in shipping  costs and delivery times.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.517
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Even so, participants remarked  that the improvements in supply chains had not been  uniform and supply shortages remained for some types  of goods.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants also discussed the developments  Minutes of the Meeting of December 13–14, 2022 Page 7 _____________________________________________________________________________________________     in energy and agricultural sectors.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Several participants  commented that they saw diminished risks of severe dis- ruption from the European Union’s embargo and the  Group of Seven’s price cap on Russian oil exports.",
+    "entities": [
+      {
+        "name": "Trade",
+        "sentiment": 0.672
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A  couple of participants noted that high costs for inputs  like diesel, feed, and fertilizer were creating challenges  for the agricultural sector.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants observed that the labor market had re- mained very tight, with the unemployment rate near a  historically low level, robust payroll gains, a high level of  job vacancies, and elevated nominal wage growth.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.632
+      },
+      {
+        "name": "Unemployment",
+        "sentiment": -0.052
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Sev- eral participants commented that there were tentative  signs of labor market imbalances improving, including  declines in job openings and quits over the second half  of 2022 as well as reports from District contacts that  they were seeing more qualified job applicants for open  positions than earlier in the year.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Some participants  pointed out that payroll gains had remained robust even  as they slowed in recent months.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Nevertheless, they  noted that some other measures of employment—such  as those based on the Bureau of Labor Statistics’ house- hold survey and the Quarterly Census of Employment  and Wages—suggested that job growth in 2022 may  have been weaker than indicated by payroll employment.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.812
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants generally concluded that there remained a  large imbalance between labor supply and labor demand,  as indicated by the still-large number of job openings  and elevated nominal wage growth.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": -0.857
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants com- mented that labor demand had remained strong to date  despite the slowdown in economic growth, with a few  remarking that some business contacts reported that  they would be keen to retain workers even in the face of  slowing demand for output because of their recent ex- periences of labor shortages and hiring challenges.",
+    "entities": [
+      {
+        "name": "GDP",
+        "sentiment": 0.01
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "With  the labor force participation rate little changed since the  beginning of 2022, some participants commented that  labor supply appeared to be constrained by structural  factors such as early retirements, reduced availability or  increased cost of childcare, more costly transportation,  and reduced immigration.",
+    "entities": [
+      {
+        "name": "Employment",
+        "sentiment": 0.074
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Under an appropriately re- strictive path of monetary policy, participants expected  labor market supply and demand to come into better bal-",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.065
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "ance over time, easing upward pressures on nominal  wages and prices.",
+    "entities": [
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.893
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In the context of achieving the Com- mittee’s broad-based and inclusive maximum-employ- ment goal, a number of participants commented that as  the labor market moved into better balance, the unem- ployment rate for some demographic groups—particu- larly African Americans and Hispanics—would likely in- crease by more than the national average.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "With inflation still well above the Committee’s longer- run goal of 2 percent, participants agreed that inflation  was unacceptably high.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.623
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.731
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants concurred that the  inflation data received for October and November  showed welcome reductions in the monthly pace of  price increases, but they stressed that it would take sub- stantially more evidence of progress to be confident that  inflation was on a sustained downward path.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.273
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Partici- pants noted that core goods prices declined in the Octo- ber and November CPI data, consistent with easing sup- ply bottlenecks.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.012
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.889
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Some participants also noted that, by  some measures, firms’ markups were still elevated and  that a continued subdued expansion in aggregate de- mand would likely be needed to reduce remaining up- ward pressure on inflation.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.055
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Regarding housing services  inflation, many participants observed that measures of  rent based on new leases were indicating a deceleration,  which would be reflected in the measures of shelter in- flation with some lag.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.611
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants noted that, in the lat- est inflation data, the pace of increase for prices of core  services excluding shelter—which represents the largest  component of core PCE price inflation—was high.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.805
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "They also remarked that this component of inflation has  tended to be closely linked to nominal wage growth and  therefore would likely remain persistently elevated if the  labor market remained very tight.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.602
+      },
+      {
+        "name": "Employment",
+        "sentiment": -0.018
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Consequently, while  there were few signs of adverse wage-price dynamics at  present, they assessed that bringing down this compo- nent of inflation to mandate-consistent levels would re- quire some softening in the growth of labor demand to  bring the labor market back into better balance.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.147
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants observed that measures from surveys of  households and businesses as well as from financial mar- kets generally indicated that longer-term inflation expec- tations remained well anchored, while short-term infla- tion expectations had come down.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.857
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "However, partici- pants stressed that the Committee’s ongoing monetary  policy tightening to achieve a stance that will be suffi- ciently restrictive to return inflation to 2 percent is es- sential for ensuring that longer-term expectations re- main well anchored.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.742
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.125
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.58
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Several participants commented  that the longer inflation remained well above the 2 per- cent goal, the greater the risk that longer-term inflation  expectations could become unanchored.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.779
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Such a devel- opment, if it materialized, would make it much more  costly to bring inflation down to achieve the Commit- tee’s statutory objectives of maximum employment and  price stability.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.515
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.666
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants noted that since the November meeting, fi- nancial conditions had eased, with the market-implied  path for the federal funds rate beyond 2023 and longer-",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.763
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Page 8 Federal Open Market Committee _____________________________________________________________________________________________     term yields coming down noticeably.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.869
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A few participants  remarked that the current configuration of nominal  yields, with longer-term yields lower than shorter-term  yields, had historically preceded recessions and hence  bore watching.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "However, a couple of them also noted  that the current inversion of the yield curve could reflect,  in part, that investors expect the nominal policy rate to  decline because of a fall in inflation over time.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.003
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.013
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants generally noted that the uncertainty associ- ated with their economic outlooks was high and that the  risks to the inflation outlook remained tilted to the up- side.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.348
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants cited the possibility that price pres- sures could prove to be more persistent than anticipated,  due to, for example, the labor market staying tight for  longer than anticipated.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants saw a number of  uncertainties surrounding the outlook for inflation stem-",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.35
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "ming from factors abroad, such as China’s relaxation of  its zero-COVID policies, Russia’s continuing war  against Ukraine, and effects of synchronous policy firm-",
+    "entities": [
+      {
+        "name": "Countries",
+        "sentiment": -0.595
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "ing by major central banks.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A number of participants  judged that the risks to the outlook for economic activity  were weighted to the downside.",
+    "entities": [
+      {
+        "name": "Economy",
+        "sentiment": 0.025
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "They noted that sources  of such risks included the potential for more persistent  inflation inducing more restrictive policy responses, the  prospect of unexpected negative shocks tipping the  economy into a recession in an environment of subdued  growth, and the possibility of households’ and busi- nesses’ concerns about the outlook restraining their  spending sufficiently to reduce aggregate output.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.061
+      },
+      {
+        "name": "GDP",
+        "sentiment": 0.008
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.018
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In their consideration of appropriate monetary policy ac- tions at this meeting, participants concurred that the  Committee had made significant progress over the past  year in moving toward a sufficiently restrictive stance of  monetary policy.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.897
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.285
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Even so, participants agreed that infla- tion remained well above the Committee’s longer-run  goal of 2 percent, while the labor market remained very  tight, contributing to upward pressures on wages and  prices.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.913
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Against this backdrop, all participants agreed that  it was appropriate to raise the target range for the federal  funds rate 50 basis points at this meeting and to continue  the process of reducing the Federal Reserve’s securities  holdings, as described in the Plans for Reducing the Size  of the Federal Reserve’s Balance Sheet that the Commit- tee issued in May.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.548
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants observed that a slowing  in the pace of rate increases at this meeting would better  allow the Committee to assess the economy’s progress  toward the Committee’s goals of maximum employment  and price stability, as monetary policy approached a  stance that was sufficiently restrictive to achieve these  goals.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.405
+      },
+      {
+        "name": "Employment",
+        "sentiment": 0.261
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.326
+      },
+      {
+        "name": "Economy",
+        "sentiment": -0.115
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In discussing the policy outlook, participants continued  to anticipate that ongoing increases in the target range  for the federal funds rate would be appropriate to  achieve the Committee’s objectives.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.74
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": -0.385
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In determining the  pace of future increases in the target range, participants  judged that it would be appropriate to take into account  the cumulative tightening of monetary policy, the lags  with which monetary policy affects economic activity  and inflation, and economic and financial developments.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.922
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.874
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.597
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "With inflation staying persistently above the Commit- tee’s 2 percent goal and the labor market remaining very  tight, all participants had raised their assessment of the  appropriate path of the federal funds rate relative to their  assessment at the time of the September meeting.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.874
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.461
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "No  participants anticipated that it would be appropriate to  begin reducing the federal funds rate target in 2023.",
+    "entities": [
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.665
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Par- ticipants generally observed that a restrictive policy  stance would need to be maintained until the incoming  data provided confidence that inflation was on a sus- tained downward path to 2 percent, which was likely to  take some time.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": -0.025
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In view of the persistent and unaccept- ably high level of inflation, several participants com- mented that historical experience cautioned against  prematurely loosening monetary policy.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.186
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": 0.294
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "In light of the heightened uncertainty regarding the out- looks for both inflation and real economic activity, most  participants emphasized the need to retain flexibility and  optionality when moving policy to a more restrictive  stance.",
+    "entities": [
+      {
+        "name": "Inflation",
+        "sentiment": 0.77
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.563
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants generally noted that the Commit- tee’s future decisions regarding policy would continue to  be informed by the incoming data and their implications  for the outlook for economic activity and inflation, and  that the Committee would continue to make decisions  meeting by meeting.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.903
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.836
+      },
+      {
+        "name": "Economy",
+        "sentiment": 0.886
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants reaffirmed their strong commitment to re- turning inflation to the Committee’s 2 percent objective.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.429
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.707
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "A number of participants emphasized that it would be  important to clearly communicate that a slowing in the  pace of rate increases was not an indication of any weak- ening of the Committee’s resolve to achieve its price-  stability goal or a judgment that inflation was already on  a persistent downward path.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.251
+      },
+      {
+        "name": "Inflation",
+        "sentiment": 0.074
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants noted that, be- cause monetary policy worked importantly through fi- nancial markets, an unwarranted easing in financial con- ditions, especially if driven by a misperception by the  public of the Committee’s reaction function, would  complicate the Committee’s effort to restore price sta- bility.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": 0.083
+      },
+      {
+        "name": "Monetary Policy",
+        "sentiment": -0.027
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Several participants commented that the medians  of participants’ assessments for the appropriate path of  the federal funds rate in the Summary of Economic Pro- jections, which tracked notably above market-based  Minutes of the Meeting of December 13–14, 2022 Page 9 _____________________________________________________________________________________________     measures of policy rate expectations, underscored the  Committee’s strong commitment to returning inflation  to its 2 percent goal.",
+    "entities": [
+      {
+        "name": "Federal Reserve",
+        "sentiment": -0.788
+      },
+      {
+        "name": "Interest Rates",
+        "sentiment": 0.815
+      },
+      {
+        "name": "Inflation",
+        "sentiment": -0.703
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  },
+  {
+    "sentence": "Participants discussed a number of risk-management  considerations related to the conduct of monetary pol- icy.",
+    "entities": [
+      {
+        "name": "",
+        "sentiment": ""
+      }
+    ],
+    "document_id": "fomcminutes20221214.pdf"
+  }
+]
