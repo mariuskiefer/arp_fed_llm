@@ -74,10 +74,11 @@ tqdm.pandas()
 
 #%%
 # Sample few-shot examples from train_df
-few_shot = train_df.sample(15)
+few_shot = train_df.sample(20, random_state=38)
 
 #%%
 # Define prompt builder
+'''
 def build_prompt(few_shot_df, target_sentence, entity_vocab):
     instruction = (
         "You are a named entity extraction assistant.\n"
@@ -94,7 +95,14 @@ def build_prompt(few_shot_df, target_sentence, entity_vocab):
 
     target = f"Sentence: {target_sentence}\nEntities:"
     return instruction + examples + target
+'''
+def build_prompt(few_shot_df, target_sentence):
+    examples = ""
+    for _, row in few_shot_df.iterrows():
+        examples += f"Sentence: {row['Sentence']}\nEntities: {row['Entity_Texts']}\n\n"
 
+    target = f"Sentence: {target_sentence}\nEntities:"
+    return examples + target
 
 
 #%%
@@ -107,6 +115,7 @@ def extract_entities_from_response(response_text):
 
 #%%
 # Main prediction function
+'''
 def predict_entities_with_vocab(sentence):
     prompt = build_prompt(few_shot, sentence, entity_vocab)
     try:
@@ -120,12 +129,51 @@ def predict_entities_with_vocab(sentence):
     except Exception as e:
         print("Error:", e)
         return "[]"
+'''
+'''
+system_prompt = (
+    "You are a named entity extraction assistant.\n"
+    "Only extract entities from the list provided below.\n"
+    "Do not create new entities or synonyms.\n"
+    "Return only a Python list of matched entity strings.\n\n"
+    f"Available Entities: {entity_vocab}\n"
+)
+'''
+system_prompt = (
+    "You are a financial named entity recognition (NER) assistant.\n"
+    "Your task is to extract only relevant named entities from a given sentence.\n"
+    "You MUST select entities exclusively from the provided list.\n"
+    "Do not create new entities, synonyms, or paraphrased terms.\n"
+    "If no matching entities are found in the sentence, return an empty list.\n"
+    "Always return a valid Python list of exact entity strings from the list.\n\n"
+    "Respond ONLY with the list. Do NOT explain your reasoning or output any additional text.\n\n"
+    "Here is the list of all allowed entities:\n"
+    f"{', '.join(entity_vocab)}"
+)
+
+
+def predict_entities(sentence):
+    prompt = build_prompt(few_shot, sentence)
+    try:
+        response = client.chat.completions.create(
+            model="deepseek-chat",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": prompt}
+            ],
+            stream=False
+        )
+        content = response.choices[0].message.content.strip()
+        return extract_entities_from_response(content)
+    except Exception as e:
+        print("Error:", e)
+        return "[]"
 
 
 #%%
 # Apply to test set
 test_df = test_df.copy()
-test_df["LLM_Entities_raw"] = test_df["Sentence"].progress_apply(predict_entities_with_vocab)
+test_df["LLM_Entities_raw"] = test_df["Sentence"].progress_apply(predict_entities)
 
 # Convert string to Python list
 def parse_pred(pred):
@@ -138,7 +186,7 @@ test_df["LLM_Entities"] = test_df["LLM_Entities_raw"].progress_apply(parse_pred)
 
 #%%
 # Preview result
-print(test_df[["Sentence", "LLM_Entities_raw", "LLM_Entities"]].head())
+print(test_df[["Sentence","Entity_Texts", "LLM_Entities_raw", "LLM_Entities"]].head())
 
 #%% calculate the score
 from sklearn.metrics import precision_score, recall_score, f1_score
@@ -164,3 +212,8 @@ f1_avg = scores.map(lambda x: x[2]).mean()
 
 print(f"Precision: {precision_avg:.3f}, Recall: {recall_avg:.3f}, F1-score: {f1_avg:.3f}")
 
+
+# %%
+test_df.to_csv("test_predictions.csv", index=False)
+
+# %%
