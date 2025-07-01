@@ -1,38 +1,9 @@
-#%%
-from openai import OpenAI
-import os
-
-
-#%%
-api_key = os.getenv("OPENAI_API_KEY")
-
-client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
-
-response = client.chat.completions.create(
-    model="deepseek-chat",
-    messages=[
-        {"role": "system", "content": "You are a helpful assistant"},
-        {"role": "user", "content": "Hello"},
-    ],
-    stream=False
-)
-
-#%%
-print(response.choices[0].message.content)
-
-#%%
-
-
-
 #%% Load Data and split train, test
 import pandas as pd
 import ast
 
 # 讀取資料
 df = pd.read_csv("ARP_PreLabel - Dataset Updated.csv")  # 或者用 df = pd.read_excel() 視你的格式而定
-
-# 移除 NaN 與格式錯誤資料
-df = df.dropna(subset=["Sentence", "Entities"])
 
 # 將字串轉成 Python list，並去除情感分數
 def extract_entity_texts(entity_str):
@@ -78,24 +49,7 @@ few_shot = train_df.sample(20, random_state=38)
 
 #%%
 # Define prompt builder
-'''
-def build_prompt(few_shot_df, target_sentence, entity_vocab):
-    instruction = (
-        "You are a named entity extraction assistant.\n"
-        "Only extract entities **from the list provided below**.\n"
-        "Do not create new entities or synonyms.\n"
-        "Return only a Python list of matched entity strings.\n\n"
-        f"Available Entities: {entity_vocab}\n\n"
-        "Examples:\n"
-    )
 
-    examples = ""
-    for _, row in few_shot_df.iterrows():
-        examples += f"Sentence: {row['Sentence']}\nEntities: {row['Entity_Texts']}\n\n"
-
-    target = f"Sentence: {target_sentence}\nEntities:"
-    return instruction + examples + target
-'''
 def build_prompt(few_shot_df, target_sentence):
     examples = ""
     for _, row in few_shot_df.iterrows():
@@ -115,30 +69,6 @@ def extract_entities_from_response(response_text):
 
 #%%
 # Main prediction function
-'''
-def predict_entities_with_vocab(sentence):
-    prompt = build_prompt(few_shot, sentence, entity_vocab)
-    try:
-        response = client.chat.completions.create(
-            model="deepseek-chat",
-            messages=[{"role": "user", "content": prompt}],
-            stream=False
-        )
-        content = response.choices[0].message.content.strip()
-        return extract_entities_from_response(content)
-    except Exception as e:
-        print("Error:", e)
-        return "[]"
-'''
-'''
-system_prompt = (
-    "You are a named entity extraction assistant.\n"
-    "Only extract entities from the list provided below.\n"
-    "Do not create new entities or synonyms.\n"
-    "Return only a Python list of matched entity strings.\n\n"
-    f"Available Entities: {entity_vocab}\n"
-)
-'''
 system_prompt = (
     "You are a financial named entity recognition (NER) assistant.\n"
     "Your task is to extract only relevant named entities from a given sentence.\n"
