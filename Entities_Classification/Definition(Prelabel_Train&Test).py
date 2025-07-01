@@ -8,7 +8,7 @@ df = pd.read_csv("ARP_PreLabel - Dataset Updated.csv")
 #df = df.dropna(subset=["Sentence", "Entities"])
 
 # change string to Python list, remove sentiment score
-def extract_entity_texts(entity_str):
+def extract_entity_texts(entity_str): 
     try:
         entity_list = ast.literal_eval(entity_str)
         return [e[0] for e in entity_list if isinstance(e, tuple) and len(e) > 0]

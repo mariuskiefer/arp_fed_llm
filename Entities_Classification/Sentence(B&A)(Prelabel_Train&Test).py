@@ -194,7 +194,7 @@ def evaluate_ner(true_entities, pred_entities):
     pred_set = set(pred_entities)
 
     tp = len(true_set & pred_set)
-    fp = len(pred_set - true_set)
+    fp = len(pred_set - true_set) 
     fn = len(true_set - pred_set)
 
     precision = tp / (tp + fp) if (tp+fp) > 0 else 0
