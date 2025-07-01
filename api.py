@@ -2,7 +2,6 @@ from openai import OpenAI
 import os
 import json
 from dotenv import load_dotenv
-import pandas as pd
 
 # Load environment variables
 load_dotenv()
@@ -34,11 +33,17 @@ def _clean_response(raw: str) -> str:
     return text
 
 
-def analyze_sentiments(items: list) -> list:
+def assign_sentiment_to_entities(items: list) -> list:
     """
     For each item with a sentence and entity names, calls the API to get a sentiment score.
     Quantizes sentiments to steps of approximately 0.33 between -1 and 1.
     Returns the same structure with numeric "sentiment" values.
+    Input: list of dicts, each with keys:
+        - "sentence": str
+        - "entities": list of dicts, each with key "name"
+    Output: list of dicts, each with keys:
+        - "sentence": str
+        - "entities": list of dicts, each with keys "name" and "sentiment"
     """
     results = []
     for item in items:
@@ -52,7 +57,7 @@ def analyze_sentiments(items: list) -> list:
             f"Sentence: \"{sentence}\"\n"
             f"Entities: {json.dumps(entity_names)}\n"
             f"Example response format:\n"
-            f"[{json.dumps({'name':entity_names[0],'sentiment':0.33})}, ...]"
+            f"[{json.dumps({'name':entity_names[0] if entity_names else '', 'sentiment':0.33})}, ...]"
         )
 
         resp = client.chat.completions.create(
@@ -75,9 +80,12 @@ def analyze_sentiments(items: list) -> list:
         merged_entities = []
         step = 1/3
         for ent in sentiments:
-            raw_score = float(ent.get("sentiment"))
-            quantized = round(raw_score / step) * step
-            quantized = round(quantized, 2)
+            try:
+                raw_score = float(ent.get("sentiment"))
+                quantized = round(raw_score / step) * step
+                quantized = round(quantized, 2)
+            except Exception:
+                quantized = None
             merged_entities.append({
                 "name": ent.get("name"),
                 "sentiment": quantized
@@ -90,36 +98,3 @@ def analyze_sentiments(items: list) -> list:
 
     return results
 
-
-if __name__ == "__main__":
-    # Example pipeline
-    pipeline = [
-        {
-            "sentence": (
-                "The risks of higher unemployment and higher inflation appear to have risen, "
-                "and we believe that the current stance of monetary policy leaves us well positioned "
-                "to respond in a timely way to potential economic developments."
-            ),
-            "entities": [
-                {"name": "Inflation"},
-                {"name": "Employment"},
-                {"name": "Monetary Policy"}
-            ]
-        },
-        # Add more items here...
-    ]
-
-    # Analyze sentiments
-    results = analyze_sentiments(pipeline)
-
-    # Build DataFrame with sentence and list of (entity, sentiment) tuples per row
-    rows = []
-    for item in results:
-        tuples = [(ent["name"], ent["sentiment"]) for ent in item["entities"]]
-        rows.append({
-            "sentence": item["sentence"],
-            "sentiments": tuples
-        })
-
-    df = pd.DataFrame(rows)
-    print(df)
