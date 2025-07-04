@@ -25,7 +25,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"), base_url="https://api.deeps
 # --- Few-shot examples for prompt ---
 from sklearn.model_selection import train_test_split
 train_df, _ = train_test_split(_df, test_size=0.2, random_state=42)
-few_shot = train_df.sample(20, random_state=38)
+few_shot = train_df.sample(5, random_state=38)
 
 def _build_prompt(few_shot_df, target_sentence):
     examples = ""
