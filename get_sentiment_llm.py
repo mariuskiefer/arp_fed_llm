@@ -33,7 +33,7 @@ def _clean_response(raw: str) -> str:
     return text
 
 
-def assign_sentiment_to_entities(items: list) -> list:
+def extract_llm_sentiment(items: list) -> list:
     """
     For each item with a sentence and entity names, calls the API to get a sentiment score.
     Quantizes sentiments to steps of approximately 0.33 between -1 and 1.

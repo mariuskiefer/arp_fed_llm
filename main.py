@@ -1,5 +1,6 @@
 import os
-from api import assign_sentiment_to_entities
+from get_sentiment_llm import extract_llm_sentiment
+from get_sentiment_nlp import extract_nlp_sentiment
 from get_entities_LLM import extract_llm_entities  
 from get_entities_nlp import extract_nlp_entities
 
@@ -29,7 +30,11 @@ if __name__ == "__main__":
         })
 
     # Step 3: Assign sentiment to each entity
-    results = assign_sentiment_to_entities(pipeline)
+    sentiment_method = input("Which sentiment analysis method do you want to use? (llm/nlp): ").strip().lower()
+    if sentiment_method == "nlp":
+        results = extract_nlp_sentiment([(item["sentence"], [ent["name"] for ent in item["entities"]]) for item in pipeline])
+    else:
+        results = extract_llm_sentiment(pipeline)
 
     # Step 4: Print results
     for item in results:
