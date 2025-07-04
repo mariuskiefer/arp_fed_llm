@@ -1,5 +1,7 @@
+import os
 from api import assign_sentiment_to_entities
 from get_entities_LLM import extract_llm_entities  
+from get_entities_nlp import extract_nlp_entities
 
 # Main function that combines sentence retrieval, entity extraction and sentiment analysis
 
@@ -10,8 +12,11 @@ if __name__ == "__main__":
         "The Federal Reserve raised interest rates to combat inflation, but the move sparked concerns about economic growth."
     ]
 
-    # Step 1: Extract entities for each sentence
-    entity_results = extract_llm_entities(sentences)
+    method = input("Which entity extraction method do you want to use? (llm/nlp): ").strip().lower()
+    if method == "nlp":
+        entity_results = extract_nlp_entities(sentences)
+    else:
+        entity_results = extract_llm_entities(sentences)
     # entity_results: [{"sentence": ..., "entities": [...]}, ...]
 
     # Step 2: Prepare input for sentiment assignment
