@@ -15,7 +15,7 @@ finabsa = pipeline(
     return_all_scores=True
 )
 
-def get_context(sentence: str, aspect: str, window: int = 8) -> str:
+def get_context(sentence: str, aspect: str, window: int = 6) -> str:
     """
     Extracts a context window of up to `window` tokens on each side of `aspect` in `sentence`.
     Falls back to the full sentence if the aspect span isn't found verbatim.
