@@ -30,7 +30,8 @@ sent_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # --- Custom Entities & Definition ---
 CUSTOM_ENTITIES = {
-   "Interest Rates": "Interest Rates are the cost of borrowing money or the return on savings, typically influenced by a central bank to control inflation and stimulate or cool the economy.",
+  "Federal Reserve": "The Federal Reserve is the central bank of the United States, responsible for implementing monetary policy, supervising banks, and maintaining financial system stability.",
+  "Interest Rates": "Interest Rates are the cost of borrowing money or the return on savings, typically influenced by a central bank to control inflation and stimulate or cool the economy.",
   "Inflation": "Inflation is the rate at which the general level of prices for goods and services rises, eroding purchasing power.",
   "Employment": "Employment refers to the condition where individuals engage in paid work, serving as a key indicator of economic activity.",
   "Unemployment": "Unemployment occurs when individuals who are actively seeking work are unable to find jobs, reflecting slack in the labor market.",
