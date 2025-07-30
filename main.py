@@ -1,3 +1,4 @@
+#%%
 import os
 from get_sentiment_llm import extract_llm_sentiment
 from get_sentiment_nlp import extract_nlp_sentiment
@@ -51,3 +52,4 @@ if __name__ == "__main__":
         for ent in item["entities"]:
             print(f"  Entity: {ent['name']}, Sentiment: {ent['sentiment']}")
         print()
+# %%
