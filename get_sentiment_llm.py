@@ -53,7 +53,7 @@ def extract_llm_sentiment(items: list) -> list:
         prompt = (
             f"Analyze the sentiment toward each entity in the sentence below. "
             f"Return a JSON array of objects with keys 'name' and 'sentiment', where 'sentiment' "
-            f"is a number between -1 and 1 in steps of approximately 0.33 (e.g., -1.0, -0.67, -0.33, 0.0, 0.33, 0.67, 1.0).\n\n"
+            f"is a number between -1 and 1 in steps of approximately 0.33 (e.g., -1.0, -0.66, -0.33, 0.0, 0.33, 0.66, 1.0).\n\n"
             f"Sentence: \"{sentence}\"\n"
             f"Entities: {json.dumps(entity_names)}\n"
             f"Example response format:\n"
