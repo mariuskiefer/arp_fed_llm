@@ -102,6 +102,7 @@ secrets.*
 
 # Ignore fine-tuned model outputs
 finbert-finetuned/
+logs/
 
 # Ignore Hugging Face cache
 .huggingface/
