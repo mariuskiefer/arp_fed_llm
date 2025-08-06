@@ -99,3 +99,6 @@ secrets.*
 *.pem
 *.crt
 *.credentials
+
+# Ignore fine-tuned model outputs
+finbert-finetuned/
