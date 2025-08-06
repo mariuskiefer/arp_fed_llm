@@ -102,3 +102,9 @@ secrets.*
 
 # Ignore fine-tuned model outputs
 finbert-finetuned/
+
+# Ignore Hugging Face cache
+.huggingface/
+transformers_cache/
+.cache/
+__pycache__/
