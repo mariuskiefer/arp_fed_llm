@@ -98,5 +98,3 @@ secrets.*
 *.key
 *.pem
 *.crt
-*.credentialsMicroF1_0.85/model.safetensors
-MicroF1_0.85/model.safetensors
