@@ -19,7 +19,7 @@ if __name__ == "__main__":
         "The Federal Reserve's decision to cut rates was met with mixed reactions from economists.",
         "Federal Reserve policymakers expressed uncertainty about the outlook for economic growth.",
         "The Federal Reserve released minutes from its latest meeting, highlighting concerns about persistent inflation.",
-        "Investors are watching the Federal Reserve for signals about the timing of the next interest rate change."
+        "The interest rate has become significantly higher than it was a year ago."
     ]
 
     method = input("Which entity extraction method do you want to use? (llm/nlp): ").strip().lower()

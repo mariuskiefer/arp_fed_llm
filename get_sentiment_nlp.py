@@ -2,18 +2,14 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import spacy
-from transformers import pipeline
+from transformers import pipeline, AutoTokenizer
 
 # load spaCy model for context slicing
 nlp = spacy.load("en_core_web_sm")
 
-# load FinBERT for financial-domain sentiment
-finabsa = pipeline(
-    "text-classification",
-    model="yiyanghkust/finbert-tone",
-    tokenizer="yiyanghkust/finbert-tone",
-    return_all_scores=True
-)
+tokenizer = AutoTokenizer.from_pretrained("./finbert-finetuned")
+finabsa = pipeline("text-classification", model="./finbert-finetuned", tokenizer=tokenizer, return_all_scores=True)
+
 
 def get_context(sentence: str, aspect: str, window: int = 6) -> str:
     """
