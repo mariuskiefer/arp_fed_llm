@@ -2,7 +2,7 @@ import spacy
 import fitz  # PyMuPDF
 import json
 import re
-<<<<<<<< HEAD:data_prelabeling.py
+
 import os
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
@@ -13,7 +13,6 @@ import numpy as np
 # - Improve Custom Entities
 # - Fix sentiment score allocation
 
->>>>>>>> 08bc36e6fcf46b4f26916635de08860254533053:annot.py
 
 # --- Custom Domain-Specific Entities ---
 CUSTOM_ENTITIES = {
@@ -53,7 +52,7 @@ def extract_custom_entities(sentence, entity_dict):
                 found[label] = context
     return found
 
-<<<<<<<< HEAD:data_prelabeling.py
+
 # --- Get Sentiment Score Using FinBERT ---
 def get_sentiment_score(text, tokenizer, model):
     inputs = tokenizer(text, return_tensors="pt", truncation=True)
@@ -76,7 +75,7 @@ def process_pdf(pdf_path, nlp, tokenizer, model):
 # --- Sentence Splitting + Entity Tagging ---
 def split_sentences_and_entities(text, nlp):
     doc = nlp(text)
->>>>>>>> 08bc36e6fcf46b4f26916635de08860254533053:annot.py
+
     output = []
     for sent in doc.sents:
         sentence_text = sent.text.strip()
@@ -84,7 +83,7 @@ def split_sentences_and_entities(text, nlp):
             continue
 
         matched_entities = extract_custom_entities(sentence_text, CUSTOM_ENTITIES)
-<<<<<<<< HEAD:data_prelabeling.py
+
 
         if matched_entities:
             entities = []
@@ -98,11 +97,11 @@ def split_sentences_and_entities(text, nlp):
             "sentence": sentence_text,
             "entities": entities,
             "document_id": os.path.basename(pdf_path)
-========
+
         output.append({
             "sentence": sentence_text,
             "entities": [{"name": e, "sentiment": None} for e in matched_entities]
->>>>>>>> 08bc36e6fcf46b4f26916635de08860254533053:annot.py
+
         })
     
     return output
@@ -122,7 +121,7 @@ def main(folder_path, output_json_path):
             output = process_pdf(pdf_path, nlp, tokenizer, model)
             all_output.extend(output)
 
-<<<<<<<< HEAD:data_prelabeling.py
+
     # Save results
     print(f"Saving to {output_json_path}...")
     with open(output_json_path, "w", encoding="utf-8") as f:
@@ -133,7 +132,7 @@ def main(folder_path, output_json_path):
 # --- Example usage ---
 if __name__ == "__main__":
     main("arp_pdfs", "fed_sentences_with_entities.json")
-========
+
     return output
 
 # --- Save to JSON ---
@@ -151,4 +150,4 @@ def main(pdf_path, output_json_path):
 
 # Example usage
 main("fed_conf.pdf", "fed_sentences_with_entities.json")
->>>>>>>> 08bc36e6fcf46b4f26916635de08860254533053:annot.py
+
