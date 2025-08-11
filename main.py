@@ -4,6 +4,7 @@ from get_sentiment_llm import extract_llm_sentiment
 from get_sentiment_nlp import extract_nlp_sentiment
 from get_entities_LLM import extract_llm_entities  
 from get_entities_nlp import extract_nlp_entities
+from get_entities_ft_nlp import extract_ft_entities
 
 # Main function that combines sentence retrieval, entity extraction and sentiment analysis
 
@@ -19,14 +20,17 @@ if __name__ == "__main__":
         "The Federal Reserve's decision to cut rates was met with mixed reactions from economists.",
         "Federal Reserve policymakers expressed uncertainty about the outlook for economic growth.",
         "The Federal Reserve released minutes from its latest meeting, highlighting concerns about persistent inflation.",
-        "The interest rate has become significantly higher than it was a year ago."
+        "Investors are watching the Federal Reserve for signals about the timing of the next interest rate change."
     ]
 
     method = input("Which entity extraction method do you want to use? (llm/nlp): ").strip().lower()
     if method == "nlp":
         entity_results = extract_nlp_entities(sentences)
+    elif method == "ftnlp":
+        entity_results = extract_ft_entities(sentences)
     else:
         entity_results = extract_llm_entities(sentences)
+
     # entity_results: [{"sentence": ..., "entities": [...]}, ...]
 
     # Step 2: Prepare input for sentiment assignment
