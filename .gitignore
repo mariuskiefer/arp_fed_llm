@@ -101,8 +101,8 @@ secrets.*
 *.credentials
 
 # Ignore fine-tuned model outputs
-#finbert-finetuned/
-#logs/
+finbert-finetuned/
+logs/
 
 # Ignore Hugging Face cache
 .huggingface/
@@ -209,4 +209,3 @@ secrets.*
 *.key
 *.pem
 *.crt
-*.credentials
