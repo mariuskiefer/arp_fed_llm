@@ -1,0 +1,147 @@
+{
+    "Federal Reserve": [
+        "Federal Reserve", "the Fed", "FOMC", "Federal Open Market Committee",
+        "Board of Governors", "Open Market Desk", "System Open Market Account", "SOMA"
+    ],
+    "Interest Rates": [
+        "interest rates", "policy rate", "federal funds rate", "effective federal funds rate",
+        "discount rate", "primary credit rate", "rate hike", "rate cut", "peak rate",
+        "administered rates", "neutral rate", "r-star", "real interest rate"
+    ],
+    "Inflation": [
+        "inflation", "headline inflation", "core inflation", "PCE", "CPI",
+        "PCE deflator", "price pressures", "sticky inflation", "trimmed mean",
+        "transitory", "temporary factors", "energy prices"
+    ],
+    "Employment": [
+        "employment", "maximum employment", "nonfarm payrolls", "job gains",
+        "wage growth", "labor force participation", "labor market", "job openings",
+        "quits rate", "JOLTS", "participation rate"
+    ],
+    "Unemployment": [
+        "unemployment", "unemployment rate", "job losses",
+        "jobless claims", "initial claims", "continuing claims"
+    ],
+    "GDP": [
+        "GDP", "gross domestic product", "real GDP", "nominal GDP",
+        "output gap", "economic growth", "growth rate", "potential GDP"
+    ],
+    "Trade": [
+        "trade policy", "tariffs", "imports", "exports", "trade deficit",
+        "current account", "net exports"
+    ],
+    "Congress": [
+        "Congress", "the Hill", "lawmakers", "legislation",
+        "domestic policy directive", "fiscal support", "appropriations"
+    ],
+    "Monetary Policy": [
+        "monetary policy", "forward guidance", "policy normalization",
+        "quantitative easing", "QE", "quantitative tightening", "QT",
+        "dual mandate", "post-meeting statement", "press release"
+    ],
+    "Financial Stability": [
+        "financial stability", "systemic risk", "stress testing", "resilience"
+    ],
+    "Price Stability": [
+        "price stability", "inflation target", "price stability framework"
+    ],
+    "Regulatory Implementation": [
+        "regulatory implementation", "supervision", "capital requirements",
+        "Basel III"
+    ],
+    "Pandemic": [
+        "pandemic", "COVID-19", "public health", "Delta", "Omicron"
+    ],
+    "Asset Runoff": [
+        "asset runoff", "runoff", "balance sheet roll-off", "unwind"
+    ],
+    "Reinvestment": [
+        "reinvestment", "rollover", "reinvest all principal payments"
+    ],
+    "Money Market": [
+        "money market", "market liquidity", "tri-party repo", "secured funding"
+    ],
+    "Bond Market": [
+        "bond market", "Treasury yields", "term premium", "yield curve",
+        "coupon rate"
+    ],
+    "Equity Markets": [
+        "equity markets", "stock market", "market indices", "equity valuations"
+    ],
+    "Financial Markets": [
+        "financial markets", "financial conditions", "market functioning",
+        "flight to safety", "liquidity conditions"
+    ],
+    "Repo Markets": [
+        "repo markets", "repurchase agreement", "RRP", "ON RRP",
+        "standing repo facility"
+    ],
+    "Fiscal Policy": [
+        "fiscal policy", "fiscal stimulus", "stimulus package", "CARES Act"
+    ],
+    "Balance Sheet": [
+        "balance sheet", "asset holdings", "size of balance sheet", "footprint"
+    ],
+    "Reserves": [
+        "reserves", "reserve balances", "required reserves", "excess reserves"
+    ],
+    "Digital Dollar": [
+        "digital dollar", "central bank digital currency", "CBDC"
+    ],
+    "Foreign Currencies": [
+        "foreign currencies", "FX", "foreign exchange", "US dollar depreciation",
+        "US dollar appreciation"
+    ],
+    "Federal Funds": [
+        "federal funds target", "effective federal funds rate", "EFFR"
+    ],
+    "Demand": [
+        "demand", "consumer spending", "personal consumption expenditures",
+        "investment demand"
+    ],
+    "Securities": [
+        "securities", "Treasury securities", "agency debt", "agency MBS",
+        "mortgage-backed securities", "corporate securities"
+    ],
+    "War": [
+        "war", "geopolitical risk", "conflict", "Ukraine", "Russia-Ukraine"
+    ],
+    "Finance": [
+        "finance", "financial flows", "interbank market", "banking sector"
+    ],
+    "Debt": [
+        "debt", "sovereign debt", "corporate debt", "household debt"
+    ],
+    "Mortgage": [
+        "mortgage", "mortgage rates", "MBS"
+    ],
+    "Maturity": [
+        "maturity", "residual maturity", "weighted average maturity"
+    ],
+    "Credit": [
+        "credit", "credit conditions", "credit spreads", "investment-grade",
+        "junk bonds"
+    ],
+    "Labor Market": [
+        "labor market", "labor market slack", "tightness", "conditions"
+    ],
+    "Auction": [
+        "auction", "Treasury auction", "coupon auction"
+    ],
+    "Press Conference": [
+        "press conference", "Q&A", "transcript"
+    ],
+    "Banking System": [
+        "banking system", "depository institutions", "commercial banks"
+    ],
+    "Uncertain": [
+        "uncertain", "uncertainty", "downside risk", "risk management"
+    ],
+    "Development": [
+        "development", "structural developments"
+    ],
+    "Economic Outlook": [
+        "economic outlook", "outlook", "projections", "forecasts",
+        "Summary of Economic Projections", "SEP"
+    ]
+}
