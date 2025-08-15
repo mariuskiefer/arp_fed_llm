@@ -42,7 +42,7 @@ OUTPUT_DIR = "./finbert-finetuned"
 LOG_DIR = "./logs"
 
 TEST_SIZE_INTERNAL = 0.2
-HOLDOUT_RATIO = 0.10
+HOLDOUT_RATIO = 0.30
 
 NUM_EPOCHS = 10
 BATCH_SIZE = 16
@@ -51,10 +51,10 @@ WARMUP_RATIO = 0.1
 
 # CV (quick sweep)
 CV_SUBSET_FRACTION = 0.3
-CV_NUM_EPOCHS = 2
+CV_NUM_EPOCHS = 4
 CV_PARAM_GRID = {
     "learning_rate": [1e-5, 2e-5, 3e-5],
-    "WINDOW": [4, 6, 8],
+    "WINDOW": [2, 4, 6, 8, 10],
 }
 CV_RANDOM_STATE = 42
 

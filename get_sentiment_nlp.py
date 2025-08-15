@@ -18,9 +18,9 @@ from transformers import AutoTokenizer, AutoModel
 FINETUNED_DIR = "./finbert-finetuned"         # must match trainer OUTPUT_DIR
 BASE_MODEL_NAME = "yiyanghkust/finbert-tone"  # encoder/tokenizer source
 CUSTOM_ENTITIES_PATH = "custom_entities.json"
-DEF_WINDOW = 4
+DEF_WINDOW = 10
 DEF_MIN_RATIO = 0.68
-DECISION_THRESHOLD = 0.60
+DECISION_THRESHOLD = 0.55
 
 # ------------------------------
 # Load label mapping (score<->label) saved by the trainer
