@@ -71,7 +71,7 @@ USE_ENTITY_PREFIX = True
 
 # Ordinal threshold tuning (Branch A)
 ENABLE_GLOBAL_THRESHOLD_TUNING = True
-THRESH_GRID = [0.40, 0.45, 0.50, 0.55, 0.60]
+THRESH_GRID = [0.30, 0.35, 0.40, 0.45, 0.50, 0.55, 0.60, 0.65, 0.70]
 LAST_BEST_THRESHOLD = 0.50
 
 # Sample weighting (Branch B)
@@ -605,13 +605,23 @@ def train_full_model(flat_df: pd.DataFrame, score_to_label: dict, lr: float, win
 # -----------------
 # remove a file if it exists
 def rm(path: str):
-    try: os.remove(path)
-    except FileNotFoundError: pass
+    try:
+        if os.path.isdir(path):
+            shutil.rmtree(path)
+        else:
+            os.remove(path)
+    except FileNotFoundError:
+        pass
+    except PermissionError as e:
+        print(f"[WARN] Could not delete {path}: {e}")
 
-# nuke CV result artifacts generated earlier
 def cleanup_cv_files():
     rm("cv_results.csv")
     rm("best_params.json")
+    if os.path.exists(OUTPUT_DIR):
+        for fname in os.listdir(OUTPUT_DIR):
+            if fname.startswith("checkpoint"):
+                rm(os.path.join(OUTPUT_DIR, fname))
 
 # -----------------
 # Main

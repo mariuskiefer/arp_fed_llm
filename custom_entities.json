@@ -1,22 +1,25 @@
 {
     "Federal Reserve": [
         "Federal Reserve", "the Fed", "FOMC", "Federal Open Market Committee",
-        "Board of Governors", "Open Market Desk", "System Open Market Account", "SOMA"
+        "Federal Open Market Committee(FOMC)", "Board of Governors", 
+        "Open Market Desk", "System Open Market Account", "SOMA", "Board",
+        "Chair", "Powell"
     ],
     "Interest Rates": [
         "interest rates", "policy rate", "federal funds rate", "effective federal funds rate",
         "discount rate", "primary credit rate", "rate hike", "rate cut", "peak rate",
-        "administered rates", "neutral rate", "r-star", "real interest rate"
+        "administered rates", "neutral rate", "r-star", "real interest rate", "Overnight Rate"
     ],
     "Inflation": [
-        "inflation", "headline inflation", "core inflation", "PCE", "CPI",
+        "inflation", "headline inflation", "core inflation", 
+        "Personal Consumption Expenditures (PCE)","PCE", "CPI",
         "PCE deflator", "price pressures", "sticky inflation", "trimmed mean",
         "transitory", "temporary factors", "energy prices"
     ],
     "Employment": [
         "employment", "maximum employment", "nonfarm payrolls", "job gains",
-        "wage growth", "labor force participation", "labor market", "job openings",
-        "quits rate", "JOLTS", "participation rate"
+        "wage growth", "labor force participation", "job openings",
+        "quits rate", "JOLTS", "participation rate","HIRE"
     ],
     "Unemployment": [
         "unemployment", "unemployment rate", "job losses",
@@ -24,7 +27,7 @@
     ],
     "GDP": [
         "GDP", "gross domestic product", "real GDP", "nominal GDP",
-        "output gap", "economic growth", "growth rate", "potential GDP"
+        "output gap", "economic growth", "growth rate", "Growth","potential GDP"
     ],
     "Trade": [
         "trade policy", "tariffs", "imports", "exports", "trade deficit",
@@ -63,10 +66,11 @@
     ],
     "Bond Market": [
         "bond market", "Treasury yields", "term premium", "yield curve",
-        "coupon rate"
+        "coupon rate","Yields"
     ],
     "Equity Markets": [
-        "equity markets", "stock market", "market indices", "equity valuations"
+        "equity markets", "stock market", "market indices", "equity valuations",
+        "Equity Price"
     ],
     "Financial Markets": [
         "financial markets", "financial conditions", "market functioning",
@@ -74,16 +78,18 @@
     ],
     "Repo Markets": [
         "repo markets", "repurchase agreement", "RRP", "ON RRP",
-        "standing repo facility"
+        "standing repo facility", "Overnight Reverse Repurchase Agreement (ON RRP)",
+        "Repurchase Agreement (repo) Rates"
     ],
     "Fiscal Policy": [
         "fiscal policy", "fiscal stimulus", "stimulus package", "CARES Act"
     ],
     "Balance Sheet": [
-        "balance sheet", "asset holdings", "size of balance sheet", "footprint"
+        "balance sheet", "asset holdings", "size of balance sheet", "footprint",
+		"Balance", "Security holdings"
     ],
     "Reserves": [
-        "reserves", "reserve balances", "required reserves", "excess reserves"
+        "reserves", "reserve balances", "required reserves", "excess reserves"," Interest on Excess Reserves (IOER)"
     ],
     "Digital Dollar": [
         "digital dollar", "central bank digital currency", "CBDC"
@@ -123,7 +129,8 @@
         "junk bonds"
     ],
     "Labor Market": [
-        "labor market", "labor market slack", "tightness", "conditions"
+        "labor market", "labor market slack", "tightness", "conditions",
+        "Average Hourly Earnings"
     ],
     "Auction": [
         "auction", "Treasury auction", "coupon auction"
@@ -135,13 +142,16 @@
         "banking system", "depository institutions", "commercial banks"
     ],
     "Uncertain": [
-        "uncertain", "uncertainty", "downside risk", "risk management"
+        "uncertain", "uncertainty", "downside risk", "risk management", "Risk"
     ],
     "Development": [
         "development", "structural developments"
     ],
     "Economic Outlook": [
         "economic outlook", "outlook", "projections", "forecasts",
-        "Summary of Economic Projections", "SEP"
+        "Summary of Economic Projections", "SEP"," Economy"," Economic", "Expectation",
+        " Cyclically Sensitive Sectors"
+    ],
+"Countries": [
     ]
 }
