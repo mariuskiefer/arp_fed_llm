@@ -45,7 +45,7 @@ def flatten_pred_struct(results):
     return pd.DataFrame(rows)
 
 # ---------------------------
-# compute and print metrics (overall + per-entity) including MAE and baseline MAE
+# compute and print metrics (overall + per-entity) including MAE and baselines
 def compute_and_print_metrics(name, merged, score_to_label):
     def to_label(x):
         try:
@@ -59,6 +59,7 @@ def compute_and_print_metrics(name, merged, score_to_label):
         print(f"\n== {name} ==\nNo comparable predictions after alignment.")
         return
 
+    # classification labels
     df["y_true"] = df["true_score"].apply(to_label)
     df["y_pred"] = df["pred_score"].apply(to_label)
     df = df.dropna(subset=["y_true", "y_pred"]).astype({"y_true": int, "y_pred": int})
@@ -72,24 +73,32 @@ def compute_and_print_metrics(name, merged, score_to_label):
     weighted = f1_score(df["y_true"], df["y_pred"], average="weighted", labels=labels_sorted)
     acc = accuracy_score(df["y_true"], df["y_pred"])
 
-    # MAE for model predictions
-    df_scores = df[["true_score", "pred_score"]].dropna().copy()
-    mae = float(np.mean(np.abs(df_scores["pred_score"].astype(float) - df_scores["true_score"].astype(float))))
+    # MAE for model predictions (work in raw score space)
+    y_true = df["true_score"].astype(float).to_numpy()
+    y_pred = df["pred_score"].astype(float).to_numpy()
+    mae = float(np.mean(np.abs(y_pred - y_true)))
 
-    # Baseline MAE: always predict 0.33
-    baseline_preds = [0.33] * len(df_scores)
-    baseline_mae = mean_absolute_error(df_scores["true_score"], baseline_preds)
+    # --- Baselines (computed from THIS eval set) ---
+    # Majority-class (mode) baseline for MAE
+    mode_score = float(pd.Series(y_true).mode().iloc[0])  # if tie, picks first mode
+    mae_mode = float(np.mean(np.abs(mode_score - y_true)))
+
+    # MAE-optimal constant baseline (median)
+    median_score = float(np.median(y_true))
+    mae_median = float(np.mean(np.abs(median_score - y_true)))
 
     print(f"\n== {name} ==  (n={len(df)})")
-    print(f"Accuracy        : {acc:.4f}")
-    print(f"Macro F1        : {macro:.4f}")
-    print(f"Micro F1        : {micro:.4f}")
-    print(f"Weighted F1     : {weighted:.4f}")
-    print(f"MAE (model)     : {mae:.4f}")
-    print(f"MAE (baseline)  : {baseline_mae:.4f}")
-    print(f"Improvement vs baseline: {baseline_mae - mae:.4f}")
+    print(f"Accuracy              : {acc:.4f}")
+    print(f"Macro F1              : {macro:.4f}")
+    print(f"Micro F1              : {micro:.4f}")
+    print(f"Weighted F1           : {weighted:.4f}")
+    print(f"MAE (model)           : {mae:.4f}")
+    print(f"MAE (majority baseline: predict {mode_score:+.2f}) : {mae_mode:.4f}  "
+          f"(Δ vs model = {mae_mode - mae:+.4f})")
+    print(f"MAE (median   baseline: predict {median_score:+.2f}) : {mae_median:.4f}  "
+          f"(Δ vs model = {mae_median - mae:+.4f})")
 
-    # per-entity breakdown
+    # per-entity breakdown (classification view)
     print("\n-- Per-entity (macro F1 / acc / support) --")
     per_rows = []
     for ent, sub in df.groupby("entity"):
