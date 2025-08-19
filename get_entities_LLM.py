@@ -1,102 +1,50 @@
-#%%
-import pandas as pd
-import ast
-import os
-import re
+# Fast, concurrent, vocab-constrained NER via DeepSeek.
+# Output: [{"sentence": str, "entities": [str, ...]}, ...]
+# Requires: pip install python-dotenv openai
+
 from openai import OpenAI
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
-#%%
-entity_vocab = ['Federal Reserve', 'Interest Rates', 'Inflation', 'Employment', 'Unemployment', 'GDP', 
-                'Trade', 'Congress', 'Monetary Policy', 'Financial Stability', 
-                'Price Stability', 'Regulatory Implementation', 'Pandemic', 'Asset Runoff', 
-                'Reinvestment', 'Money Market', 'Bond Market', 'Equity Markets', 
-                'Financial Markets', 'Repo Markets', 'Fiscal Policy', 'Balance Sheet', 
-                'Reserves', 'Digital Dollar', 'Foreign Currencies', 'Federal Funds', 'Demand', 
-                'Securities', 'War', 'Finance', 'Debt', 'Mortgage', 'Maturity', 'Credit', 
-                'Labor Market', 'Auction', 'Press Conference', 'Banking System', 'Uncertain', 
-                'Development', 'Economic Outlook', 'Countries']
+import os, re, ast, time
 
-#%% --- Setup OpenAI client ---
+# ------------------------------
+# Config: speed / stability
+# ------------------------------
+MAX_CONCURRENCY = 12   # higher parallelism -> faster (tune if you hit rate limits)
+TEMP = 0.0             # deterministic extraction
+TOP_P = 0.9
+MAX_TOKENS = 96        # small budget is enough for a short JSON list
+RETRY_ONCE = True
+RETRY_BACKOFF_SEC = 0.8
+
+# ------------------------------
+# Vocab (constrained label set)
+# ------------------------------
+entity_vocab = [
+    'Federal Reserve', 'Interest Rates', 'Inflation', 'Employment', 'Unemployment', 'GDP',
+    'Trade', 'Congress', 'Monetary Policy', 'Financial Stability', 'Price Stability',
+    'Regulatory Implementation', 'Pandemic', 'Asset Runoff', 'Reinvestment', 'Money Market',
+    'Bond Market', 'Equity Markets', 'Financial Markets', 'Repo Markets', 'Fiscal Policy',
+    'Balance Sheet', 'Reserves', 'Digital Dollar', 'Foreign Currencies', 'Federal Funds',
+    'Demand', 'Securities', 'War', 'Finance', 'Debt', 'Mortgage', 'Maturity', 'Credit',
+    'Labor Market', 'Auction', 'Press Conference', 'Banking System', 'Uncertain',
+    'Development', 'Economic Outlook', 'Countries'
+]
+_VOCAB_SET = set(entity_vocab)
+
+# ------------------------------
+# Client
+# ------------------------------
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"), base_url="https://api.deepseek.com")
+_api_key = os.getenv("OPENAI_API_KEY")
+if not _api_key:
+    raise RuntimeError("OPENAI_API_KEY environment variable is not set.")
+client = OpenAI(api_key=_api_key, base_url="https://api.deepseek.com")
 
-#%%
-# Define few-shot examples as a string
-few_shot = """\
-Sentence: We didn't take too much signal out of that.
-Entities: []
-
-Sentence: The Federal Reserve raised interest rates to combat inflation, but the move sparked concerns about economic growth.
-Entities: ['Federal Reserve', 'Interest Rates', 'Inflation', 'Monetary Policy', 'Economic Outlook', 'GDP', 'Federal Funds']
-
-Sentence: The virus and the measures taken to protect public health are inducing sharp declines in economic activity and a surge in job losses.
-Entities: ['Employment', 'Unemployment', 'Economic Outlook', 'Pandemic']
-
-Sentence: They noted, however, that economic activity and employment were currently well below levels consistent with maximum employment.
-Entities: ['Employment', 'GDP']
-
-Sentence: The invasion and related events are creating additional upward pressure on inflation and are likely to weigh on economic activity.
-Entities: ['Inflation', 'Economic Outlook', 'War']
-
-Sentence: And will you be setting up the process for deciding that sooner, or will you wait until we're close to the end?
-Entities: []
-
-Sentence: The Committee will closely monitor market conditions and is prepared to adjust its plans as appropriate.
-Entities: ['Federal Reserve', 'Monetary Policy', 'Economic Outlook']
-
-Sentence: Markets reacted positively after the Federal Reserve indicated a pause in its tightening cycle.
-Entities: ['Federal Reserve', 'Monetary Policy', 'Financial Markets', 'Economic Outlook']
-
-Sentence: The central bank’s bond purchases were aimed at supporting market liquidity.
-Entities: ['Federal Reserve', 'Monetary Policy', 'Financial Stability']
-
-Sentence: Quantitative easing has helped keep borrowing costs low and stabilize the economy.
-Entities: ['Monetary Policy', 'Financial Stability', 'GDP']
-
-Sentence: After multiple rounds of tightening, the markets are bracing for the Fed’s next move.
-Entities: ['Monetary Policy', 'Financial Markets', 'Federal Reserve']
-
-"""
-
-# Define prompt construction function using the few_shot string
-def _build_prompt(few_shot, target_sentence):
-    target = f"Sentence: {target_sentence}\nEntities:"
-    return few_shot.strip() + "\n\n" + target
-
-
-def _extract_entities_from_response(response_text):
-    match = re.search(r"\[.*?\]", response_text)
-    if match:
-        return match.group(0)
-    return "[]"
-'''
-system_prompt = (
-    "You are a financial named entity recognition (NER) assistant.\n"
-    "Your task is to extract only relevant named entities from a given sentence.\n"
-    "You MUST select entities exclusively from the provided list.\n"
-    "Do not create new entities, synonyms, or paraphrased terms.\n"
-    "If no matching entities are found in the sentence, return an empty list.\n"
-    "Always return a valid Python list of exact entity strings from the list.\n\n"
-    "Respond ONLY with the list. Do NOT explain your reasoning or output any additional text.\n\n"
-    "Here is the list of all allowed entities:\n"
-    f"{', '.join(entity_vocab)}"
-)
-
-system_prompt = (
-    "You are a financial named entity recognition (NER) assistant.\n"
-    "Your task is to extract only relevant named entities from a given sentence.\n"
-    "You MUST select entities exclusively from the provided list.\n"
-    "These entities may be explicitly mentioned or implicitly implied through financial context, technical terminology, or paraphrased references.\n"
-    "Be sensitive to indirect mentions — if a sentence clearly refers to an entity's function, purpose, or impact, extract it.\n"
-    "Do not invent entities beyond the list.\n"
-    "If no matching entities are found, return an empty list.\n"
-    "Always return a valid Python list of exact entity strings from the list.\n\n"
-    "Respond ONLY with the list. Do NOT explain your reasoning or output any additional text.\n\n"
-    f"Here is the list of all allowed entities:\n{', '.join(entity_vocab)}"
-)
-'''
-
-system_prompt = (
+# ------------------------------
+# Prompt (strengthened recall; still compact)
+# ------------------------------
+_SYSTEM_PROMPT = (
     "You are a financial named entity recognition (NER) assistant.\n"
     "Your task is to extract all relevant financial entities from a given sentence.\n"
     "You MUST select entities exclusively from the provided list.\n"
@@ -114,46 +62,131 @@ system_prompt = (
     "- If no matching entity is present, return an empty list\n"
     "- If an entity is mentioned multiple times, include it only once\n\n"
     "Respond ONLY with the list. Do NOT explain your reasoning or output any additional text.\n\n"
-    f"Here is the list of all allowed entities:\n{', '.join(entity_vocab)}"
+    f"Here is the list of all allowed entities:\n{', '.join(entity_vocab)}\n\n"
+    "Here are examples to guide you:\n\n"
+    "Sentence: We didn't take too much signal out of that.\n"
+    "Entities: []\n\n"
+    "Sentence: The Federal Reserve raised interest rates to combat inflation, but the move sparked concerns about economic growth.\n"
+    "Entities: ['Federal Reserve', 'Interest Rates', 'Inflation', 'Monetary Policy', 'Economic Outlook', 'GDP', 'Federal Funds']\n\n"
+    "Sentence: The virus and the measures taken to protect public health are inducing sharp declines in economic activity and a surge in job losses.\n"
+    "Entities: ['Employment', 'Unemployment', 'Economic Outlook', 'Pandemic']\n\n"
+    "Sentence: They noted, however, that economic activity and employment were currently well below levels consistent with maximum employment.\n"
+    "Entities: ['Employment', 'GDP']\n\n"
+    "Sentence: The invasion and related events are creating additional upward pressure on inflation and are likely to weigh on economic activity.\n"
+    "Entities: ['Inflation', 'Economic Outlook', 'War']\n\n"
+    "Sentence: And will you be setting up the process for deciding that sooner, or will you wait until we're close to the end?\n"
+    "Entities: []\n\n"
+    "Sentence: The Committee will closely monitor market conditions and is prepared to adjust its plans as appropriate.\n"
+    "Entities: ['Federal Reserve', 'Monetary Policy', 'Economic Outlook']\n\n"
+    "Sentence: Markets reacted positively after the Federal Reserve indicated a pause in its tightening cycle.\n"
+    "Entities: ['Federal Reserve', 'Monetary Policy', 'Financial Markets', 'Economic Outlook']\n\n"
+    "Sentence: The central bank’s bond purchases were aimed at supporting market liquidity.\n"
+    "Entities: ['Federal Reserve', 'Monetary Policy', 'Financial Stability']\n\n"
+    "Sentence: Quantitative easing has helped keep borrowing costs low and stabilize the economy.\n"
+    "Entities: ['Monetary Policy', 'Financial Stability', 'GDP']\n\n"
+    "Sentence: After multiple rounds of tightening, the markets are bracing for the Fed’s next move.\n"
+    "Entities: ['Monetary Policy', 'Financial Markets', 'Federal Reserve']\n"
 )
 
+def _user_prompt(sentence: str) -> str:
+    # Keep user content tiny to reduce tokens.
+    return f"Sentence: {sentence}\nEntities:"
 
-def _predict_entities(sentence):
-    prompt = _build_prompt(few_shot, sentence)
-    try:
-        response = client.chat.completions.create(
-            model="deepseek-chat",
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": prompt}
-            ],
-            stream=False
-        )
-        content = response.choices[0].message.content.strip()
-        return _extract_entities_from_response(content)
-    except Exception as e:
-        print("Error:", e)
+# ------------------------------
+# Lightweight parsing
+# ------------------------------
+_BRACKETS_RE = re.compile(r"\[.*?\]", re.S)
+
+def _extract_entities_from_response(text: str):
+    # Extract the first JSON array found; fallback to [].
+    if not text:
         return "[]"
+    m = _BRACKETS_RE.search(text)
+    return m.group(0) if m else "[]"
 
-def _parse_pred(pred):
+def _parse_list(pred: str):
+    # Convert string like "['A','B']" to Python list safely.
     try:
-        return ast.literal_eval(pred)
-    except:
+        arr = ast.literal_eval(pred)
+        return arr if isinstance(arr, list) else []
+    except Exception:
         return []
 
+def _filter_to_vocab(unique_list):
+    # Deduplicate in order and keep only vocab entries.
+    seen = set()
+    out = []
+    for x in unique_list:
+        if x in _VOCAB_SET and x not in seen:
+            seen.add(x)
+            out.append(x)
+    return out
+
+# ------------------------------
+# Single call with simple retry
+# ------------------------------
+def _predict_once(sentence: str) -> list:
+    resp = client.chat.completions.create(
+        model="deepseek-chat",
+        messages=[
+            {"role": "system", "content": _SYSTEM_PROMPT},
+            {"role": "user", "content": _user_prompt(sentence)}
+        ],
+        temperature=TEMP,
+        top_p=TOP_P,
+        max_tokens=MAX_TOKENS,
+        stream=False
+    )
+    content = (resp.choices[0].message.content or "").strip()
+    raw_list = _extract_entities_from_response(content)
+    return _filter_to_vocab(_parse_list(raw_list))
+
+def _predict_with_retry(sentence: str) -> list:
+    try:
+        return _predict_once(sentence)
+    except Exception:
+        if not RETRY_ONCE:
+            return []
+        time.sleep(RETRY_BACKOFF_SEC)
+        try:
+            return _predict_once(sentence)
+        except Exception:
+            return []
+
+# ------------------------------
+# Public API
+# ------------------------------
 def extract_llm_entities(sentences):
     """
-    Given a list of sentences, returns a list of dicts:
-    [{"sentence": <sentence>, "entities": [<entity1>, <entity2>, ...]}, ...]
+    Input:  List[str]
+    Output: [{"sentence": <sentence>, "entities": [<entity>, ...]}, ...]
     """
-    results = []
-    for sent in sentences:
-        raw = _predict_entities(sent)
-        entities = _parse_pred(raw)
-        results.append({
-            "sentence": sent,
-            "entities": entities
-        })
-    return results
+    if not sentences:
+        return []
 
-# %%
+    # Deduplicate sentences to avoid redundant calls (cache hits are O(1))
+    unique = []
+    idx_map = {}
+    for i, s in enumerate(sentences):
+        if s not in idx_map:
+            idx_map[s] = len(unique)
+            unique.append(s)
+
+    cache = [None] * len(unique)
+
+    def _worker(j, s):
+        ents = _predict_with_retry(s)
+        cache[j] = ents
+
+    workers = min(MAX_CONCURRENCY, max(1, len(unique)))
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futures = [ex.submit(_worker, idx_map[s], s) for s in idx_map.keys()]
+        for _ in as_completed(futures):
+            pass  # results are stored in cache
+
+    # Rebuild in original order
+    out = []
+    for s in sentences:
+        ents = cache[idx_map[s]] or []
+        out.append({"sentence": s, "entities": ents})
+    return out

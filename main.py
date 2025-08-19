@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
     t0_total = time.perf_counter()
 
-    method = input("Which entity extraction method do you want to use? (llm/nlp): ").strip().lower()
+    method = input("Which entity extraction method do you want to use? (llm/nlp/ftnlp): ").strip().lower()
     t0_entities = time.perf_counter()
     if method == "nlp":
         entity_results = extract_nlp_entities(sentences)
