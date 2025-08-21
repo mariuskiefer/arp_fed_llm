@@ -1,6 +1,9 @@
 import warnings
 warnings.filterwarnings("ignore")
 
+# make sure the right model is used: Include debug output for terminal
+
+
 import os
 import re
 import json
