@@ -103,7 +103,7 @@ secrets.*
 # Ignore fine-tuned model outputs
 #finbert-finetuned/
 #logs/
-sentiment_output.json
+/sentiment_output.json
 
 # Ignore Hugging Face cache
 .huggingface/
