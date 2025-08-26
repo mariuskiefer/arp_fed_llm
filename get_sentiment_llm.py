@@ -51,48 +51,58 @@ def _score_from_bin_or_raw(v, name_nonempty: bool):
 SYSTEM_MSG = (
     "You are analyzing Federal Reserve press conference transcripts for aspect-based sentiment analysis.\n"
     "\n"
-    "SENTIMENT SCALE: Use integer bins from -3 to 3 for each entity. USE THE FULL RANGE - don't cluster around 0!\n"
-    "• -3: Very negative (major concerns, significant deterioration, severe problems)\n"
-    "• -2: Negative (concerns, decline, weakness, challenges)\n" 
-    "• -1: Slightly negative (mild concerns, modest decline, some weakness)\n"
-    "• 0: Neutral (monitoring, observational, balanced, no clear direction)\n"
-    "• 1: Slightly positive (modest improvement, some progress, mild optimism)\n"
-    "• 2: Positive (improvement, progress, strength, confidence)\n"
-    "• 3: Very positive (significant improvement, strong performance, major progress)\n"
+    "SENTIMENT SCALE: Use integer bins from -3 to 3 for each entity.\n"
+    "• -3: Very negative → maps to -1.0 (major concerns, significant deterioration, severe problems)\n"
+    "• -2: Negative → maps to -0.66 (concerns, decline, weakness, challenges)\n" 
+    "• -1: Slightly negative → maps to -0.33 (mild concerns, modest decline, some weakness)\n"
+    "• 0: Neutral → maps to 0.0 (monitoring, observational, balanced, no clear direction)\n"
+    "• 1: Slightly positive → maps to 0.33 (modest improvement, some progress, mild optimism)\n"
+    "• 2: Positive → maps to 0.66 (improvement, progress, strength, confidence)\n"
+    "• 3: Very positive → maps to 1.0 (significant improvement, strong performance, major progress)\n"
     "\n"
-    "FINANCIAL CONTEXT RULES:\n"
-    "• Interest rates: Rising = negative sentiment, Falling = positive sentiment\n"
-    "• Inflation: Rising = negative sentiment, Falling = positive sentiment\n"
-    "• Unemployment: Rising = negative sentiment, Falling = positive sentiment\n"
-    "• Securities/Assets/Markets: Rising = positive sentiment, Falling = negative sentiment\n"
-    "• GDP/Economic Growth: Rising = positive sentiment, Falling = positive sentiment\n"
+    "TARGET DISTRIBUTION: In Federal Reserve contexts, expect roughly:\n"
+    "• 10-15% extreme ratings (±3): Use for 'major', 'significant', 'substantial' language\n"
+    "• 20-25% strong ratings (±2): Use for clear directional statements\n"
+    "• 30-35% mild ratings (±1): Use for 'modest', 'some', 'slight' language\n"
+    "• 15-25% neutral (0): Only for pure monitoring/observational statements\n"
     "\n"
-    "INTENSITY GUIDELINES - BE BOLD WITH YOUR RATINGS:\n"
-    "• Strong language ('significant', 'substantial', 'major', 'considerable') → MUST use ±2 or ±3\n"
-    "• Weak language ('slight', 'modest', 'gradual', 'some') → use ±1\n"
-    "• Concern language ('serious concerns', 'substantial risks', 'major challenges') → MUST use -2 or -3\n"
-    "• Positive language ('strong progress', 'significant improvement', 'robust growth') → MUST use +2 or +3\n"
-    "• Action verbs ('declined', 'increased', 'improved', 'deteriorated') indicate stronger sentiment\n"
-    "• Only use 0 for truly neutral monitoring statements with no directional implication\n"
+    "FINANCIAL CONTEXT - DIRECTIONAL SENTIMENT:\n"
+    "• Interest rates UP = negative (-1 to -3), DOWN = positive (+1 to +3)\n"
+    "• Inflation UP = negative (-1 to -3), DOWN = positive (+1 to +3)\n"
+    "• Unemployment UP = negative (-1 to -3), DOWN = positive (+1 to +3)\n"
+    "• Markets/GDP UP = positive (+1 to +3), DOWN = negative (-1 to -3)\n"
     "\n"
-    "IMPORTANT: Avoid clustering around 0. Use the full scale. If there's any directional sentiment, use at least ±1.\n"
+    "MANDATORY TRIGGERS FOR EXTREME RATINGS:\n"
+    "• MUST use -3: 'severe', 'major concerns', 'significant deterioration', 'substantial decline'\n"
+    "• MUST use -2: 'concerns', 'decline', 'weakness', 'challenges', 'risks'\n"
+    "• MUST use +2: 'improvement', 'progress', 'strength', 'confidence', 'gains'\n"
+    "• MUST use +3: 'significant improvement', 'strong performance', 'robust growth', 'substantial progress'\n"
+    "\n"
+    "CRITICAL: Federal Reserve language is often understated. 'Modest' concerns may actually be -2. 'Some' progress may be +2.\n"
+    "Don't be conservative - use the full range or your analysis will be useless.\n"
     "\n"
     "OUTPUT: Return JSON only in format {\"results\":[{\"i\":<int>, \"bins\":[...]}, ...]}.\n"
     "Maintain exact order and length as input entities."
 )
 
 FEW_SHOT_DEMO = {
-    "Example": {
+    "Extreme_Example": {
         "i": 9999,
-        "s": "Officials expressed serious concerns about persistent inflation while noting significant progress in employment recovery.",
-        "e": ["Inflation", "Employment", "Monetary Policy", "Economic Recovery"],
-        "bins": [-2, 2, -1, 2]
+        "s": "The Committee expressed major concerns about persistent inflationary pressures while acknowledging robust employment gains and substantial economic recovery.",
+        "e": ["Inflation", "Employment", "Economic Recovery", "Monetary Policy"],
+        "bins": [-3, 3, 2, -2]
     },
-    "Example_2": {
+    "Moderate_Example": {
         "i": 9998,
-        "s": "The Committee decided to maintain the target range while monitoring developments.",
-        "e": ["Monetary Policy", "Federal Reserve"],
-        "bins": [0, 0]
+        "s": "Officials noted some decline in inflation expectations and modest improvement in labor market conditions.",
+        "e": ["Inflation", "Labor Market"],
+        "bins": [2, 1]
+    },
+    "Neutral_Example": {
+        "i": 9997,
+        "s": "The Committee will continue to monitor economic developments.",
+        "e": ["Economic Outlook"],
+        "bins": [0]
     }
 }
 
