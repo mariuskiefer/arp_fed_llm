@@ -27,8 +27,8 @@ BASE_MAX_TOKENS   = 260
 RETRY_TOKEN_BONUS = 240
 PER_ITEM_BASE_TOK = 84
 PER_ITEM_BONUS    = 160
-TEMP              = 0.42
-TOP_P             = 0.95
+TEMP              = 0.75
+TOP_P             = 0.90
 
 _BIN_TO_SCORE = {-3:-1.0, -2:-0.66, -1:-0.33, 0:0.0, 1:0.33, 2:0.66, 3:1.0}
 
@@ -49,25 +49,50 @@ def _score_from_bin_or_raw(v, name_nonempty: bool):
 
 # --- instruction + demo ---
 SYSTEM_MSG = (
-    "You are analyzing *Federal Reserve press conference transcripts*.\n"
-    "Perform aspect-based sentiment analysis per entity. Sentiment should be mapped to [-1..1] using bins -3..3.\n"
-    "Interpret sentiment in a financial/economic context:\n"
-    "- Interest rates ↑ = negative; ↓ = positive.\n"
-    "- Inflation ↑ = negative; ↓ = positive.\n"
-    "- Unemployment ↑ = negative; ↓ = positive.\n"
-    "- Securities, assets, market values ↑ = positive; ↓ = negative.\n"
-    "Observational/monitoring statements → neutral unless explicit valence.\n"
-    "Phrases like 'concerns about X' or 'combat/reduce X' → negative for X.\n"
-    "Return JSON only in the format {\"results\":[{\"i\":<int>, \"bins\":[...]}, ...]}.\n"
-    "Keep the same order/length as input entities."
+    "You are analyzing Federal Reserve press conference transcripts for aspect-based sentiment analysis.\n"
+    "\n"
+    "SENTIMENT SCALE: Use integer bins from -3 to 3 for each entity. USE THE FULL RANGE - don't cluster around 0!\n"
+    "• -3: Very negative (major concerns, significant deterioration, severe problems)\n"
+    "• -2: Negative (concerns, decline, weakness, challenges)\n" 
+    "• -1: Slightly negative (mild concerns, modest decline, some weakness)\n"
+    "• 0: Neutral (monitoring, observational, balanced, no clear direction)\n"
+    "• 1: Slightly positive (modest improvement, some progress, mild optimism)\n"
+    "• 2: Positive (improvement, progress, strength, confidence)\n"
+    "• 3: Very positive (significant improvement, strong performance, major progress)\n"
+    "\n"
+    "FINANCIAL CONTEXT RULES:\n"
+    "• Interest rates: Rising = negative sentiment, Falling = positive sentiment\n"
+    "• Inflation: Rising = negative sentiment, Falling = positive sentiment\n"
+    "• Unemployment: Rising = negative sentiment, Falling = positive sentiment\n"
+    "• Securities/Assets/Markets: Rising = positive sentiment, Falling = negative sentiment\n"
+    "• GDP/Economic Growth: Rising = positive sentiment, Falling = positive sentiment\n"
+    "\n"
+    "INTENSITY GUIDELINES - BE BOLD WITH YOUR RATINGS:\n"
+    "• Strong language ('significant', 'substantial', 'major', 'considerable') → MUST use ±2 or ±3\n"
+    "• Weak language ('slight', 'modest', 'gradual', 'some') → use ±1\n"
+    "• Concern language ('serious concerns', 'substantial risks', 'major challenges') → MUST use -2 or -3\n"
+    "• Positive language ('strong progress', 'significant improvement', 'robust growth') → MUST use +2 or +3\n"
+    "• Action verbs ('declined', 'increased', 'improved', 'deteriorated') indicate stronger sentiment\n"
+    "• Only use 0 for truly neutral monitoring statements with no directional implication\n"
+    "\n"
+    "IMPORTANT: Avoid clustering around 0. Use the full scale. If there's any directional sentiment, use at least ±1.\n"
+    "\n"
+    "OUTPUT: Return JSON only in format {\"results\":[{\"i\":<int>, \"bins\":[...]}, ...]}.\n"
+    "Maintain exact order and length as input entities."
 )
 
 FEW_SHOT_DEMO = {
     "Example": {
         "i": 9999,
-        "s": "Officials noted a slight uptick in inflation and modest progress in the labor market.",
-        "e": ["Inflation", "Labor Market", "Monetary Policy", "Price Stability"],
-        "bins": [-1, 1, 0, 1]
+        "s": "Officials expressed serious concerns about persistent inflation while noting significant progress in employment recovery.",
+        "e": ["Inflation", "Employment", "Monetary Policy", "Economic Recovery"],
+        "bins": [-2, 2, -1, 2]
+    },
+    "Example_2": {
+        "i": 9998,
+        "s": "The Committee decided to maintain the target range while monitoring developments.",
+        "e": ["Monetary Policy", "Federal Reserve"],
+        "bins": [0, 0]
     }
 }
 
