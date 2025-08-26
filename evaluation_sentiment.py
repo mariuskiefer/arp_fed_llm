@@ -1,6 +1,5 @@
 # eval_sentiment_both.py
 # Evaluate sentiment scoring (nlp + llm) on the holdout set using gold entities.
-# No aliasing/canonicalization; duplicates handled by per-sentence position index.
 
 import ast
 import json
@@ -12,7 +11,7 @@ from sklearn.metrics import f1_score, accuracy_score, mean_absolute_error
 from get_sentiment_nlp import extract_nlp_sentiment
 from get_sentiment_llm import extract_llm_sentiment
 
-HOLDOUT_CSV = "/Users/mariuskiefer/Desktop/arp_fed_llm/holdout_eval_set.csv"
+HOLDOUT_CSV = "holdout_eval_set.csv"
 
 # ---------------------------
 # parse the "Entities" cell -> ordered list[(entity, score)]

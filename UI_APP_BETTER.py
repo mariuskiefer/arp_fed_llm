@@ -403,7 +403,7 @@ if uploaded_file is not None:
 
         Requirements:
         - Capture the deeper meaning and policy implications, not just surface details.
-        - Highlight the Fed's tone, stance, and any signals about inflation, rates, or growth.
+        - Highlight the Fed's tone, stance, and any signals about inflation, rates, growth or securities.
         - Write for traders, economists, and finance creators who want time-saving insights.
         - Ensure the summary preserves the economic meaning of the full transcript.
 
