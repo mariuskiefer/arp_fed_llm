@@ -81,7 +81,8 @@ SYSTEM_MSG = (
     "CRITICAL: Federal Reserve language is often understated. 'Modest' concerns may actually be -2. 'Some' progress may be +2.\n"
     "Don't be conservative - use the full range or your analysis will be useless.\n"
     "\n"
-    "OUTPUT: Return JSON only in format {\"results\":[{\"i\":<int>, \"bins\":[...]}, ...]}.\n"
+    "OUTPUT: Return a single JSON object exactly of the form {\"results\":[{\"i\":<int>, \"bins\":[...]}, ...]}.\n"
+    "Do not output multiple JSON objects, code fences, or any text before/after the object.\n"
     "Maintain exact order and length as input entities."
 )
 
@@ -91,18 +92,6 @@ FEW_SHOT_DEMO = {
         "s": "The Committee expressed major concerns about persistent inflationary pressures while acknowledging robust employment gains and substantial economic recovery.",
         "e": ["Inflation", "Employment", "Economic Recovery", "Monetary Policy"],
         "bins": [-3, 3, 2, -2]
-    },
-    "Moderate_Example": {
-        "i": 9998,
-        "s": "Officials noted some decline in inflation expectations and modest improvement in labor market conditions.",
-        "e": ["Inflation", "Labor Market"],
-        "bins": [2, 1]
-    },
-    "Neutral_Example": {
-        "i": 9997,
-        "s": "The Committee will continue to monitor economic developments.",
-        "e": ["Economic Outlook"],
-        "bins": [0]
     }
 }
 
@@ -133,7 +122,10 @@ def _parse_json_obj(text: str) -> dict:
 def _batch_call(batch_payload, max_tokens=1500):
     prompt = {
         "Instructions": (
-            "For each element in 'Batch', return {\"i\":<i>, \"bins\":[...]}. "
+            "For each element in 'Batch', produce an item {\"i\":<i>, \"bins\":[...]}. "
+            "Respond with a single JSON object exactly of the form "
+            "{\"results\":[ ...items in the same order as 'Batch'... ]}. "
+            "Do not include multiple JSON objects, code fences, or any extra text. "
             "'bins' must match the length/order of 'e'. Allowed bins: -3..3."
         ),
         "Demo": FEW_SHOT_DEMO,
@@ -174,8 +166,8 @@ def _batch_call(batch_payload, max_tokens=1500):
 def _single_call(sentence: str, entities: list, max_tokens=1500):
     prompt = {
         "Instructions": (
-            "Return a JSON array of bins with the same length/order as 'Entities'. "
-            "Allowed bins: -3,-2,-1,0,1,2,3. If entity==\"\", return \"\"."
+            "Return a single JSON array of bins with the same length/order as 'Entities'. "
+            "No other text or objects. Allowed bins: -3,-2,-1,0,1,2,3. If entity==\"\", return \"\"."
         ),
         "Demo": FEW_SHOT_DEMO,
         "Sentence": sentence,
@@ -184,7 +176,7 @@ def _single_call(sentence: str, entities: list, max_tokens=1500):
     kwargs = dict(
         model="deepseek-chat",
         messages=[
-            {"role": "system", "content": "Output JSON array only; no prose."},
+            {"role": "system", "content": "Return a single JSON array only (no code fences, no prose, no extra keys)."},
             {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)}
         ],
         temperature=TEMP,
