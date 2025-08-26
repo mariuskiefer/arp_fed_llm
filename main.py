@@ -4,7 +4,7 @@ import time
 from get_sentiment_llm import extract_llm_sentiment
 from get_sentiment_nlp import extract_nlp_sentiment
 from get_entities_LLM import extract_llm_entities
-from get_entities_nlp import extract_nlp_entities
+#from get_entities_nlp import extract_nlp_entities
 from get_entities_ft_nlp import extract_ft_entities
 
 def _fmt_secs(s: float) -> str:
@@ -33,14 +33,14 @@ if __name__ == "__main__":
 
     t0_total = time.perf_counter()
 
-    method = input("Which entity extraction method do you want to use? (llm/nlp/ftnlp): ").strip().lower()
+    method = input("Which entity extraction method do you want to use? (llm/nlp): ").strip().lower()
     t0_entities = time.perf_counter()
+    #if method == "nlp":
+        #entity_results = extract_nlp_entities(sentences)
+        #entity_method_used = "nlp"
     if method == "nlp":
-        entity_results = extract_nlp_entities(sentences)
-        entity_method_used = "nlp"
-    elif method == "ftnlp":
         entity_results = extract_ft_entities(sentences)
-        entity_method_used = "ftnlp"
+        entity_method_used = "nlp"
     else:
         entity_results = extract_llm_entities(sentences)
         entity_method_used = "llm"
