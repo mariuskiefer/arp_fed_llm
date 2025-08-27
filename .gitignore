@@ -104,6 +104,7 @@ secrets.*
 #finbert-finetuned/
 #logs/
 /sentiment_output.json
+/runtime.ipynb
 
 # Ignore Hugging Face cache
 .huggingface/
