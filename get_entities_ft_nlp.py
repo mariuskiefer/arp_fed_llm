@@ -17,7 +17,6 @@ ENTITY_LIST = [
 ]
 
 def extract_ft_entities(sentences: List[str], threshold: float = 0.5):
-    #model_path = "/Users/yuan/Desktop/VisualStudio/Term3/ARP/FineTune_Traditional/arp_fed_llm/best_model_entities"
     
     base_dir = os.path.dirname(__file__) 
     model_path = os.path.join(base_dir, "best_model_entities")

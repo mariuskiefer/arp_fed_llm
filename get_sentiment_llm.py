@@ -228,8 +228,7 @@ def extract_llm_sentiment(items: list) -> list:
 
     logger.info(f"[extract] received items={len(items)} | with_entities={len(indexed)} | skipped={len(items)-len(indexed)}")
 
-    # fixed batch size = 20
-    chunk_size = 20
+    chunk_size = 20 # batch size
     chunks = [indexed[i:i + chunk_size] for i in range(0, len(indexed), chunk_size)]
     logger.info(f"[extract] batching | chunks={len(chunks)} | chunk_size≈{chunk_size}")
 

@@ -1,25 +1,20 @@
-# Fast, concurrent, vocab-constrained NER via DeepSeek.
-# Output: [{"sentence": str, "entities": [str, ...]}, ...]
-# Requires: pip install python-dotenv openai
+# Output format: [{"sentence": str, "entities": [str, ...]}, ...]
+# Note: Requires python-dotenv and openai packages.
 
 from openai import OpenAI
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 import os, re, ast, time
 
-# ------------------------------
-# Config: speed / stability
-# ------------------------------
-MAX_CONCURRENCY = 12   # higher parallelism -> faster (tune if you hit rate limits)
-TEMP = 0.0             # deterministic extraction
+# --- Configurable parameters for speed and reliability ---
+MAX_CONCURRENCY = 12   # Number of threads for parallel API calls
+TEMP = 0.0             # Set to 0 for deterministic results
 TOP_P = 0.9
-MAX_TOKENS = 96        # small budget is enough for a short JSON list
+MAX_TOKENS = 96        # Should be enough for a short JSON list
 RETRY_ONCE = True
 RETRY_BACKOFF_SEC = 0.8
 
-# ------------------------------
-# Vocab (constrained label set)
-# ------------------------------
+# --- Entity vocabulary (must match allowed labels) ---
 entity_vocab = [
     'Federal Reserve', 'Interest Rates', 'Inflation', 'Employment', 'Unemployment', 'GDP',
     'Trade', 'Congress', 'Monetary Policy', 'Financial Stability', 'Price Stability',
@@ -32,18 +27,14 @@ entity_vocab = [
 ]
 _VOCAB_SET = set(entity_vocab)
 
-# ------------------------------
-# Client
-# ------------------------------
+# --- Set up OpenAI/DeepSeek client ---
 load_dotenv()
 _api_key = os.getenv("OPENAI_API_KEY")
 if not _api_key:
     raise RuntimeError("OPENAI_API_KEY environment variable is not set.")
 client = OpenAI(api_key=_api_key, base_url="https://api.deepseek.com")
 
-# ------------------------------
-# Prompt (strengthened recall; still compact)
-# ------------------------------
+# --- Prompt for the LLM (includes instructions and examples) ---
 _SYSTEM_PROMPT = (
     "You are a financial named entity recognition (NER) assistant.\n"
     "Your task is to extract all relevant financial entities from a given sentence.\n"
@@ -89,23 +80,21 @@ _SYSTEM_PROMPT = (
 )
 
 def _user_prompt(sentence: str) -> str:
-    # Keep user content tiny to reduce tokens.
+    # User prompt is kept minimal to save tokens
     return f"Sentence: {sentence}\nEntities:"
 
-# ------------------------------
-# Lightweight parsing
-# ------------------------------
+# --- Helper for extracting the first bracketed list from LLM output ---
 _BRACKETS_RE = re.compile(r"\[.*?\]", re.S)
 
 def _extract_entities_from_response(text: str):
-    # Extract the first JSON array found; fallback to [].
+    # Try to find the first list in the response, fallback to empty list if not found
     if not text:
         return "[]"
     m = _BRACKETS_RE.search(text)
     return m.group(0) if m else "[]"
 
 def _parse_list(pred: str):
-    # Convert string like "['A','B']" to Python list safely.
+    # Safely parse a string like "['A','B']" into a Python list
     try:
         arr = ast.literal_eval(pred)
         return arr if isinstance(arr, list) else []
@@ -113,7 +102,7 @@ def _parse_list(pred: str):
         return []
 
 def _filter_to_vocab(unique_list):
-    # Deduplicate in order and keep only vocab entries.
+    # Remove duplicates and keep only valid vocab entities, preserving order
     seen = set()
     out = []
     for x in unique_list:
@@ -122,9 +111,7 @@ def _filter_to_vocab(unique_list):
             out.append(x)
     return out
 
-# ------------------------------
-# Single call with simple retry
-# ------------------------------
+# --- Core LLM call (single sentence, no retry) ---
 def _predict_once(sentence: str) -> list:
     resp = client.chat.completions.create(
         model="deepseek-chat",
@@ -141,6 +128,7 @@ def _predict_once(sentence: str) -> list:
     raw_list = _extract_entities_from_response(content)
     return _filter_to_vocab(_parse_list(raw_list))
 
+# --- Retry logic for robustness (one retry on failure) ---
 def _predict_with_retry(sentence: str) -> list:
     try:
         return _predict_once(sentence)
@@ -153,18 +141,18 @@ def _predict_with_retry(sentence: str) -> list:
         except Exception:
             return []
 
-# ------------------------------
-# Public API
-# ------------------------------
+# --- Main API: batch sentences, deduplicate, parallelize, preserve order ---
 def extract_llm_entities(sentences):
     """
-    Input:  List[str]
-    Output: [{"sentence": <sentence>, "entities": [<entity>, ...]}, ...]
+    Args:
+        sentences: List[str]
+    Returns:
+        List[{"sentence": <sentence>, "entities": [<entity>, ...]}]
     """
     if not sentences:
         return []
 
-    # Deduplicate sentences to avoid redundant calls (cache hits are O(1))
+    # Deduplicate sentences for efficiency (avoid redundant API calls)
     unique = []
     idx_map = {}
     for i, s in enumerate(sentences):
@@ -182,9 +170,9 @@ def extract_llm_entities(sentences):
     with ThreadPoolExecutor(max_workers=workers) as ex:
         futures = [ex.submit(_worker, idx_map[s], s) for s in idx_map.keys()]
         for _ in as_completed(futures):
-            pass  # results are stored in cache
+            pass  # All results are written to cache
 
-    # Rebuild in original order
+    # Restore original order and structure
     out = []
     for s in sentences:
         ents = cache[idx_map[s]] or []
